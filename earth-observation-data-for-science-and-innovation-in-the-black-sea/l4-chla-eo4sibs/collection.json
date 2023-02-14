@@ -6,7 +6,7 @@
   "links": [
     {
       "rel": "root",
-      "href": "/home/runner/work/osc-demo/osc-demo/dist/collection.json",
+      "href": "../../collection.json",
       "type": "application/json"
     },
     {
@@ -25,13 +25,8 @@
       "title": "Documentation"
     },
     {
-      "rel": "self",
-      "href": "https://constantinius.github.io/osc-demo/earth-observation-data-for-science-and-innovation-in-the-black-sea/l4-chla-eo4sibs/collection.json",
-      "type": "application/json"
-    },
-    {
       "rel": "parent",
-      "href": "https://constantinius.github.io/osc-demo/earth-observation-data-for-science-and-innovation-in-the-black-sea/collection.json",
+      "href": "../collection.json",
       "type": "application/json",
       "title": "EO4SIBS"
     }
@@ -57,16 +52,13 @@
   "created": "2021-12-31T00:00:00Z",
   "start_datetime": "2016-04-01T00:00:00Z",
   "end_datetime": "2017-12-31T23:59:59Z",
-  "updated": "2023-02-03T10:45:00Z",
   "extent": {
     "spatial": {
       "bbox": [
-        [
-          27.5070842233,
-          40.8729622599,
-          41.8106211165,
-          47.2684228286
-        ]
+        27.5070842233,
+        40.8729622599,
+        41.8106211165,
+        47.2684228286
       ]
     },
     "temporal": {
@@ -78,14 +70,5 @@
       ]
     }
   },
-  "license": "proprietary",
-  "assets": {
-    "iso-metadata": {
-      "href": "./iso.xml",
-      "type": "application/xml",
-      "roles": [
-        "metadata"
-      ]
-    }
-  }
+  "license": "proprietary"
 }

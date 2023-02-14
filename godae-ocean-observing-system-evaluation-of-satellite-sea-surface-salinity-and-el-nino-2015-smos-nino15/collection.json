@@ -6,7 +6,7 @@
   "links": [
     {
       "rel": "root",
-      "href": "/home/runner/work/osc-demo/osc-demo/dist/collection.json",
+      "href": "../collection.json",
       "type": "application/json"
     },
     {
@@ -21,18 +21,13 @@
     },
     {
       "rel": "child",
-      "href": "https://constantinius.github.io/osc-demo/godae-ocean-observing-system-evaluation-of-satellite-sea-surface-salinity-and-el-nino-2015-smos-nino15/sea-surface-salinity-godae-oceanview/collection.json",
+      "href": "./sea-surface-salinity-godae-oceanview/collection.json",
       "type": "application/json",
       "title": "Sea Surface Salinity Bias_Global_SMOS"
     },
     {
-      "rel": "self",
-      "href": "https://constantinius.github.io/osc-demo/godae-ocean-observing-system-evaluation-of-satellite-sea-surface-salinity-and-el-nino-2015-smos-nino15/collection.json",
-      "type": "application/json"
-    },
-    {
       "rel": "parent",
-      "href": "https://constantinius.github.io/osc-demo/collection.json",
+      "href": "../collection.json",
       "type": "application/json"
     }
   ],
@@ -57,7 +52,6 @@
   "osc:type": "Project",
   "start_datetime": "2016-07-27T00:00:00Z",
   "end_datetime": "2019-05-15T23:59:59Z",
-  "updated": "2023-02-03T10:45:00Z",
   "extent": {
     "spatial": {
       "bbox": [
@@ -73,14 +67,5 @@
       ]
     }
   },
-  "license": "proprietary",
-  "assets": {
-    "iso-metadata": {
-      "href": "https://constantinius.github.io/osc-demo/godae-ocean-observing-system-evaluation-of-satellite-sea-surface-salinity-and-el-nino-2015-smos-nino15/iso.xml",
-      "type": "application/xml",
-      "roles": [
-        "metadata"
-      ]
-    }
-  }
+  "license": "proprietary"
 }

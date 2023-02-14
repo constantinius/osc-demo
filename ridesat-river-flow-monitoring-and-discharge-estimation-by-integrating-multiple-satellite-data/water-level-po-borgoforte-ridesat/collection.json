@@ -6,7 +6,7 @@
   "links": [
     {
       "rel": "root",
-      "href": "/home/runner/work/osc-demo/osc-demo/dist/collection.json",
+      "href": "../../collection.json",
       "type": "application/json"
     },
     {
@@ -25,13 +25,8 @@
       "title": "Documentation"
     },
     {
-      "rel": "self",
-      "href": "https://constantinius.github.io/osc-demo/ridesat-river-flow-monitoring-and-discharge-estimation-by-integrating-multiple-satellite-data/water-level-po-borgoforte-ridesat/collection.json",
-      "type": "application/json"
-    },
-    {
       "rel": "parent",
-      "href": "https://constantinius.github.io/osc-demo/ridesat-river-flow-monitoring-and-discharge-estimation-by-integrating-multiple-satellite-data/collection.json",
+      "href": "../collection.json",
       "type": "application/json",
       "title": "RIDESAT"
     }
@@ -57,16 +52,13 @@
   "created": "2020-03-04T00:00:00Z",
   "start_datetime": "2018-01-01T00:00:00Z",
   "end_datetime": "2020-12-31T23:59:59Z",
-  "updated": "2023-02-03T10:45:00Z",
   "extent": {
     "spatial": {
       "bbox": [
-        [
-          10.7562,
-          45.0455,
-          10.7562,
-          45.0455
-        ]
+        10.7562,
+        45.0455,
+        10.7562,
+        45.0455
       ]
     },
     "temporal": {
@@ -78,14 +70,5 @@
       ]
     }
   },
-  "license": "proprietary",
-  "assets": {
-    "iso-metadata": {
-      "href": "./iso.xml",
-      "type": "application/xml",
-      "roles": [
-        "metadata"
-      ]
-    }
-  }
+  "license": "proprietary"
 }

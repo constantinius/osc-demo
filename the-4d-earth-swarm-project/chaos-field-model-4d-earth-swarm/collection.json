@@ -6,7 +6,7 @@
   "links": [
     {
       "rel": "root",
-      "href": "/home/runner/work/osc-demo/osc-demo/dist/collection.json",
+      "href": "../../collection.json",
       "type": "application/json"
     },
     {
@@ -24,13 +24,8 @@
       "href": "https://doi.org/10.1186/s40623-020-01252-9"
     },
     {
-      "rel": "self",
-      "href": "https://constantinius.github.io/osc-demo/the-4d-earth-swarm-project/chaos-field-model-4d-earth-swarm/collection.json",
-      "type": "application/json"
-    },
-    {
       "rel": "parent",
-      "href": "https://constantinius.github.io/osc-demo/the-4d-earth-swarm-project/collection.json",
+      "href": "../collection.json",
       "type": "application/json",
       "title": "4D-Earth SWARM"
     }
@@ -59,16 +54,13 @@
   "created": "2020-10-20T00:00:00Z",
   "version": "7.8",
   "sci:doi": "10.1186/s40623-020-01252-9",
-  "updated": "2023-02-03T10:45:00Z",
   "extent": {
     "spatial": {
       "bbox": [
-        [
-          -180.0,
-          -90.0,
-          180.0,
-          90.0
-        ]
+        -180.0,
+        -90.0,
+        180.0,
+        90.0
       ]
     },
     "temporal": {
@@ -80,14 +72,5 @@
       ]
     }
   },
-  "license": "proprietary",
-  "assets": {
-    "iso-metadata": {
-      "href": "./iso.xml",
-      "type": "application/xml",
-      "roles": [
-        "metadata"
-      ]
-    }
-  }
+  "license": "proprietary"
 }

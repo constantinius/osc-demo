@@ -6,7 +6,7 @@
   "links": [
     {
       "rel": "root",
-      "href": "/home/runner/work/osc-demo/osc-demo/dist/collection.json",
+      "href": "../collection.json",
       "type": "application/json"
     },
     {
@@ -21,30 +21,25 @@
     },
     {
       "rel": "child",
-      "href": "https://constantinius.github.io/osc-demo/sunlit-synergy-of-using-nadir-and-limb-instruments-for-tropospheric-ozone-monitoring/tropospheric-ozone-column-tropomi-sunlit/collection.json",
+      "href": "./tropospheric-ozone-column-tropomi-sunlit/collection.json",
       "type": "application/json",
       "title": "Tropospheric ozone column(TrOC)_2018-2020_Global_S5p-TROPOMI_Limb"
     },
     {
       "rel": "child",
-      "href": "https://constantinius.github.io/osc-demo/sunlit-synergy-of-using-nadir-and-limb-instruments-for-tropospheric-ozone-monitoring/tropospheric-ozone-column-omi-sunlit/collection.json",
+      "href": "./tropospheric-ozone-column-omi-sunlit/collection.json",
       "type": "application/json",
       "title": "Tropospheric ozone column (TrOC)_Global_OMI and limb satellites"
     },
     {
       "rel": "child",
-      "href": "https://constantinius.github.io/osc-demo/sunlit-synergy-of-using-nadir-and-limb-instruments-for-tropospheric-ozone-monitoring/stratospheric-ozone-column-limb-sunlit/collection.json",
+      "href": "./stratospheric-ozone-column-limb-sunlit/collection.json",
       "type": "application/json",
       "title": "Stratospheric ozone column from limb satellites_Global"
     },
     {
-      "rel": "self",
-      "href": "https://constantinius.github.io/osc-demo/sunlit-synergy-of-using-nadir-and-limb-instruments-for-tropospheric-ozone-monitoring/collection.json",
-      "type": "application/json"
-    },
-    {
       "rel": "parent",
-      "href": "https://constantinius.github.io/osc-demo/collection.json",
+      "href": "../collection.json",
       "type": "application/json"
     }
   ],
@@ -67,7 +62,6 @@
   "osc:type": "Project",
   "start_datetime": "2018-09-05T00:00:00Z",
   "end_datetime": "2020-11-24T23:59:59Z",
-  "updated": "2023-02-03T10:45:00Z",
   "extent": {
     "spatial": {
       "bbox": [
@@ -83,14 +77,5 @@
       ]
     }
   },
-  "license": "proprietary",
-  "assets": {
-    "iso-metadata": {
-      "href": "https://constantinius.github.io/osc-demo/sunlit-synergy-of-using-nadir-and-limb-instruments-for-tropospheric-ozone-monitoring/iso.xml",
-      "type": "application/xml",
-      "roles": [
-        "metadata"
-      ]
-    }
-  }
+  "license": "proprietary"
 }

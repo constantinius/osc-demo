@@ -6,7 +6,7 @@
   "links": [
     {
       "rel": "root",
-      "href": "/home/runner/work/osc-demo/osc-demo/dist/collection.json",
+      "href": "../../collection.json",
       "type": "application/json"
     },
     {
@@ -20,13 +20,8 @@
       "title": "Access"
     },
     {
-      "rel": "self",
-      "href": "https://constantinius.github.io/osc-demo/4dgreenland/ice-sheet-surface-melt-4dgreenland/collection.json",
-      "type": "application/json"
-    },
-    {
       "rel": "parent",
-      "href": "https://constantinius.github.io/osc-demo/4dgreenland/collection.json",
+      "href": "../collection.json",
       "type": "application/json",
       "title": "4D-Greenland"
     }
@@ -47,16 +42,13 @@
   "osc:status": "COMPLETED",
   "osc:region": "Greenland",
   "osc:type": "Product",
-  "updated": "2023-02-03T10:45:00Z",
   "extent": {
     "spatial": {
       "bbox": [
-        [
-          -73.709433726,
-          60.2878324851,
-          -12.713339976,
-          83.5902211563
-        ]
+        -73.709433726,
+        60.2878324851,
+        -12.713339976,
+        83.5902211563
       ]
     },
     "temporal": {
@@ -68,14 +60,5 @@
       ]
     }
   },
-  "license": "proprietary",
-  "assets": {
-    "iso-metadata": {
-      "href": "./iso.xml",
-      "type": "application/xml",
-      "roles": [
-        "metadata"
-      ]
-    }
-  }
+  "license": "proprietary"
 }

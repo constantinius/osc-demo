@@ -6,7 +6,7 @@
   "links": [
     {
       "rel": "root",
-      "href": "/home/runner/work/osc-demo/osc-demo/dist/collection.json",
+      "href": "../../collection.json",
       "type": "application/json"
     },
     {
@@ -25,13 +25,8 @@
       "title": "Documentation"
     },
     {
-      "rel": "self",
-      "href": "https://constantinius.github.io/osc-demo/cryotop-evolution/land-ice-elevation-point-arctic-canada-south-cryotop-evolution/collection.json",
-      "type": "application/json"
-    },
-    {
       "rel": "parent",
-      "href": "https://constantinius.github.io/osc-demo/cryotop-evolution/collection.json",
+      "href": "../collection.json",
       "type": "application/json",
       "title": "CryoTop Evolution"
     }
@@ -54,16 +49,13 @@
   "created": "2021-12-01T00:00:00Z",
   "start_datetime": "2010-01-01T00:00:00Z",
   "end_datetime": "2021-12-31T23:59:59Z",
-  "updated": "2023-02-03T10:45:00Z",
   "extent": {
     "spatial": {
       "bbox": [
-        [
-          -88.0,
-          57.0,
-          -59.0,
-          75.0
-        ]
+        -88.0,
+        57.0,
+        -59.0,
+        75.0
       ]
     },
     "temporal": {
@@ -75,14 +67,5 @@
       ]
     }
   },
-  "license": "proprietary",
-  "assets": {
-    "iso-metadata": {
-      "href": "./iso.xml",
-      "type": "application/xml",
-      "roles": [
-        "metadata"
-      ]
-    }
-  }
+  "license": "proprietary"
 }

@@ -6,7 +6,7 @@
   "links": [
     {
       "rel": "root",
-      "href": "/home/runner/work/osc-demo/osc-demo/dist/collection.json",
+      "href": "../../collection.json",
       "type": "application/json"
     },
     {
@@ -20,13 +20,8 @@
       "title": "Documentation"
     },
     {
-      "rel": "self",
-      "href": "https://constantinius.github.io/osc-demo/albiom-altimetry-for-biomass/biomass-s3-africa-albiom/collection.json",
-      "type": "application/json"
-    },
-    {
       "rel": "parent",
-      "href": "https://constantinius.github.io/osc-demo/albiom-altimetry-for-biomass/collection.json",
+      "href": "../collection.json",
       "type": "application/json",
       "title": "ALBIOM"
     }
@@ -49,16 +44,13 @@
   "created": "2021-12-31T00:00:00Z",
   "start_datetime": "2017-01-01T00:00:00Z",
   "end_datetime": "2017-12-31T23:59:59Z",
-  "updated": "2023-02-03T10:45:00Z",
   "extent": {
     "spatial": {
       "bbox": [
-        [
-          -17.8563289572,
-          -34.4708447326,
-          52.1929288951,
-          36.9355756202
-        ]
+        -17.8563289572,
+        -34.4708447326,
+        52.1929288951,
+        36.9355756202
       ]
     },
     "temporal": {
@@ -70,14 +62,5 @@
       ]
     }
   },
-  "license": "proprietary",
-  "assets": {
-    "iso-metadata": {
-      "href": "./iso.xml",
-      "type": "application/xml",
-      "roles": [
-        "metadata"
-      ]
-    }
-  }
+  "license": "proprietary"
 }

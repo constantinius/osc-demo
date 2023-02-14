@@ -6,7 +6,7 @@
   "links": [
     {
       "rel": "root",
-      "href": "/home/runner/work/osc-demo/osc-demo/dist/collection.json",
+      "href": "../../collection.json",
       "type": "application/json"
     },
     {
@@ -25,20 +25,15 @@
       "title": "Documentation"
     },
     {
-      "rel": "item",
-      "href": "https://constantinius.github.io/osc-demo/world-ocean-circulation/wind-stress-vector-world-ocean-circulation/2009123123-WOC-L4-STRESS_ERAstar_GLO_0125_1H_R20091231T18_05-v2.0-fv1.0.nc/2009123123-WOC-L4-STRESS_ERAstar_GLO_0125_1H_R20091231T18_05-v2.0-fv1.0.nc.json",
-      "type": "application/json"
-    },
-    {
-      "rel": "self",
-      "href": "https://constantinius.github.io/osc-demo/world-ocean-circulation/wind-stress-vector-world-ocean-circulation/collection.json",
-      "type": "application/json"
-    },
-    {
       "rel": "parent",
-      "href": "https://constantinius.github.io/osc-demo/world-ocean-circulation/collection.json",
+      "href": "../collection.json",
       "type": "application/json",
       "title": "WOC"
+    },
+    {
+      "rel": "item",
+      "href": "./2009123123-WOC-L4-STRESS_ERAstar_GLO_0125_1H_R20091231T18_05-v2.0-fv1.0.nc/2009123123-WOC-L4-STRESS_ERAstar_GLO_0125_1H_R20091231T18_05-v2.0-fv1.0.nc.json",
+      "type": "application/json"
     }
   ],
   "stac_extensions": [
@@ -57,7 +52,6 @@
   "created": "2021-11-30T00:00:00Z",
   "start_datetime": "2019-01-01T00:00:00Z",
   "end_datetime": "2019-12-31T23:59:59Z",
-  "updated": "2023-02-03T10:45:00Z",
   "extent": {
     "spatial": {
       "bbox": [
@@ -78,14 +72,5 @@
       ]
     }
   },
-  "license": "proprietary",
-  "assets": {
-    "iso-metadata": {
-      "href": "./iso.xml",
-      "type": "application/xml",
-      "roles": [
-        "metadata"
-      ]
-    }
-  }
+  "license": "proprietary"
 }

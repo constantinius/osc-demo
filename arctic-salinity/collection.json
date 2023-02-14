@@ -6,7 +6,7 @@
   "links": [
     {
       "rel": "root",
-      "href": "/home/runner/work/osc-demo/osc-demo/dist/collection.json",
+      "href": "../collection.json",
       "type": "application/json"
     },
     {
@@ -21,18 +21,13 @@
     },
     {
       "rel": "child",
-      "href": "https://constantinius.github.io/osc-demo/arctic-salinity/sea-surface-salinity-arctic-salinity/collection.json",
+      "href": "./sea-surface-salinity-arctic-salinity/collection.json",
       "type": "application/json",
       "title": "Sea Surface Salinity L2 orbits and L3 maps (V.3.1) _Arctic_SMOS"
     },
     {
-      "rel": "self",
-      "href": "https://constantinius.github.io/osc-demo/arctic-salinity/collection.json",
-      "type": "application/json"
-    },
-    {
       "rel": "parent",
-      "href": "https://constantinius.github.io/osc-demo/collection.json",
+      "href": "../collection.json",
       "type": "application/json"
     }
   ],
@@ -58,7 +53,6 @@
   "osc:type": "Project",
   "start_datetime": "2018-10-16T00:00:00Z",
   "end_datetime": "2020-04-30T23:59:59Z",
-  "updated": "2023-02-03T10:45:00Z",
   "extent": {
     "spatial": {
       "bbox": [
@@ -74,14 +68,5 @@
       ]
     }
   },
-  "license": "proprietary",
-  "assets": {
-    "iso-metadata": {
-      "href": "https://constantinius.github.io/osc-demo/arctic-salinity/iso.xml",
-      "type": "application/xml",
-      "roles": [
-        "metadata"
-      ]
-    }
-  }
+  "license": "proprietary"
 }

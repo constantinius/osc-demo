@@ -6,7 +6,7 @@
   "links": [
     {
       "rel": "root",
-      "href": "/home/runner/work/osc-demo/osc-demo/dist/collection.json",
+      "href": "../../collection.json",
       "type": "application/json"
     },
     {
@@ -24,13 +24,8 @@
       "href": "https://doi.org/10.22008/FK2/F9P03L"
     },
     {
-      "rel": "self",
-      "href": "https://constantinius.github.io/osc-demo/3d-earth/geothermal-heat-flow-greenland-3d-earth/collection.json",
-      "type": "application/json"
-    },
-    {
       "rel": "parent",
-      "href": "https://constantinius.github.io/osc-demo/3d-earth/collection.json",
+      "href": "../collection.json",
       "type": "application/json",
       "title": "3D-EARTH"
     }
@@ -54,16 +49,13 @@
   "osc:type": "Product",
   "created": "2021-08-26T00:00:00Z",
   "sci:doi": "10.22008/FK2/F9P03L",
-  "updated": "2023-02-03T10:45:00Z",
   "extent": {
     "spatial": {
       "bbox": [
-        [
-          -178.4105321808,
-          60.6134006095,
-          178.3660428163,
-          84.2454100786
-        ]
+        -178.4105321808,
+        60.6134006095,
+        178.3660428163,
+        84.2454100786
       ]
     },
     "temporal": {
@@ -75,14 +67,5 @@
       ]
     }
   },
-  "license": "proprietary",
-  "assets": {
-    "iso-metadata": {
-      "href": "./iso.xml",
-      "type": "application/xml",
-      "roles": [
-        "metadata"
-      ]
-    }
-  }
+  "license": "proprietary"
 }

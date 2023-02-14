@@ -6,7 +6,7 @@
   "links": [
     {
       "rel": "root",
-      "href": "/home/runner/work/osc-demo/osc-demo/dist/collection.json",
+      "href": "../collection.json",
       "type": "application/json"
     },
     {
@@ -21,78 +21,73 @@
     },
     {
       "rel": "child",
-      "href": "https://constantinius.github.io/osc-demo/the-4d-earth-swarm-project/webgeodyn-py-4d-earth-swarm/collection.json",
+      "href": "./webgeodyn-py-4d-earth-swarm/collection.json",
       "type": "application/json",
       "title": "Webgeodyn Python package"
     },
     {
       "rel": "child",
-      "href": "https://constantinius.github.io/osc-demo/the-4d-earth-swarm-project/ground-virtual-observatory-swarm-4d-earth-swarm/collection.json",
+      "href": "./ground-virtual-observatory-swarm-4d-earth-swarm/collection.json",
       "type": "application/json",
       "title": "Ground Virtual Observatory Data SWARM"
     },
     {
       "rel": "child",
-      "href": "https://constantinius.github.io/osc-demo/the-4d-earth-swarm-project/ground-virtual-observatory-champ-4d-earth-swarm/collection.json",
+      "href": "./ground-virtual-observatory-champ-4d-earth-swarm/collection.json",
       "type": "application/json",
       "title": "Ground Virtual Observatory Data CHAMP"
     },
     {
       "rel": "child",
-      "href": "https://constantinius.github.io/osc-demo/the-4d-earth-swarm-project/ground-virtual-observatory-cryosat2-4d-earth-swarm/collection.json",
+      "href": "./ground-virtual-observatory-cryosat2-4d-earth-swarm/collection.json",
       "type": "application/json",
       "title": "Ground Virtual Observatory Data CRYOSAT-2"
     },
     {
       "rel": "child",
-      "href": "https://constantinius.github.io/osc-demo/the-4d-earth-swarm-project/ground-virtual-observatory-oersted-4d-earth-swarm/collection.json",
+      "href": "./ground-virtual-observatory-oersted-4d-earth-swarm/collection.json",
       "type": "application/json",
       "title": "Ground Virtual Observatory Data OERSTED"
     },
     {
       "rel": "child",
-      "href": "https://constantinius.github.io/osc-demo/the-4d-earth-swarm-project/ground-observatory-data-4d-earth-swarm/collection.json",
+      "href": "./ground-observatory-data-4d-earth-swarm/collection.json",
       "type": "application/json",
       "title": "Ground Observatory data"
     },
     {
       "rel": "child",
-      "href": "https://constantinius.github.io/osc-demo/the-4d-earth-swarm-project/chaos-field-model-core-4d-earth-swarm/collection.json",
+      "href": "./chaos-field-model-core-4d-earth-swarm/collection.json",
       "type": "application/json",
       "title": "CHAOS field model_Core"
     },
     {
       "rel": "child",
-      "href": "https://constantinius.github.io/osc-demo/the-4d-earth-swarm-project/chaos-field-model-spline-4d-earth-swarm/collection.json",
+      "href": "./chaos-field-model-spline-4d-earth-swarm/collection.json",
       "type": "application/json",
       "title": "CHAOS field model_SplineCoefficients"
     },
     {
       "rel": "child",
-      "href": "https://constantinius.github.io/osc-demo/the-4d-earth-swarm-project/chaos-field-model-4d-earth-swarm/collection.json",
+      "href": "./chaos-field-model-4d-earth-swarm/collection.json",
       "type": "application/json",
       "title": "CHAOS field model"
     },
     {
       "rel": "child",
-      "href": "https://constantinius.github.io/osc-demo/the-4d-earth-swarm-project/satellite-data-chaos-field-model-4d-earth-swarm/collection.json",
+      "href": "./satellite-data-chaos-field-model-4d-earth-swarm/collection.json",
       "type": "application/json",
       "title": "Vector and scalar satellite data files as used in the CHAOS field model"
     },
     {
       "rel": "child",
-      "href": "https://constantinius.github.io/osc-demo/the-4d-earth-swarm-project/geodynamo-simulation-4d-earth-swarm/collection.json",
+      "href": "./geodynamo-simulation-4d-earth-swarm/collection.json",
       "type": "application/json",
       "title": "Geodynamo simulation data_Earth core"
     },
     {
-      "rel": "self",
-      "href": "https://constantinius.github.io/osc-demo/the-4d-earth-swarm-project/collection.json",
-      "type": "application/json"
-    },
-    {
       "rel": "parent",
-      "href": "https://constantinius.github.io/osc-demo/collection.json",
+      "href": "../collection.json",
       "type": "application/json"
     }
   ],
@@ -121,7 +116,6 @@
   "osc:type": "Project",
   "start_datetime": "2019-04-16T00:00:00Z",
   "end_datetime": "2022-04-30T23:59:59Z",
-  "updated": "2023-02-03T10:45:00Z",
   "extent": {
     "spatial": {
       "bbox": [
@@ -137,14 +131,5 @@
       ]
     }
   },
-  "license": "proprietary",
-  "assets": {
-    "iso-metadata": {
-      "href": "https://constantinius.github.io/osc-demo/the-4d-earth-swarm-project/iso.xml",
-      "type": "application/xml",
-      "roles": [
-        "metadata"
-      ]
-    }
-  }
+  "license": "proprietary"
 }

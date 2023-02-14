@@ -6,7 +6,7 @@
   "links": [
     {
       "rel": "root",
-      "href": "/home/runner/work/osc-demo/osc-demo/dist/collection.json",
+      "href": "../collection.json",
       "type": "application/json"
     },
     {
@@ -21,18 +21,13 @@
     },
     {
       "rel": "child",
-      "href": "https://constantinius.github.io/osc-demo/4dionosphere-swarm-vip/model-ionosphere-4dionosphere/collection.json",
+      "href": "./model-ionosphere-4dionosphere/collection.json",
       "type": "application/json",
       "title": "Semi-empiric model of ionosphere processes_SWARM"
     },
     {
-      "rel": "self",
-      "href": "https://constantinius.github.io/osc-demo/4dionosphere-swarm-vip/collection.json",
-      "type": "application/json"
-    },
-    {
       "rel": "parent",
-      "href": "https://constantinius.github.io/osc-demo/collection.json",
+      "href": "../collection.json",
       "type": "application/json"
     }
   ],
@@ -58,7 +53,6 @@
   "osc:type": "Project",
   "start_datetime": "2020-04-07T00:00:00Z",
   "end_datetime": "2022-04-16T23:59:59Z",
-  "updated": "2023-02-03T10:45:00Z",
   "extent": {
     "spatial": {
       "bbox": [
@@ -74,14 +68,5 @@
       ]
     }
   },
-  "license": "proprietary",
-  "assets": {
-    "iso-metadata": {
-      "href": "https://constantinius.github.io/osc-demo/4dionosphere-swarm-vip/iso.xml",
-      "type": "application/xml",
-      "roles": [
-        "metadata"
-      ]
-    }
-  }
+  "license": "proprietary"
 }

@@ -6,7 +6,7 @@
   "links": [
     {
       "rel": "root",
-      "href": "/home/runner/work/osc-demo/osc-demo/dist/collection.json",
+      "href": "../../collection.json",
       "type": "application/json"
     },
     {
@@ -15,13 +15,8 @@
       "title": "Website"
     },
     {
-      "rel": "self",
-      "href": "https://constantinius.github.io/osc-demo/4dantarctica/surface-melt-s1-4dantarctica/collection.json",
-      "type": "application/json"
-    },
-    {
       "rel": "parent",
-      "href": "https://constantinius.github.io/osc-demo/4dantarctica/collection.json",
+      "href": "../collection.json",
       "type": "application/json",
       "title": "4D-ANTARCTICA"
     }
@@ -44,16 +39,13 @@
   "start_datetime": "2015-01-01T00:00:00Z",
   "end_datetime": "2020-12-31T23:59:59Z",
   "version": "1",
-  "updated": "2023-02-03T10:45:00Z",
   "extent": {
     "spatial": {
       "bbox": [
-        [
-          -78.8,
-          -74.8,
-          -53.4,
-          -62.0
-        ]
+        -78.8,
+        -74.8,
+        -53.4,
+        -62.0
       ]
     },
     "temporal": {
@@ -65,14 +57,5 @@
       ]
     }
   },
-  "license": "proprietary",
-  "assets": {
-    "iso-metadata": {
-      "href": "./iso.xml",
-      "type": "application/xml",
-      "roles": [
-        "metadata"
-      ]
-    }
-  }
+  "license": "proprietary"
 }

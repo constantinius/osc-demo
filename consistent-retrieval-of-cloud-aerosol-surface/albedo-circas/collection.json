@@ -6,7 +6,7 @@
   "links": [
     {
       "rel": "root",
-      "href": "/home/runner/work/osc-demo/osc-demo/dist/collection.json",
+      "href": "../../collection.json",
       "type": "application/json"
     },
     {
@@ -25,13 +25,8 @@
       "title": "Documentation"
     },
     {
-      "rel": "self",
-      "href": "https://constantinius.github.io/osc-demo/consistent-retrieval-of-cloud-aerosol-surface/albedo-circas/collection.json",
-      "type": "application/json"
-    },
-    {
       "rel": "parent",
-      "href": "https://constantinius.github.io/osc-demo/consistent-retrieval-of-cloud-aerosol-surface/collection.json",
+      "href": "../collection.json",
       "type": "application/json",
       "title": "CIRCAS"
     }
@@ -54,7 +49,6 @@
   "created": "2021-12-31T00:00:00Z",
   "start_datetime": "2019-01-01T00:00:00Z",
   "end_datetime": "2019-12-31T23:59:59Z",
-  "updated": "2023-02-03T10:45:00Z",
   "extent": {
     "spatial": {
       "bbox": [
@@ -75,14 +69,5 @@
       ]
     }
   },
-  "license": "proprietary",
-  "assets": {
-    "iso-metadata": {
-      "href": "./iso.xml",
-      "type": "application/xml",
-      "roles": [
-        "metadata"
-      ]
-    }
-  }
+  "license": "proprietary"
 }

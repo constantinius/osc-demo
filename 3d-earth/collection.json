@@ -6,7 +6,7 @@
   "links": [
     {
       "rel": "root",
-      "href": "/home/runner/work/osc-demo/osc-demo/dist/collection.json",
+      "href": "../collection.json",
       "type": "application/json"
     },
     {
@@ -21,24 +21,19 @@
     },
     {
       "rel": "child",
-      "href": "https://constantinius.github.io/osc-demo/3d-earth/geothermal-heat-flow-greenland-3d-earth/collection.json",
+      "href": "./geothermal-heat-flow-greenland-3d-earth/collection.json",
       "type": "application/json",
       "title": "Geothermal Heat Flow Database and Map_Greenland_GOCE_SWARM"
     },
     {
       "rel": "child",
-      "href": "https://constantinius.github.io/osc-demo/3d-earth/crust-and-upper-mantle-model-3d-earth/collection.json",
+      "href": "./crust-and-upper-mantle-model-3d-earth/collection.json",
       "type": "application/json",
       "title": "Global Model of Crust and Upper Mantle_WINTERC-G_GOCE"
     },
     {
-      "rel": "self",
-      "href": "https://constantinius.github.io/osc-demo/3d-earth/collection.json",
-      "type": "application/json"
-    },
-    {
       "rel": "parent",
-      "href": "https://constantinius.github.io/osc-demo/collection.json",
+      "href": "../collection.json",
       "type": "application/json"
     }
   ],
@@ -67,7 +62,6 @@
   "osc:type": "Project",
   "start_datetime": "2019-10-22T00:00:00Z",
   "end_datetime": "2020-11-12T23:59:59Z",
-  "updated": "2023-02-03T10:45:00Z",
   "extent": {
     "spatial": {
       "bbox": [
@@ -83,14 +77,5 @@
       ]
     }
   },
-  "license": "proprietary",
-  "assets": {
-    "iso-metadata": {
-      "href": "https://constantinius.github.io/osc-demo/3d-earth/iso.xml",
-      "type": "application/xml",
-      "roles": [
-        "metadata"
-      ]
-    }
-  }
+  "license": "proprietary"
 }

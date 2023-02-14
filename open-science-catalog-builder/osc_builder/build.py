@@ -4,6 +4,7 @@ import os
 import os.path
 import shutil
 from typing import TextIO
+from urllib.parse import urlparse
 
 import pystac
 import pystac.layout
@@ -27,6 +28,7 @@ from .stac import (
     THEMES_PROP,
     collection_from_product,
     collection_from_project,
+    FakeHTTPStacIO,
 )
 from .types import Theme, Variable, EOMission
 
@@ -222,16 +224,23 @@ def set_update_timestamps(catalog: pystac.Catalog) -> datetime:
     Returns:
         datetime: the resulting timestamp
     """
-    updated = datetime.fromtimestamp(
-        os.path.getmtime(catalog.get_self_href()), tz=timezone.utc
-    )
+
+    io = pystac.StacIO.default()
+    if not isinstance(io, FakeHTTPStacIO):
+        io = None
+
+    href = catalog.get_self_href()
+    path = io._replace_path(href) if io else href
+    updated = datetime.fromtimestamp(os.path.getmtime(path), tz=timezone.utc)
 
     for child in catalog.get_children():
         updated = max(updated, set_update_timestamps(child))
 
     for item in catalog.get_items():
+        href = item.get_self_href()
+        path = io._replace_path(href) if io else href
         item_updated = datetime.fromtimestamp(
-            os.path.getmtime(item.get_self_href()), tz=timezone.utc
+            os.path.getmtime(path), tz=timezone.utc
         )
         pystac.CommonMetadata(item).updated = item_updated
         updated = max(updated, item_updated)
@@ -260,8 +269,12 @@ def build_dist(
         out_dir,
     )
 
+    FakeHTTPStacIO.path_prefix = urlparse(root_href).path
+    FakeHTTPStacIO.out_dir = out_dir
+    pystac.StacIO.set_default(FakeHTTPStacIO)
+
     root: pystac.Collection = pystac.read_file(
-        os.path.join(out_dir, "collection.json")
+        os.path.join(root_href, "collection.json")
     )
 
     if update_timestamps:
@@ -358,4 +371,4 @@ def build_dist(
 
     # final href adjustments
     root.make_all_asset_hrefs_absolute()
-    root.save(pystac.CatalogType.ABSOLUTE_PUBLISHED, out_dir)
+    root.save(pystac.CatalogType.ABSOLUTE_PUBLISHED, root_href)

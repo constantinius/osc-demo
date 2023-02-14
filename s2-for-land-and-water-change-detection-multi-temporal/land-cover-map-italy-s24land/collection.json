@@ -6,7 +6,7 @@
   "links": [
     {
       "rel": "root",
-      "href": "/home/runner/work/osc-demo/osc-demo/dist/collection.json",
+      "href": "../../collection.json",
       "type": "application/json"
     },
     {
@@ -25,13 +25,8 @@
       "title": "Documentation"
     },
     {
-      "rel": "self",
-      "href": "https://constantinius.github.io/osc-demo/s2-for-land-and-water-change-detection-multi-temporal/land-cover-map-italy-s24land/collection.json",
-      "type": "application/json"
-    },
-    {
       "rel": "parent",
-      "href": "https://constantinius.github.io/osc-demo/s2-for-land-and-water-change-detection-multi-temporal/collection.json",
+      "href": "../collection.json",
       "type": "application/json",
       "title": "S2 for Land and Water-Change Detection"
     }
@@ -54,16 +49,13 @@
   "created": "2019-04-01T00:00:00Z",
   "start_datetime": "2018-01-01T00:00:00Z",
   "end_datetime": "2018-12-31T23:59:59Z",
-  "updated": "2023-02-03T10:45:00Z",
   "extent": {
     "spatial": {
       "bbox": [
-        [
-          6.62726578,
-          35.28896156,
-          18.78447454,
-          47.09214614
-        ]
+        6.62726578,
+        35.28896156,
+        18.78447454,
+        47.09214614
       ]
     },
     "temporal": {
@@ -75,14 +67,5 @@
       ]
     }
   },
-  "license": "proprietary",
-  "assets": {
-    "iso-metadata": {
-      "href": "./iso.xml",
-      "type": "application/xml",
-      "roles": [
-        "metadata"
-      ]
-    }
-  }
+  "license": "proprietary"
 }

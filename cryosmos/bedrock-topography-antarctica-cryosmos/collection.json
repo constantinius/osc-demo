@@ -6,7 +6,7 @@
   "links": [
     {
       "rel": "root",
-      "href": "/home/runner/work/osc-demo/osc-demo/dist/collection.json",
+      "href": "../../collection.json",
       "type": "application/json"
     },
     {
@@ -20,13 +20,8 @@
       "title": "Access"
     },
     {
-      "rel": "self",
-      "href": "https://constantinius.github.io/osc-demo/cryosmos/bedrock-topography-antarctica-cryosmos/collection.json",
-      "type": "application/json"
-    },
-    {
       "rel": "parent",
-      "href": "https://constantinius.github.io/osc-demo/cryosmos/collection.json",
+      "href": "../collection.json",
       "type": "application/json",
       "title": "CryoSMOS"
     }
@@ -49,16 +44,13 @@
   "created": "2020-03-19T00:00:00Z",
   "start_datetime": "2013-01-01T00:00:00Z",
   "end_datetime": "2014-12-31T23:59:59Z",
-  "updated": "2023-02-03T10:45:00Z",
   "extent": {
     "spatial": {
       "bbox": [
-        [
-          -180.0,
-          -83.0,
-          180.0,
-          -60.0
-        ]
+        -180.0,
+        -83.0,
+        180.0,
+        -60.0
       ]
     },
     "temporal": {
@@ -70,14 +62,5 @@
       ]
     }
   },
-  "license": "proprietary",
-  "assets": {
-    "iso-metadata": {
-      "href": "./iso.xml",
-      "type": "application/xml",
-      "roles": [
-        "metadata"
-      ]
-    }
-  }
+  "license": "proprietary"
 }

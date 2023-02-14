@@ -6,7 +6,7 @@
   "links": [
     {
       "rel": "root",
-      "href": "/home/runner/work/osc-demo/osc-demo/dist/collection.json",
+      "href": "../../collection.json",
       "type": "application/json"
     },
     {
@@ -29,13 +29,8 @@
       "href": "https://doi.org/10.1038/s43247-021-00242-3"
     },
     {
-      "rel": "self",
-      "href": "https://constantinius.github.io/osc-demo/4dantarctica/geothermal-heat-flux-4dantarctica/collection.json",
-      "type": "application/json"
-    },
-    {
       "rel": "parent",
-      "href": "https://constantinius.github.io/osc-demo/4dantarctica/collection.json",
+      "href": "../collection.json",
       "type": "application/json",
       "title": "4D-ANTARCTICA"
     }
@@ -60,16 +55,13 @@
   "end_datetime": "2012-12-31T23:59:59Z",
   "version": "1",
   "sci:doi": "10.1038/s43247-021-00242-3",
-  "updated": "2023-02-03T10:45:00Z",
   "extent": {
     "spatial": {
       "bbox": [
-        [
-          -151.16,
-          -82.53,
-          -65.33,
-          -64.01
-        ]
+        -151.16,
+        -82.53,
+        -65.33,
+        -64.01
       ]
     },
     "temporal": {
@@ -81,14 +73,5 @@
       ]
     }
   },
-  "license": "proprietary",
-  "assets": {
-    "iso-metadata": {
-      "href": "./iso.xml",
-      "type": "application/xml",
-      "roles": [
-        "metadata"
-      ]
-    }
-  }
+  "license": "proprietary"
 }

@@ -6,7 +6,7 @@
   "links": [
     {
       "rel": "root",
-      "href": "/home/runner/work/osc-demo/osc-demo/dist/collection.json",
+      "href": "../../collection.json",
       "type": "application/json"
     },
     {
@@ -29,13 +29,8 @@
       "href": "https://doi.org/10.5194/os-15-543-2019"
     },
     {
-      "rel": "self",
-      "href": "https://constantinius.github.io/osc-demo/godae-ocean-observing-system-evaluation-of-satellite-sea-surface-salinity-and-el-nino-2015-smos-nino15/sea-surface-salinity-godae-oceanview/collection.json",
-      "type": "application/json"
-    },
-    {
       "rel": "parent",
-      "href": "https://constantinius.github.io/osc-demo/godae-ocean-observing-system-evaluation-of-satellite-sea-surface-salinity-and-el-nino-2015-smos-nino15/collection.json",
+      "href": "../collection.json",
       "type": "application/json",
       "title": "SMOS-NINO 2015"
     }
@@ -60,16 +55,13 @@
   "start_datetime": "2015-01-01T00:00:00Z",
   "end_datetime": "2016-12-31T23:59:59Z",
   "sci:doi": "10.5194/os-15-543-2019",
-  "updated": "2023-02-03T10:45:00Z",
   "extent": {
     "spatial": {
       "bbox": [
-        [
-          -180.0,
-          -90.0,
-          180.0,
-          90.0
-        ]
+        -180.0,
+        -90.0,
+        180.0,
+        90.0
       ]
     },
     "temporal": {
@@ -81,14 +73,5 @@
       ]
     }
   },
-  "license": "proprietary",
-  "assets": {
-    "iso-metadata": {
-      "href": "./iso.xml",
-      "type": "application/xml",
-      "roles": [
-        "metadata"
-      ]
-    }
-  }
+  "license": "proprietary"
 }

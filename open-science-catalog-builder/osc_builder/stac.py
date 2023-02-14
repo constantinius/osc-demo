@@ -1,5 +1,8 @@
 from datetime import date, datetime, time, timezone
+import os
+from os.path import join
 from typing import Generic, TypeVar, Union, cast
+from urllib.parse import urlparse
 
 from slugify import slugify
 import pystac
@@ -9,6 +12,8 @@ from pystac.extensions.base import (
     ExtensionManagementMixin,
     PropertiesExtension,
 )
+import pystac.stac_io
+import pystac.link
 
 from .types import Product, Project
 
@@ -129,6 +134,10 @@ class CollectionOSCExtension(OSCExtension[pystac.Collection]):
                 )
             )
 
+        self.collection.keywords = [
+            f"theme:{theme}" for theme in product.themes
+        ] + [f"variable:{product.variable}", f"region:{product.region}"]
+
     def apply_project(self, project: Project):
         self.properties.update(
             {
@@ -168,6 +177,10 @@ class CollectionOSCExtension(OSCExtension[pystac.Collection]):
                     title="EO4Society Link",
                 )
             )
+
+        self.collection.keywords = [
+            f"theme:{theme}" for theme in project.themes
+        ]
 
 
 class ItemOSCExtension(OSCExtension[pystac.Item]):
@@ -224,3 +237,23 @@ def collection_from_project(project: Project) -> pystac.Item:
     osc_ext.apply_project(project)
 
     return collection
+
+
+class FakeHTTPStacIO(pystac.stac_io.DefaultStacIO):
+    out_dir: str = os.getcwd()
+    path_prefix: str = "/"
+
+    def _replace_path(self, href: str) -> str:
+        path = urlparse(href).path
+        if path.startswith(self.path_prefix):
+            path = path[len(self.path_prefix):]
+
+        return join(self.out_dir, path)
+
+    def read_text(self, source: str, *args, **kwargs) -> str:
+        return super().read_text(self._replace_path(source), *args, **kwargs)
+
+    def write_text(
+        self, dest: str, txt: str, *args, **kwargs
+    ) -> None:
+        super().write_text(self._replace_path(dest), txt, *args, **kwargs)

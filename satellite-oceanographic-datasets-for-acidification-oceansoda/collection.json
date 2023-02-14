@@ -6,7 +6,7 @@
   "links": [
     {
       "rel": "root",
-      "href": "/home/runner/work/osc-demo/osc-demo/dist/collection.json",
+      "href": "../collection.json",
       "type": "application/json"
     },
     {
@@ -21,42 +21,37 @@
     },
     {
       "rel": "child",
-      "href": "https://constantinius.github.io/osc-demo/satellite-oceanographic-datasets-for-acidification-oceansoda/surface-ocean-pco2-oceansoda/collection.json",
+      "href": "./surface-ocean-pco2-oceansoda/collection.json",
       "type": "application/json",
       "title": "Surface-ocean_pCO2_Global_v2021"
     },
     {
       "rel": "child",
-      "href": "https://constantinius.github.io/osc-demo/satellite-oceanographic-datasets-for-acidification-oceansoda/surface-ocean-total-alcalinity-oceansoda/collection.json",
+      "href": "./surface-ocean-total-alcalinity-oceansoda/collection.json",
       "type": "application/json",
       "title": "Surface-ocean_Total Alcalinity_Global_v2021"
     },
     {
       "rel": "child",
-      "href": "https://constantinius.github.io/osc-demo/satellite-oceanographic-datasets-for-acidification-oceansoda/suface-ocean-ph-oceansoda/collection.json",
+      "href": "./suface-ocean-ph-oceansoda/collection.json",
       "type": "application/json",
       "title": "Surface-ocean_pH_Global_v2021"
     },
     {
       "rel": "child",
-      "href": "https://constantinius.github.io/osc-demo/satellite-oceanographic-datasets-for-acidification-oceansoda/surface-ocean-dic-oceansoda/collection.json",
+      "href": "./surface-ocean-dic-oceansoda/collection.json",
       "type": "application/json",
       "title": "Surface-ocean_Dissolved Inorganic Carbon_Global_v2021"
     },
     {
       "rel": "child",
-      "href": "https://constantinius.github.io/osc-demo/satellite-oceanographic-datasets-for-acidification-oceansoda/surface-ocean-omega-aragonite-saturation-oceansoda/collection.json",
+      "href": "./surface-ocean-omega-aragonite-saturation-oceansoda/collection.json",
       "type": "application/json",
       "title": "Surface-ocean_Omega_Aragonite Saturation State_Global_v2021"
     },
     {
-      "rel": "self",
-      "href": "https://constantinius.github.io/osc-demo/satellite-oceanographic-datasets-for-acidification-oceansoda/collection.json",
-      "type": "application/json"
-    },
-    {
       "rel": "parent",
-      "href": "https://constantinius.github.io/osc-demo/collection.json",
+      "href": "../collection.json",
       "type": "application/json"
     }
   ],
@@ -83,7 +78,6 @@
   "osc:type": "Project",
   "start_datetime": "2018-11-22T00:00:00Z",
   "end_datetime": "2020-12-15T23:59:59Z",
-  "updated": "2023-02-03T10:45:00Z",
   "extent": {
     "spatial": {
       "bbox": [
@@ -99,14 +93,5 @@
       ]
     }
   },
-  "license": "proprietary",
-  "assets": {
-    "iso-metadata": {
-      "href": "https://constantinius.github.io/osc-demo/satellite-oceanographic-datasets-for-acidification-oceansoda/iso.xml",
-      "type": "application/xml",
-      "roles": [
-        "metadata"
-      ]
-    }
-  }
+  "license": "proprietary"
 }

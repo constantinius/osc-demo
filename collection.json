@@ -6,7 +6,7 @@
   "links": [
     {
       "rel": "root",
-      "href": "/home/runner/work/osc-demo/osc-demo/dist/collection.json",
+      "href": "https://constantinius.github.io/osc-demo/collection.json",
       "type": "application/json"
     },
     {
@@ -794,7 +794,7 @@
       ]
     }
   },
-  "updated": "2023-02-03T10:45:00Z",
+  "updated": "2023-02-14T09:51:43Z",
   "extent": {
     "spatial": {
       "bbox": [

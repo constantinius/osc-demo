@@ -6,7 +6,7 @@
   "links": [
     {
       "rel": "root",
-      "href": "/home/runner/work/osc-demo/osc-demo/dist/collection.json",
+      "href": "../../collection.json",
       "type": "application/json"
     },
     {
@@ -15,13 +15,8 @@
       "title": "Website"
     },
     {
-      "rel": "self",
-      "href": "https://constantinius.github.io/osc-demo/4dantarctica/subglacial-melt-4dantarctica/collection.json",
-      "type": "application/json"
-    },
-    {
       "rel": "parent",
-      "href": "https://constantinius.github.io/osc-demo/4dantarctica/collection.json",
+      "href": "../collection.json",
       "type": "application/json",
       "title": "4D-ANTARCTICA"
     }
@@ -40,16 +35,13 @@
   "osc:region": "Antarctica",
   "osc:type": "Product",
   "version": "1",
-  "updated": "2023-02-03T10:45:00Z",
   "extent": {
     "spatial": {
       "bbox": [
-        [
-          -180.0,
-          -80.0,
-          180.0,
-          -61.0
-        ]
+        -180.0,
+        -80.0,
+        180.0,
+        -61.0
       ]
     },
     "temporal": {
@@ -61,14 +53,5 @@
       ]
     }
   },
-  "license": "proprietary",
-  "assets": {
-    "iso-metadata": {
-      "href": "./iso.xml",
-      "type": "application/xml",
-      "roles": [
-        "metadata"
-      ]
-    }
-  }
+  "license": "proprietary"
 }

@@ -6,7 +6,7 @@
   "links": [
     {
       "rel": "root",
-      "href": "/home/runner/work/osc-demo/osc-demo/dist/collection.json",
+      "href": "../../collection.json",
       "type": "application/json"
     },
     {
@@ -20,13 +20,8 @@
       "title": "Access"
     },
     {
-      "rel": "self",
-      "href": "https://constantinius.github.io/osc-demo/swarm-coupling-high-low-atmosphere-interactions-ion-outflow/cluster-swarm-b-conjunctions-ion-outflow/collection.json",
-      "type": "application/json"
-    },
-    {
       "rel": "parent",
-      "href": "https://constantinius.github.io/osc-demo/swarm-coupling-high-low-atmosphere-interactions-ion-outflow/collection.json",
+      "href": "../collection.json",
       "type": "application/json",
       "title": "Swarm+ Outflow"
     }
@@ -49,7 +44,6 @@
   "created": "2020-05-07T00:00:00Z",
   "start_datetime": "2014-01-01T00:00:00Z",
   "end_datetime": "2017-12-31T23:59:59Z",
-  "updated": "2023-02-03T10:45:00Z",
   "extent": {
     "spatial": {
       "bbox": [
@@ -70,14 +64,5 @@
       ]
     }
   },
-  "license": "proprietary",
-  "assets": {
-    "iso-metadata": {
-      "href": "./iso.xml",
-      "type": "application/xml",
-      "roles": [
-        "metadata"
-      ]
-    }
-  }
+  "license": "proprietary"
 }

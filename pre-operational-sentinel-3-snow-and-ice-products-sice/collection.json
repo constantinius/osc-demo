@@ -6,7 +6,7 @@
   "links": [
     {
       "rel": "root",
-      "href": "/home/runner/work/osc-demo/osc-demo/dist/collection.json",
+      "href": "../collection.json",
       "type": "application/json"
     },
     {
@@ -21,36 +21,31 @@
     },
     {
       "rel": "child",
-      "href": "https://constantinius.github.io/osc-demo/pre-operational-sentinel-3-snow-and-ice-products-sice/broadband-albedo-arctic-sice/collection.json",
+      "href": "./broadband-albedo-arctic-sice/collection.json",
       "type": "application/json",
       "title": "Broadband albedo_Arctic_S3"
     },
     {
       "rel": "child",
-      "href": "https://constantinius.github.io/osc-demo/pre-operational-sentinel-3-snow-and-ice-products-sice/spectral-albedo-arctic-sice/collection.json",
+      "href": "./spectral-albedo-arctic-sice/collection.json",
       "type": "application/json",
       "title": "Spectral albedo_Arctic_S3"
     },
     {
       "rel": "child",
-      "href": "https://constantinius.github.io/osc-demo/pre-operational-sentinel-3-snow-and-ice-products-sice/snow-grain-diameter-arctic-sice/collection.json",
+      "href": "./snow-grain-diameter-arctic-sice/collection.json",
       "type": "application/json",
       "title": "Snow grain diameter_Arctic_S3"
     },
     {
       "rel": "child",
-      "href": "https://constantinius.github.io/osc-demo/pre-operational-sentinel-3-snow-and-ice-products-sice/nrt-sice-rasters-greenland-arctic-sice/collection.json",
+      "href": "./nrt-sice-rasters-greenland-arctic-sice/collection.json",
       "type": "application/json",
       "title": "NRT SICE rasters for Greenland_Arctic_S3"
     },
     {
-      "rel": "self",
-      "href": "https://constantinius.github.io/osc-demo/pre-operational-sentinel-3-snow-and-ice-products-sice/collection.json",
-      "type": "application/json"
-    },
-    {
       "rel": "parent",
-      "href": "https://constantinius.github.io/osc-demo/collection.json",
+      "href": "../collection.json",
       "type": "application/json"
     }
   ],
@@ -74,7 +69,6 @@
   "osc:type": "Project",
   "start_datetime": "2018-08-07T00:00:00Z",
   "end_datetime": "2019-12-03T23:59:59Z",
-  "updated": "2023-02-03T10:45:00Z",
   "extent": {
     "spatial": {
       "bbox": [
@@ -90,14 +84,5 @@
       ]
     }
   },
-  "license": "proprietary",
-  "assets": {
-    "iso-metadata": {
-      "href": "https://constantinius.github.io/osc-demo/pre-operational-sentinel-3-snow-and-ice-products-sice/iso.xml",
-      "type": "application/xml",
-      "roles": [
-        "metadata"
-      ]
-    }
-  }
+  "license": "proprietary"
 }
