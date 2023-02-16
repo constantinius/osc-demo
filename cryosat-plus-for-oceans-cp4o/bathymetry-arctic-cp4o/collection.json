@@ -6,7 +6,7 @@
   "links": [
     {
       "rel": "root",
-      "href": "../../collection.json",
+      "href": "https://constantinius.github.io/osc-demo/collection.json",
       "type": "application/json"
     },
     {
@@ -25,8 +25,13 @@
       "title": "Documentation"
     },
     {
+      "rel": "self",
+      "href": "https://constantinius.github.io/osc-demo/cryosat-plus-for-oceans-cp4o/bathymetry-arctic-cp4o/collection.json",
+      "type": "application/json"
+    },
+    {
       "rel": "parent",
-      "href": "../collection.json",
+      "href": "https://constantinius.github.io/osc-demo/cryosat-plus-for-oceans-cp4o/collection.json",
       "type": "application/json",
       "title": "CryoSat+ Oceans"
     }
@@ -50,13 +55,16 @@
   "created": "2015-02-23T00:00:00Z",
   "start_datetime": "2014-01-01T00:00:00Z",
   "end_datetime": "2014-12-31T23:59:59Z",
+  "updated": "2023-02-16T07:38:34Z",
   "extent": {
     "spatial": {
       "bbox": [
-        -178.4105321808,
-        60.6134006095,
-        178.3660428163,
-        84.2454100786
+        [
+          -178.4105321808,
+          60.6134006095,
+          178.3660428163,
+          84.2454100786
+        ]
       ]
     },
     "temporal": {
@@ -68,5 +76,14 @@
       ]
     }
   },
-  "license": "proprietary"
+  "license": "proprietary",
+  "assets": {
+    "iso-metadata": {
+      "href": "./iso.xml",
+      "type": "application/xml",
+      "roles": [
+        "metadata"
+      ]
+    }
+  }
 }

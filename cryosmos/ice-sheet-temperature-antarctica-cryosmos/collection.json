@@ -6,7 +6,7 @@
   "links": [
     {
       "rel": "root",
-      "href": "../../collection.json",
+      "href": "https://constantinius.github.io/osc-demo/collection.json",
       "type": "application/json"
     },
     {
@@ -24,8 +24,13 @@
       "href": "https://doi.org/10.1016/j.rse.2019.111405"
     },
     {
+      "rel": "self",
+      "href": "https://constantinius.github.io/osc-demo/cryosmos/ice-sheet-temperature-antarctica-cryosmos/collection.json",
+      "type": "application/json"
+    },
+    {
       "rel": "parent",
-      "href": "../collection.json",
+      "href": "https://constantinius.github.io/osc-demo/cryosmos/collection.json",
       "type": "application/json",
       "title": "CryoSMOS"
     }
@@ -50,13 +55,16 @@
   "start_datetime": "2013-01-01T00:00:00Z",
   "end_datetime": "2014-12-31T23:59:59Z",
   "sci:doi": "10.1016/j.rse.2019.111405",
+  "updated": "2023-02-16T07:38:34Z",
   "extent": {
     "spatial": {
       "bbox": [
-        -180.0,
-        -83.0,
-        180.0,
-        -60.0
+        [
+          -180.0,
+          -83.0,
+          180.0,
+          -60.0
+        ]
       ]
     },
     "temporal": {
@@ -68,5 +76,14 @@
       ]
     }
   },
-  "license": "proprietary"
+  "license": "proprietary",
+  "assets": {
+    "iso-metadata": {
+      "href": "./iso.xml",
+      "type": "application/xml",
+      "roles": [
+        "metadata"
+      ]
+    }
+  }
 }

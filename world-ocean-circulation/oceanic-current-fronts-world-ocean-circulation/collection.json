@@ -6,7 +6,7 @@
   "links": [
     {
       "rel": "root",
-      "href": "../../collection.json",
+      "href": "https://constantinius.github.io/osc-demo/collection.json",
       "type": "application/json"
     },
     {
@@ -25,8 +25,13 @@
       "title": "Documentation"
     },
     {
+      "rel": "self",
+      "href": "https://constantinius.github.io/osc-demo/world-ocean-circulation/oceanic-current-fronts-world-ocean-circulation/collection.json",
+      "type": "application/json"
+    },
+    {
       "rel": "parent",
-      "href": "../collection.json",
+      "href": "https://constantinius.github.io/osc-demo/world-ocean-circulation/collection.json",
       "type": "application/json",
       "title": "WOC"
     }
@@ -47,13 +52,16 @@
   "created": "2021-11-30T00:00:00Z",
   "start_datetime": "2010-01-01T00:00:00Z",
   "end_datetime": "2020-12-31T23:59:59Z",
+  "updated": "2023-02-16T07:38:34Z",
   "extent": {
     "spatial": {
       "bbox": [
-        -5.4006553,
-        36.05875496,
-        -5.27666114,
-        36.15503755
+        [
+          -5.4006553,
+          36.05875496,
+          -5.27666114,
+          36.15503755
+        ]
       ]
     },
     "temporal": {
@@ -65,5 +73,14 @@
       ]
     }
   },
-  "license": "proprietary"
+  "license": "proprietary",
+  "assets": {
+    "iso-metadata": {
+      "href": "./iso.xml",
+      "type": "application/xml",
+      "roles": [
+        "metadata"
+      ]
+    }
+  }
 }

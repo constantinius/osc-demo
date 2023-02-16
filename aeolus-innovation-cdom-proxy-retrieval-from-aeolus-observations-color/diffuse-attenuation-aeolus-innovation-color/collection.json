@@ -6,7 +6,7 @@
   "links": [
     {
       "rel": "root",
-      "href": "../../collection.json",
+      "href": "https://constantinius.github.io/osc-demo/collection.json",
       "type": "application/json"
     },
     {
@@ -20,8 +20,13 @@
       "title": "Access"
     },
     {
+      "rel": "self",
+      "href": "https://constantinius.github.io/osc-demo/aeolus-innovation-cdom-proxy-retrieval-from-aeolus-observations-color/diffuse-attenuation-aeolus-innovation-color/collection.json",
+      "type": "application/json"
+    },
+    {
       "rel": "parent",
-      "href": "../collection.json",
+      "href": "https://constantinius.github.io/osc-demo/aeolus-innovation-cdom-proxy-retrieval-from-aeolus-observations-color/collection.json",
       "type": "application/json",
       "title": "AEOLUS+inno - COLOR"
     }
@@ -41,13 +46,16 @@
   "osc:status": "COMPLETED",
   "osc:region": "Global",
   "osc:type": "Product",
+  "updated": "2023-02-16T07:38:34Z",
   "extent": {
     "spatial": {
       "bbox": [
-        -180.0,
-        -90.0,
-        180.0,
-        90.0
+        [
+          -180.0,
+          -90.0,
+          180.0,
+          90.0
+        ]
       ]
     },
     "temporal": {
@@ -59,5 +67,14 @@
       ]
     }
   },
-  "license": "proprietary"
+  "license": "proprietary",
+  "assets": {
+    "iso-metadata": {
+      "href": "./iso.xml",
+      "type": "application/xml",
+      "roles": [
+        "metadata"
+      ]
+    }
+  }
 }

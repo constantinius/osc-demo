@@ -6,7 +6,7 @@
   "links": [
     {
       "rel": "root",
-      "href": "../../collection.json",
+      "href": "https://constantinius.github.io/osc-demo/collection.json",
       "type": "application/json"
     },
     {
@@ -24,8 +24,13 @@
       "href": "https://doi.org/10.20350/digitalCSIC/13860"
     },
     {
+      "rel": "self",
+      "href": "https://constantinius.github.io/osc-demo/baltic-salinity-dynamics/baltic-sea-surface-salinity-l4-baltic-salinity-dynamics/collection.json",
+      "type": "application/json"
+    },
+    {
       "rel": "parent",
-      "href": "../collection.json",
+      "href": "https://constantinius.github.io/osc-demo/baltic-salinity-dynamics/collection.json",
       "type": "application/json",
       "title": "BALTIC+ Salinity Dynamics"
     }
@@ -52,13 +57,16 @@
   "end_datetime": "2019-12-31T23:59:59Z",
   "version": "2.0",
   "sci:doi": "10.20350/digitalCSIC/13860",
+  "updated": "2023-02-16T07:38:34Z",
   "extent": {
     "spatial": {
       "bbox": [
-        9.0405918788,
-        53.8666553578,
-        31.3371258934,
-        66.1535071282
+        [
+          9.0405918788,
+          53.8666553578,
+          31.3371258934,
+          66.1535071282
+        ]
       ]
     },
     "temporal": {
@@ -70,5 +78,14 @@
       ]
     }
   },
-  "license": "proprietary"
+  "license": "proprietary",
+  "assets": {
+    "iso-metadata": {
+      "href": "./iso.xml",
+      "type": "application/xml",
+      "roles": [
+        "metadata"
+      ]
+    }
+  }
 }

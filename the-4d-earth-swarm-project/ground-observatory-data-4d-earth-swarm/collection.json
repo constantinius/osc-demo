@@ -6,7 +6,7 @@
   "links": [
     {
       "rel": "root",
-      "href": "../../collection.json",
+      "href": "https://constantinius.github.io/osc-demo/collection.json",
       "type": "application/json"
     },
     {
@@ -20,8 +20,13 @@
       "title": "Access"
     },
     {
+      "rel": "self",
+      "href": "https://constantinius.github.io/osc-demo/the-4d-earth-swarm-project/ground-observatory-data-4d-earth-swarm/collection.json",
+      "type": "application/json"
+    },
+    {
       "rel": "parent",
-      "href": "../collection.json",
+      "href": "https://constantinius.github.io/osc-demo/the-4d-earth-swarm-project/collection.json",
       "type": "application/json",
       "title": "4D-Earth SWARM"
     }
@@ -41,6 +46,7 @@
   "osc:region": null,
   "osc:type": "Product",
   "created": "2021-09-10T00:00:00Z",
+  "updated": "2023-02-16T07:38:34Z",
   "extent": {
     "spatial": {
       "bbox": [
@@ -61,5 +67,14 @@
       ]
     }
   },
-  "license": "proprietary"
+  "license": "proprietary",
+  "assets": {
+    "iso-metadata": {
+      "href": "./iso.xml",
+      "type": "application/xml",
+      "roles": [
+        "metadata"
+      ]
+    }
+  }
 }

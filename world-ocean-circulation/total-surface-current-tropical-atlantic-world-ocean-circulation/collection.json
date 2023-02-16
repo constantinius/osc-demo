@@ -6,7 +6,7 @@
   "links": [
     {
       "rel": "root",
-      "href": "../../collection.json",
+      "href": "https://constantinius.github.io/osc-demo/collection.json",
       "type": "application/json"
     },
     {
@@ -20,8 +20,13 @@
       "title": "Access"
     },
     {
+      "rel": "self",
+      "href": "https://constantinius.github.io/osc-demo/world-ocean-circulation/total-surface-current-tropical-atlantic-world-ocean-circulation/collection.json",
+      "type": "application/json"
+    },
+    {
       "rel": "parent",
-      "href": "../collection.json",
+      "href": "https://constantinius.github.io/osc-demo/world-ocean-circulation/collection.json",
       "type": "application/json",
       "title": "WOC"
     }
@@ -41,13 +46,16 @@
   "osc:type": "Product",
   "start_datetime": "2018-01-01T00:00:00Z",
   "end_datetime": "2018-12-31T23:59:59Z",
+  "updated": "2023-02-16T07:38:34Z",
   "extent": {
     "spatial": {
       "bbox": [
-        -89.4913889096,
-        -0.4101314918,
-        12.2761059784,
-        20.4479407425
+        [
+          -89.4913889096,
+          -0.4101314918,
+          12.2761059784,
+          20.4479407425
+        ]
       ]
     },
     "temporal": {
@@ -59,5 +67,14 @@
       ]
     }
   },
-  "license": "proprietary"
+  "license": "proprietary",
+  "assets": {
+    "iso-metadata": {
+      "href": "./iso.xml",
+      "type": "application/xml",
+      "roles": [
+        "metadata"
+      ]
+    }
+  }
 }

@@ -6,7 +6,7 @@
   "links": [
     {
       "rel": "root",
-      "href": "../../collection.json",
+      "href": "https://constantinius.github.io/osc-demo/collection.json",
       "type": "application/json"
     },
     {
@@ -29,8 +29,13 @@
       "href": "https://doi.org/10.5281/zenodo.5998113"
     },
     {
+      "rel": "self",
+      "href": "https://constantinius.github.io/osc-demo/smos-rainfall-land/rainfall-prism-0-1-v2-africa-smos-rainfall/collection.json",
+      "type": "application/json"
+    },
+    {
       "rel": "parent",
-      "href": "../collection.json",
+      "href": "https://constantinius.github.io/osc-demo/smos-rainfall-land/collection.json",
       "type": "application/json",
       "title": "SMOS+ Rainfall Land"
     }
@@ -56,13 +61,16 @@
   "end_datetime": "2021-12-31T23:59:59Z",
   "version": "2.0",
   "sci:doi": "10.5281/zenodo.5998113",
+  "updated": "2023-02-16T07:38:34Z",
   "extent": {
     "spatial": {
       "bbox": [
-        -17.6437950701,
-        -34.7956685989,
-        51.3470799095,
-        37.4409039439
+        [
+          -17.6437950701,
+          -34.7956685989,
+          51.3470799095,
+          37.4409039439
+        ]
       ]
     },
     "temporal": {
@@ -74,5 +82,14 @@
       ]
     }
   },
-  "license": "proprietary"
+  "license": "proprietary",
+  "assets": {
+    "iso-metadata": {
+      "href": "./iso.xml",
+      "type": "application/xml",
+      "roles": [
+        "metadata"
+      ]
+    }
+  }
 }

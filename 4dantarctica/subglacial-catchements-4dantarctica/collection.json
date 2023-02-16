@@ -6,7 +6,7 @@
   "links": [
     {
       "rel": "root",
-      "href": "../../collection.json",
+      "href": "https://constantinius.github.io/osc-demo/collection.json",
       "type": "application/json"
     },
     {
@@ -15,8 +15,13 @@
       "title": "Website"
     },
     {
+      "rel": "self",
+      "href": "https://constantinius.github.io/osc-demo/4dantarctica/subglacial-catchements-4dantarctica/collection.json",
+      "type": "application/json"
+    },
+    {
       "rel": "parent",
-      "href": "../collection.json",
+      "href": "https://constantinius.github.io/osc-demo/4dantarctica/collection.json",
       "type": "application/json",
       "title": "4D-ANTARCTICA"
     }
@@ -37,13 +42,16 @@
   "start_datetime": "2012-01-01T00:00:00Z",
   "end_datetime": "2012-12-31T23:59:59Z",
   "version": "1",
+  "updated": "2023-02-16T07:38:34Z",
   "extent": {
     "spatial": {
       "bbox": [
-        -58.4,
-        -128.7,
-        -57.6,
-        128.4
+        [
+          -58.4,
+          -128.7,
+          -57.6,
+          128.4
+        ]
       ]
     },
     "temporal": {
@@ -55,5 +63,14 @@
       ]
     }
   },
-  "license": "proprietary"
+  "license": "proprietary",
+  "assets": {
+    "iso-metadata": {
+      "href": "./iso.xml",
+      "type": "application/xml",
+      "roles": [
+        "metadata"
+      ]
+    }
+  }
 }

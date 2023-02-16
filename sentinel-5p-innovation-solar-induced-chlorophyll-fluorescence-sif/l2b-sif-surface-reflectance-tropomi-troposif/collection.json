@@ -6,7 +6,7 @@
   "links": [
     {
       "rel": "root",
-      "href": "../../collection.json",
+      "href": "https://constantinius.github.io/osc-demo/collection.json",
       "type": "application/json"
     },
     {
@@ -25,8 +25,13 @@
       "title": "Documentation"
     },
     {
+      "rel": "self",
+      "href": "https://constantinius.github.io/osc-demo/sentinel-5p-innovation-solar-induced-chlorophyll-fluorescence-sif/l2b-sif-surface-reflectance-tropomi-troposif/collection.json",
+      "type": "application/json"
+    },
+    {
       "rel": "parent",
-      "href": "../collection.json",
+      "href": "https://constantinius.github.io/osc-demo/sentinel-5p-innovation-solar-induced-chlorophyll-fluorescence-sif/collection.json",
       "type": "application/json",
       "title": "S5p Inno - SIF"
     }
@@ -48,13 +53,16 @@
   "osc:type": "Product",
   "start_datetime": "2018-01-01T00:00:00Z",
   "end_datetime": "2021-12-31T23:59:59Z",
+  "updated": "2023-02-16T07:38:34Z",
   "extent": {
     "spatial": {
       "bbox": [
-        -180.0,
-        -90.0,
-        180.0,
-        90.0
+        [
+          -180.0,
+          -90.0,
+          180.0,
+          90.0
+        ]
       ]
     },
     "temporal": {
@@ -66,5 +74,14 @@
       ]
     }
   },
-  "license": "proprietary"
+  "license": "proprietary",
+  "assets": {
+    "iso-metadata": {
+      "href": "./iso.xml",
+      "type": "application/xml",
+      "roles": [
+        "metadata"
+      ]
+    }
+  }
 }

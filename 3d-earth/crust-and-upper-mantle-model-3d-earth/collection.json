@@ -6,7 +6,7 @@
   "links": [
     {
       "rel": "root",
-      "href": "../../collection.json",
+      "href": "https://constantinius.github.io/osc-demo/collection.json",
       "type": "application/json"
     },
     {
@@ -20,8 +20,13 @@
       "title": "Access"
     },
     {
+      "rel": "self",
+      "href": "https://constantinius.github.io/osc-demo/3d-earth/crust-and-upper-mantle-model-3d-earth/collection.json",
+      "type": "application/json"
+    },
+    {
       "rel": "parent",
-      "href": "../collection.json",
+      "href": "https://constantinius.github.io/osc-demo/3d-earth/collection.json",
       "type": "application/json",
       "title": "3D-EARTH"
     }
@@ -42,13 +47,16 @@
   "osc:region": "Global",
   "osc:type": "Product",
   "created": "2021-03-10T00:00:00Z",
+  "updated": "2023-02-16T07:38:34Z",
   "extent": {
     "spatial": {
       "bbox": [
-        -180.0,
-        -90.0,
-        180.0,
-        90.0
+        [
+          -180.0,
+          -90.0,
+          180.0,
+          90.0
+        ]
       ]
     },
     "temporal": {
@@ -60,5 +68,14 @@
       ]
     }
   },
-  "license": "proprietary"
+  "license": "proprietary",
+  "assets": {
+    "iso-metadata": {
+      "href": "./iso.xml",
+      "type": "application/xml",
+      "roles": [
+        "metadata"
+      ]
+    }
+  }
 }

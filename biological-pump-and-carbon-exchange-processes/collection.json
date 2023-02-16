@@ -6,7 +6,7 @@
   "links": [
     {
       "rel": "root",
-      "href": "../collection.json",
+      "href": "https://constantinius.github.io/osc-demo/collection.json",
       "type": "application/json"
     },
     {
@@ -21,49 +21,54 @@
     },
     {
       "rel": "child",
-      "href": "./global-particulate-organic-carbon-v4-bicep/collection.json",
+      "href": "https://constantinius.github.io/osc-demo/biological-pump-and-carbon-exchange-processes/global-particulate-organic-carbon-v4-bicep/collection.json",
       "type": "application/json",
       "title": "Monthly Global Particulate Organic Carbon dataset (4 km, OC-CCI v4.2)"
     },
     {
       "rel": "child",
-      "href": "./global-particulate-organic-carbon-v5-bicep/collection.json",
+      "href": "https://constantinius.github.io/osc-demo/biological-pump-and-carbon-exchange-processes/global-particulate-organic-carbon-v5-bicep/collection.json",
       "type": "application/json",
       "title": "Monthly Global Particulate Organic Carbon dataset (4 km, OC-CCI v5)"
     },
     {
       "rel": "child",
-      "href": "./global-marine-phytoplankton-primary-production-bicep/collection.json",
+      "href": "https://constantinius.github.io/osc-demo/biological-pump-and-carbon-exchange-processes/global-marine-phytoplankton-primary-production-bicep/collection.json",
       "type": "application/json",
       "title": "Monthly global Marine Phytoplankton Primary Production dataset"
     },
     {
       "rel": "child",
-      "href": "./global-marine-phytoplankton-carbon-bicep/collection.json",
+      "href": "https://constantinius.github.io/osc-demo/biological-pump-and-carbon-exchange-processes/global-marine-phytoplankton-carbon-bicep/collection.json",
       "type": "application/json",
       "title": "Monthly global Phytoplankton Carbon dataset"
     },
     {
       "rel": "child",
-      "href": "./dissolved-organic-carbon-bicep/collection.json",
+      "href": "https://constantinius.github.io/osc-demo/biological-pump-and-carbon-exchange-processes/dissolved-organic-carbon-bicep/collection.json",
       "type": "application/json",
       "title": "Dissolved Organic Carbon"
     },
     {
       "rel": "child",
-      "href": "./export-production-bicep/collection.json",
+      "href": "https://constantinius.github.io/osc-demo/biological-pump-and-carbon-exchange-processes/export-production-bicep/collection.json",
       "type": "application/json",
       "title": "Export Production"
     },
     {
       "rel": "child",
-      "href": "./particulate-inorganic-carbon-bicep/collection.json",
+      "href": "https://constantinius.github.io/osc-demo/biological-pump-and-carbon-exchange-processes/particulate-inorganic-carbon-bicep/collection.json",
       "type": "application/json",
       "title": "Particulate Inorganic Carbon"
     },
     {
+      "rel": "self",
+      "href": "https://constantinius.github.io/osc-demo/biological-pump-and-carbon-exchange-processes/collection.json",
+      "type": "application/json"
+    },
+    {
       "rel": "parent",
-      "href": "../collection.json",
+      "href": "https://constantinius.github.io/osc-demo/collection.json",
       "type": "application/json"
     }
   ],
@@ -92,6 +97,7 @@
   "osc:type": "Project",
   "start_datetime": "2019-12-09T00:00:00Z",
   "end_datetime": "2021-07-13T23:59:59Z",
+  "updated": "2023-02-16T07:38:34Z",
   "extent": {
     "spatial": {
       "bbox": [
@@ -107,5 +113,14 @@
       ]
     }
   },
-  "license": "proprietary"
+  "license": "proprietary",
+  "assets": {
+    "iso-metadata": {
+      "href": "https://constantinius.github.io/osc-demo/biological-pump-and-carbon-exchange-processes/iso.xml",
+      "type": "application/xml",
+      "roles": [
+        "metadata"
+      ]
+    }
+  }
 }

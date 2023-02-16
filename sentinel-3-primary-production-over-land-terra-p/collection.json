@@ -6,7 +6,7 @@
   "links": [
     {
       "rel": "root",
-      "href": "../collection.json",
+      "href": "https://constantinius.github.io/osc-demo/collection.json",
       "type": "application/json"
     },
     {
@@ -20,8 +20,13 @@
       "title": "EO4Society Link"
     },
     {
+      "rel": "self",
+      "href": "https://constantinius.github.io/osc-demo/sentinel-3-primary-production-over-land-terra-p/collection.json",
+      "type": "application/json"
+    },
+    {
       "rel": "parent",
-      "href": "../collection.json",
+      "href": "https://constantinius.github.io/osc-demo/collection.json",
       "type": "application/json"
     }
   ],
@@ -47,6 +52,7 @@
   "osc:type": "Project",
   "start_datetime": "2016-09-26T00:00:00Z",
   "end_datetime": "2022-01-01T23:59:59Z",
+  "updated": "2023-02-16T07:38:34Z",
   "extent": {
     "spatial": {
       "bbox": [
@@ -62,5 +68,14 @@
       ]
     }
   },
-  "license": "proprietary"
+  "license": "proprietary",
+  "assets": {
+    "iso-metadata": {
+      "href": "https://constantinius.github.io/osc-demo/sentinel-3-primary-production-over-land-terra-p/iso.xml",
+      "type": "application/xml",
+      "roles": [
+        "metadata"
+      ]
+    }
+  }
 }
