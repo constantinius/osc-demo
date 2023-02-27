@@ -6,476 +6,482 @@
   "links": [
     {
       "rel": "root",
-      "href": "../collection.json",
+      "href": "https://constantinius.github.io/osc-demo/collection.json",
       "type": "application/json"
     },
     {
       "rel": "child",
-      "href": "./001/collection.json",
+      "href": "https://constantinius.github.io/osc-demo/world-ocean-circulation/doppler-derived-surface-current-world-ocean-circulation/v1.1/2020/001/collection.json",
       "type": "application/json"
     },
     {
       "rel": "child",
-      "href": "./003/collection.json",
+      "href": "https://constantinius.github.io/osc-demo/world-ocean-circulation/doppler-derived-surface-current-world-ocean-circulation/v1.1/2020/003/collection.json",
       "type": "application/json"
     },
     {
       "rel": "child",
-      "href": "./004/collection.json",
+      "href": "https://constantinius.github.io/osc-demo/world-ocean-circulation/doppler-derived-surface-current-world-ocean-circulation/v1.1/2020/004/collection.json",
       "type": "application/json"
     },
     {
       "rel": "child",
-      "href": "./005/collection.json",
+      "href": "https://constantinius.github.io/osc-demo/world-ocean-circulation/doppler-derived-surface-current-world-ocean-circulation/v1.1/2020/005/collection.json",
       "type": "application/json"
     },
     {
       "rel": "child",
-      "href": "./007/collection.json",
+      "href": "https://constantinius.github.io/osc-demo/world-ocean-circulation/doppler-derived-surface-current-world-ocean-circulation/v1.1/2020/007/collection.json",
       "type": "application/json"
     },
     {
       "rel": "child",
-      "href": "./010/collection.json",
+      "href": "https://constantinius.github.io/osc-demo/world-ocean-circulation/doppler-derived-surface-current-world-ocean-circulation/v1.1/2020/010/collection.json",
       "type": "application/json"
     },
     {
       "rel": "child",
-      "href": "./011/collection.json",
+      "href": "https://constantinius.github.io/osc-demo/world-ocean-circulation/doppler-derived-surface-current-world-ocean-circulation/v1.1/2020/011/collection.json",
       "type": "application/json"
     },
     {
       "rel": "child",
-      "href": "./013/collection.json",
+      "href": "https://constantinius.github.io/osc-demo/world-ocean-circulation/doppler-derived-surface-current-world-ocean-circulation/v1.1/2020/013/collection.json",
       "type": "application/json"
     },
     {
       "rel": "child",
-      "href": "./016/collection.json",
+      "href": "https://constantinius.github.io/osc-demo/world-ocean-circulation/doppler-derived-surface-current-world-ocean-circulation/v1.1/2020/016/collection.json",
       "type": "application/json"
     },
     {
       "rel": "child",
-      "href": "./017/collection.json",
+      "href": "https://constantinius.github.io/osc-demo/world-ocean-circulation/doppler-derived-surface-current-world-ocean-circulation/v1.1/2020/017/collection.json",
       "type": "application/json"
     },
     {
       "rel": "child",
-      "href": "./018/collection.json",
+      "href": "https://constantinius.github.io/osc-demo/world-ocean-circulation/doppler-derived-surface-current-world-ocean-circulation/v1.1/2020/018/collection.json",
       "type": "application/json"
     },
     {
       "rel": "child",
-      "href": "./019/collection.json",
+      "href": "https://constantinius.github.io/osc-demo/world-ocean-circulation/doppler-derived-surface-current-world-ocean-circulation/v1.1/2020/019/collection.json",
       "type": "application/json"
     },
     {
       "rel": "child",
-      "href": "./020/collection.json",
+      "href": "https://constantinius.github.io/osc-demo/world-ocean-circulation/doppler-derived-surface-current-world-ocean-circulation/v1.1/2020/020/collection.json",
       "type": "application/json"
     },
     {
       "rel": "child",
-      "href": "./021/collection.json",
+      "href": "https://constantinius.github.io/osc-demo/world-ocean-circulation/doppler-derived-surface-current-world-ocean-circulation/v1.1/2020/021/collection.json",
       "type": "application/json"
     },
     {
       "rel": "child",
-      "href": "./022/collection.json",
+      "href": "https://constantinius.github.io/osc-demo/world-ocean-circulation/doppler-derived-surface-current-world-ocean-circulation/v1.1/2020/022/collection.json",
       "type": "application/json"
     },
     {
       "rel": "child",
-      "href": "./023/collection.json",
+      "href": "https://constantinius.github.io/osc-demo/world-ocean-circulation/doppler-derived-surface-current-world-ocean-circulation/v1.1/2020/023/collection.json",
       "type": "application/json"
     },
     {
       "rel": "child",
-      "href": "./025/collection.json",
+      "href": "https://constantinius.github.io/osc-demo/world-ocean-circulation/doppler-derived-surface-current-world-ocean-circulation/v1.1/2020/025/collection.json",
       "type": "application/json"
     },
     {
       "rel": "child",
-      "href": "./026/collection.json",
+      "href": "https://constantinius.github.io/osc-demo/world-ocean-circulation/doppler-derived-surface-current-world-ocean-circulation/v1.1/2020/026/collection.json",
       "type": "application/json"
     },
     {
       "rel": "child",
-      "href": "./028/collection.json",
+      "href": "https://constantinius.github.io/osc-demo/world-ocean-circulation/doppler-derived-surface-current-world-ocean-circulation/v1.1/2020/028/collection.json",
       "type": "application/json"
     },
     {
       "rel": "child",
-      "href": "./030/collection.json",
+      "href": "https://constantinius.github.io/osc-demo/world-ocean-circulation/doppler-derived-surface-current-world-ocean-circulation/v1.1/2020/030/collection.json",
       "type": "application/json"
     },
     {
       "rel": "child",
-      "href": "./031/collection.json",
+      "href": "https://constantinius.github.io/osc-demo/world-ocean-circulation/doppler-derived-surface-current-world-ocean-circulation/v1.1/2020/031/collection.json",
       "type": "application/json"
     },
     {
       "rel": "child",
-      "href": "./037/collection.json",
+      "href": "https://constantinius.github.io/osc-demo/world-ocean-circulation/doppler-derived-surface-current-world-ocean-circulation/v1.1/2020/037/collection.json",
       "type": "application/json"
     },
     {
       "rel": "child",
-      "href": "./038/collection.json",
+      "href": "https://constantinius.github.io/osc-demo/world-ocean-circulation/doppler-derived-surface-current-world-ocean-circulation/v1.1/2020/038/collection.json",
       "type": "application/json"
     },
     {
       "rel": "child",
-      "href": "./039/collection.json",
+      "href": "https://constantinius.github.io/osc-demo/world-ocean-circulation/doppler-derived-surface-current-world-ocean-circulation/v1.1/2020/039/collection.json",
       "type": "application/json"
     },
     {
       "rel": "child",
-      "href": "./040/collection.json",
+      "href": "https://constantinius.github.io/osc-demo/world-ocean-circulation/doppler-derived-surface-current-world-ocean-circulation/v1.1/2020/040/collection.json",
       "type": "application/json"
     },
     {
       "rel": "child",
-      "href": "./041/collection.json",
+      "href": "https://constantinius.github.io/osc-demo/world-ocean-circulation/doppler-derived-surface-current-world-ocean-circulation/v1.1/2020/041/collection.json",
       "type": "application/json"
     },
     {
       "rel": "child",
-      "href": "./042/collection.json",
+      "href": "https://constantinius.github.io/osc-demo/world-ocean-circulation/doppler-derived-surface-current-world-ocean-circulation/v1.1/2020/042/collection.json",
       "type": "application/json"
     },
     {
       "rel": "child",
-      "href": "./043/collection.json",
+      "href": "https://constantinius.github.io/osc-demo/world-ocean-circulation/doppler-derived-surface-current-world-ocean-circulation/v1.1/2020/043/collection.json",
       "type": "application/json"
     },
     {
       "rel": "child",
-      "href": "./044/collection.json",
+      "href": "https://constantinius.github.io/osc-demo/world-ocean-circulation/doppler-derived-surface-current-world-ocean-circulation/v1.1/2020/044/collection.json",
       "type": "application/json"
     },
     {
       "rel": "child",
-      "href": "./045/collection.json",
+      "href": "https://constantinius.github.io/osc-demo/world-ocean-circulation/doppler-derived-surface-current-world-ocean-circulation/v1.1/2020/045/collection.json",
       "type": "application/json"
     },
     {
       "rel": "child",
-      "href": "./046/collection.json",
+      "href": "https://constantinius.github.io/osc-demo/world-ocean-circulation/doppler-derived-surface-current-world-ocean-circulation/v1.1/2020/046/collection.json",
       "type": "application/json"
     },
     {
       "rel": "child",
-      "href": "./047/collection.json",
+      "href": "https://constantinius.github.io/osc-demo/world-ocean-circulation/doppler-derived-surface-current-world-ocean-circulation/v1.1/2020/047/collection.json",
       "type": "application/json"
     },
     {
       "rel": "child",
-      "href": "./049/collection.json",
+      "href": "https://constantinius.github.io/osc-demo/world-ocean-circulation/doppler-derived-surface-current-world-ocean-circulation/v1.1/2020/049/collection.json",
       "type": "application/json"
     },
     {
       "rel": "child",
-      "href": "./051/collection.json",
+      "href": "https://constantinius.github.io/osc-demo/world-ocean-circulation/doppler-derived-surface-current-world-ocean-circulation/v1.1/2020/051/collection.json",
       "type": "application/json"
     },
     {
       "rel": "child",
-      "href": "./052/collection.json",
+      "href": "https://constantinius.github.io/osc-demo/world-ocean-circulation/doppler-derived-surface-current-world-ocean-circulation/v1.1/2020/052/collection.json",
       "type": "application/json"
     },
     {
       "rel": "child",
-      "href": "./053/collection.json",
+      "href": "https://constantinius.github.io/osc-demo/world-ocean-circulation/doppler-derived-surface-current-world-ocean-circulation/v1.1/2020/053/collection.json",
       "type": "application/json"
     },
     {
       "rel": "child",
-      "href": "./054/collection.json",
+      "href": "https://constantinius.github.io/osc-demo/world-ocean-circulation/doppler-derived-surface-current-world-ocean-circulation/v1.1/2020/054/collection.json",
       "type": "application/json"
     },
     {
       "rel": "child",
-      "href": "./055/collection.json",
+      "href": "https://constantinius.github.io/osc-demo/world-ocean-circulation/doppler-derived-surface-current-world-ocean-circulation/v1.1/2020/055/collection.json",
       "type": "application/json"
     },
     {
       "rel": "child",
-      "href": "./056/collection.json",
+      "href": "https://constantinius.github.io/osc-demo/world-ocean-circulation/doppler-derived-surface-current-world-ocean-circulation/v1.1/2020/056/collection.json",
       "type": "application/json"
     },
     {
       "rel": "child",
-      "href": "./058/collection.json",
+      "href": "https://constantinius.github.io/osc-demo/world-ocean-circulation/doppler-derived-surface-current-world-ocean-circulation/v1.1/2020/058/collection.json",
       "type": "application/json"
     },
     {
       "rel": "child",
-      "href": "./059/collection.json",
+      "href": "https://constantinius.github.io/osc-demo/world-ocean-circulation/doppler-derived-surface-current-world-ocean-circulation/v1.1/2020/059/collection.json",
       "type": "application/json"
     },
     {
       "rel": "child",
-      "href": "./061/collection.json",
+      "href": "https://constantinius.github.io/osc-demo/world-ocean-circulation/doppler-derived-surface-current-world-ocean-circulation/v1.1/2020/061/collection.json",
       "type": "application/json"
     },
     {
       "rel": "child",
-      "href": "./062/collection.json",
+      "href": "https://constantinius.github.io/osc-demo/world-ocean-circulation/doppler-derived-surface-current-world-ocean-circulation/v1.1/2020/062/collection.json",
       "type": "application/json"
     },
     {
       "rel": "child",
-      "href": "./063/collection.json",
+      "href": "https://constantinius.github.io/osc-demo/world-ocean-circulation/doppler-derived-surface-current-world-ocean-circulation/v1.1/2020/063/collection.json",
       "type": "application/json"
     },
     {
       "rel": "child",
-      "href": "./064/collection.json",
+      "href": "https://constantinius.github.io/osc-demo/world-ocean-circulation/doppler-derived-surface-current-world-ocean-circulation/v1.1/2020/064/collection.json",
       "type": "application/json"
     },
     {
       "rel": "child",
-      "href": "./065/collection.json",
+      "href": "https://constantinius.github.io/osc-demo/world-ocean-circulation/doppler-derived-surface-current-world-ocean-circulation/v1.1/2020/065/collection.json",
       "type": "application/json"
     },
     {
       "rel": "child",
-      "href": "./066/collection.json",
+      "href": "https://constantinius.github.io/osc-demo/world-ocean-circulation/doppler-derived-surface-current-world-ocean-circulation/v1.1/2020/066/collection.json",
       "type": "application/json"
     },
     {
       "rel": "child",
-      "href": "./067/collection.json",
+      "href": "https://constantinius.github.io/osc-demo/world-ocean-circulation/doppler-derived-surface-current-world-ocean-circulation/v1.1/2020/067/collection.json",
       "type": "application/json"
     },
     {
       "rel": "child",
-      "href": "./068/collection.json",
+      "href": "https://constantinius.github.io/osc-demo/world-ocean-circulation/doppler-derived-surface-current-world-ocean-circulation/v1.1/2020/068/collection.json",
       "type": "application/json"
     },
     {
       "rel": "child",
-      "href": "./069/collection.json",
+      "href": "https://constantinius.github.io/osc-demo/world-ocean-circulation/doppler-derived-surface-current-world-ocean-circulation/v1.1/2020/069/collection.json",
       "type": "application/json"
     },
     {
       "rel": "child",
-      "href": "./070/collection.json",
+      "href": "https://constantinius.github.io/osc-demo/world-ocean-circulation/doppler-derived-surface-current-world-ocean-circulation/v1.1/2020/070/collection.json",
       "type": "application/json"
     },
     {
       "rel": "child",
-      "href": "./071/collection.json",
+      "href": "https://constantinius.github.io/osc-demo/world-ocean-circulation/doppler-derived-surface-current-world-ocean-circulation/v1.1/2020/071/collection.json",
       "type": "application/json"
     },
     {
       "rel": "child",
-      "href": "./073/collection.json",
+      "href": "https://constantinius.github.io/osc-demo/world-ocean-circulation/doppler-derived-surface-current-world-ocean-circulation/v1.1/2020/073/collection.json",
       "type": "application/json"
     },
     {
       "rel": "child",
-      "href": "./074/collection.json",
+      "href": "https://constantinius.github.io/osc-demo/world-ocean-circulation/doppler-derived-surface-current-world-ocean-circulation/v1.1/2020/074/collection.json",
       "type": "application/json"
     },
     {
       "rel": "child",
-      "href": "./075/collection.json",
+      "href": "https://constantinius.github.io/osc-demo/world-ocean-circulation/doppler-derived-surface-current-world-ocean-circulation/v1.1/2020/075/collection.json",
       "type": "application/json"
     },
     {
       "rel": "child",
-      "href": "./076/collection.json",
+      "href": "https://constantinius.github.io/osc-demo/world-ocean-circulation/doppler-derived-surface-current-world-ocean-circulation/v1.1/2020/076/collection.json",
       "type": "application/json"
     },
     {
       "rel": "child",
-      "href": "./077/collection.json",
+      "href": "https://constantinius.github.io/osc-demo/world-ocean-circulation/doppler-derived-surface-current-world-ocean-circulation/v1.1/2020/077/collection.json",
       "type": "application/json"
     },
     {
       "rel": "child",
-      "href": "./078/collection.json",
+      "href": "https://constantinius.github.io/osc-demo/world-ocean-circulation/doppler-derived-surface-current-world-ocean-circulation/v1.1/2020/078/collection.json",
       "type": "application/json"
     },
     {
       "rel": "child",
-      "href": "./079/collection.json",
+      "href": "https://constantinius.github.io/osc-demo/world-ocean-circulation/doppler-derived-surface-current-world-ocean-circulation/v1.1/2020/079/collection.json",
       "type": "application/json"
     },
     {
       "rel": "child",
-      "href": "./080/collection.json",
+      "href": "https://constantinius.github.io/osc-demo/world-ocean-circulation/doppler-derived-surface-current-world-ocean-circulation/v1.1/2020/080/collection.json",
       "type": "application/json"
     },
     {
       "rel": "child",
-      "href": "./081/collection.json",
+      "href": "https://constantinius.github.io/osc-demo/world-ocean-circulation/doppler-derived-surface-current-world-ocean-circulation/v1.1/2020/081/collection.json",
       "type": "application/json"
     },
     {
       "rel": "child",
-      "href": "./082/collection.json",
+      "href": "https://constantinius.github.io/osc-demo/world-ocean-circulation/doppler-derived-surface-current-world-ocean-circulation/v1.1/2020/082/collection.json",
       "type": "application/json"
     },
     {
       "rel": "child",
-      "href": "./083/collection.json",
+      "href": "https://constantinius.github.io/osc-demo/world-ocean-circulation/doppler-derived-surface-current-world-ocean-circulation/v1.1/2020/083/collection.json",
       "type": "application/json"
     },
     {
       "rel": "child",
-      "href": "./085/collection.json",
+      "href": "https://constantinius.github.io/osc-demo/world-ocean-circulation/doppler-derived-surface-current-world-ocean-circulation/v1.1/2020/085/collection.json",
       "type": "application/json"
     },
     {
       "rel": "child",
-      "href": "./087/collection.json",
+      "href": "https://constantinius.github.io/osc-demo/world-ocean-circulation/doppler-derived-surface-current-world-ocean-circulation/v1.1/2020/087/collection.json",
       "type": "application/json"
     },
     {
       "rel": "child",
-      "href": "./088/collection.json",
+      "href": "https://constantinius.github.io/osc-demo/world-ocean-circulation/doppler-derived-surface-current-world-ocean-circulation/v1.1/2020/088/collection.json",
       "type": "application/json"
     },
     {
       "rel": "child",
-      "href": "./089/collection.json",
+      "href": "https://constantinius.github.io/osc-demo/world-ocean-circulation/doppler-derived-surface-current-world-ocean-circulation/v1.1/2020/089/collection.json",
       "type": "application/json"
     },
     {
       "rel": "child",
-      "href": "./090/collection.json",
+      "href": "https://constantinius.github.io/osc-demo/world-ocean-circulation/doppler-derived-surface-current-world-ocean-circulation/v1.1/2020/090/collection.json",
       "type": "application/json"
     },
     {
       "rel": "child",
-      "href": "./091/collection.json",
+      "href": "https://constantinius.github.io/osc-demo/world-ocean-circulation/doppler-derived-surface-current-world-ocean-circulation/v1.1/2020/091/collection.json",
       "type": "application/json"
     },
     {
       "rel": "child",
-      "href": "./092/collection.json",
+      "href": "https://constantinius.github.io/osc-demo/world-ocean-circulation/doppler-derived-surface-current-world-ocean-circulation/v1.1/2020/092/collection.json",
       "type": "application/json"
     },
     {
       "rel": "child",
-      "href": "./093/collection.json",
+      "href": "https://constantinius.github.io/osc-demo/world-ocean-circulation/doppler-derived-surface-current-world-ocean-circulation/v1.1/2020/093/collection.json",
       "type": "application/json"
     },
     {
       "rel": "child",
-      "href": "./094/collection.json",
+      "href": "https://constantinius.github.io/osc-demo/world-ocean-circulation/doppler-derived-surface-current-world-ocean-circulation/v1.1/2020/094/collection.json",
       "type": "application/json"
     },
     {
       "rel": "child",
-      "href": "./095/collection.json",
+      "href": "https://constantinius.github.io/osc-demo/world-ocean-circulation/doppler-derived-surface-current-world-ocean-circulation/v1.1/2020/095/collection.json",
       "type": "application/json"
     },
     {
       "rel": "child",
-      "href": "./097/collection.json",
+      "href": "https://constantinius.github.io/osc-demo/world-ocean-circulation/doppler-derived-surface-current-world-ocean-circulation/v1.1/2020/097/collection.json",
       "type": "application/json"
     },
     {
       "rel": "child",
-      "href": "./099/collection.json",
+      "href": "https://constantinius.github.io/osc-demo/world-ocean-circulation/doppler-derived-surface-current-world-ocean-circulation/v1.1/2020/099/collection.json",
       "type": "application/json"
     },
     {
       "rel": "child",
-      "href": "./100/collection.json",
+      "href": "https://constantinius.github.io/osc-demo/world-ocean-circulation/doppler-derived-surface-current-world-ocean-circulation/v1.1/2020/100/collection.json",
       "type": "application/json"
     },
     {
       "rel": "child",
-      "href": "./101/collection.json",
+      "href": "https://constantinius.github.io/osc-demo/world-ocean-circulation/doppler-derived-surface-current-world-ocean-circulation/v1.1/2020/101/collection.json",
       "type": "application/json"
     },
     {
       "rel": "child",
-      "href": "./102/collection.json",
+      "href": "https://constantinius.github.io/osc-demo/world-ocean-circulation/doppler-derived-surface-current-world-ocean-circulation/v1.1/2020/102/collection.json",
       "type": "application/json"
     },
     {
       "rel": "child",
-      "href": "./103/collection.json",
+      "href": "https://constantinius.github.io/osc-demo/world-ocean-circulation/doppler-derived-surface-current-world-ocean-circulation/v1.1/2020/103/collection.json",
       "type": "application/json"
     },
     {
       "rel": "child",
-      "href": "./104/collection.json",
+      "href": "https://constantinius.github.io/osc-demo/world-ocean-circulation/doppler-derived-surface-current-world-ocean-circulation/v1.1/2020/104/collection.json",
       "type": "application/json"
     },
     {
       "rel": "child",
-      "href": "./105/collection.json",
+      "href": "https://constantinius.github.io/osc-demo/world-ocean-circulation/doppler-derived-surface-current-world-ocean-circulation/v1.1/2020/105/collection.json",
       "type": "application/json"
     },
     {
       "rel": "child",
-      "href": "./106/collection.json",
+      "href": "https://constantinius.github.io/osc-demo/world-ocean-circulation/doppler-derived-surface-current-world-ocean-circulation/v1.1/2020/106/collection.json",
       "type": "application/json"
     },
     {
       "rel": "child",
-      "href": "./107/collection.json",
+      "href": "https://constantinius.github.io/osc-demo/world-ocean-circulation/doppler-derived-surface-current-world-ocean-circulation/v1.1/2020/107/collection.json",
       "type": "application/json"
     },
     {
       "rel": "child",
-      "href": "./109/collection.json",
+      "href": "https://constantinius.github.io/osc-demo/world-ocean-circulation/doppler-derived-surface-current-world-ocean-circulation/v1.1/2020/109/collection.json",
       "type": "application/json"
     },
     {
       "rel": "child",
-      "href": "./111/collection.json",
+      "href": "https://constantinius.github.io/osc-demo/world-ocean-circulation/doppler-derived-surface-current-world-ocean-circulation/v1.1/2020/111/collection.json",
       "type": "application/json"
     },
     {
       "rel": "child",
-      "href": "./112/collection.json",
+      "href": "https://constantinius.github.io/osc-demo/world-ocean-circulation/doppler-derived-surface-current-world-ocean-circulation/v1.1/2020/112/collection.json",
       "type": "application/json"
     },
     {
       "rel": "child",
-      "href": "./113/collection.json",
+      "href": "https://constantinius.github.io/osc-demo/world-ocean-circulation/doppler-derived-surface-current-world-ocean-circulation/v1.1/2020/113/collection.json",
       "type": "application/json"
     },
     {
       "rel": "child",
-      "href": "./115/collection.json",
+      "href": "https://constantinius.github.io/osc-demo/world-ocean-circulation/doppler-derived-surface-current-world-ocean-circulation/v1.1/2020/115/collection.json",
       "type": "application/json"
     },
     {
       "rel": "child",
-      "href": "./116/collection.json",
+      "href": "https://constantinius.github.io/osc-demo/world-ocean-circulation/doppler-derived-surface-current-world-ocean-circulation/v1.1/2020/116/collection.json",
       "type": "application/json"
     },
     {
       "rel": "child",
-      "href": "./117/collection.json",
+      "href": "https://constantinius.github.io/osc-demo/world-ocean-circulation/doppler-derived-surface-current-world-ocean-circulation/v1.1/2020/117/collection.json",
       "type": "application/json"
     },
     {
       "rel": "child",
-      "href": "./118/collection.json",
+      "href": "https://constantinius.github.io/osc-demo/world-ocean-circulation/doppler-derived-surface-current-world-ocean-circulation/v1.1/2020/118/collection.json",
       "type": "application/json"
     },
     {
       "rel": "child",
-      "href": "./119/collection.json",
+      "href": "https://constantinius.github.io/osc-demo/world-ocean-circulation/doppler-derived-surface-current-world-ocean-circulation/v1.1/2020/119/collection.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "self",
+      "href": "https://constantinius.github.io/osc-demo/world-ocean-circulation/doppler-derived-surface-current-world-ocean-circulation/v1.1/2020/collection.json",
       "type": "application/json"
     },
     {
       "rel": "parent",
-      "href": "../collection.json",
+      "href": "https://constantinius.github.io/osc-demo/world-ocean-circulation/doppler-derived-surface-current-world-ocean-circulation/v1.1/collection.json",
       "type": "application/json"
     }
   ],
   "stac_extensions": [],
+  "updated": "2023-02-27T17:24:49Z",
   "extent": {
     "spatial": {
       "bbox": [
