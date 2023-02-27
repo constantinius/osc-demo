@@ -15,15 +15,15 @@
       "title": "Website"
     },
     {
-      "rel": "self",
-      "href": "https://constantinius.github.io/osc-demo/l2a-rut/s2l2a-uncertainty-sr-lpf-l2arut/collection.json",
-      "type": "application/json"
-    },
-    {
       "rel": "parent",
       "href": "https://constantinius.github.io/osc-demo/l2a-rut/collection.json",
       "type": "application/json",
       "title": "(LPF) L2A-RUT"
+    },
+    {
+      "rel": "self",
+      "href": "https://constantinius.github.io/osc-demo/l2a-rut/s2l2a-uncertainty-sr-lpf-l2arut/collection.json",
+      "type": "application/json"
     }
   ],
   "stac_extensions": [
@@ -42,7 +42,6 @@
   "osc:region": "Global",
   "osc:type": "Product",
   "created": "2022-07-01T00:00:00Z",
-  "updated": "2023-02-27T17:00:50Z",
   "extent": {
     "spatial": {
       "bbox": [
@@ -63,14 +62,5 @@
       ]
     }
   },
-  "license": "proprietary",
-  "assets": {
-    "iso-metadata": {
-      "href": "./iso.xml",
-      "type": "application/xml",
-      "roles": [
-        "metadata"
-      ]
-    }
-  }
+  "license": "proprietary"
 }

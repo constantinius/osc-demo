@@ -29,15 +29,15 @@
       "href": "https://doi.org/10.5285/299b1bb28eaa440f9a36e9786adfe398"
     },
     {
-      "rel": "self",
-      "href": "https://constantinius.github.io/osc-demo/biological-pump-and-carbon-exchange-processes/global-particulate-organic-carbon-v5-bicep/collection.json",
-      "type": "application/json"
-    },
-    {
       "rel": "parent",
       "href": "https://constantinius.github.io/osc-demo/biological-pump-and-carbon-exchange-processes/collection.json",
       "type": "application/json",
       "title": "BICEP"
+    },
+    {
+      "rel": "self",
+      "href": "https://constantinius.github.io/osc-demo/biological-pump-and-carbon-exchange-processes/global-particulate-organic-carbon-v5-bicep/collection.json",
+      "type": "application/json"
     }
   ],
   "stac_extensions": [
@@ -61,7 +61,6 @@
   "end_datetime": "2020-12-31T23:59:59Z",
   "version": "5",
   "sci:doi": "10.5285/299b1bb28eaa440f9a36e9786adfe398",
-  "updated": "2023-02-27T17:00:50Z",
   "extent": {
     "spatial": {
       "bbox": [
@@ -82,14 +81,5 @@
       ]
     }
   },
-  "license": "proprietary",
-  "assets": {
-    "iso-metadata": {
-      "href": "./iso.xml",
-      "type": "application/xml",
-      "roles": [
-        "metadata"
-      ]
-    }
-  }
+  "license": "proprietary"
 }

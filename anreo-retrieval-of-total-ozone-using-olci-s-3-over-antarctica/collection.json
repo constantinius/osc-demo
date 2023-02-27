@@ -26,13 +26,13 @@
       "title": "Total ozone product from OLCI / S-3_Antarctica _S3"
     },
     {
-      "rel": "self",
-      "href": "https://constantinius.github.io/osc-demo/anreo-retrieval-of-total-ozone-using-olci-s-3-over-antarctica/collection.json",
+      "rel": "parent",
+      "href": "https://constantinius.github.io/osc-demo/collection.json",
       "type": "application/json"
     },
     {
-      "rel": "parent",
-      "href": "https://constantinius.github.io/osc-demo/collection.json",
+      "rel": "self",
+      "href": "https://constantinius.github.io/osc-demo/anreo-retrieval-of-total-ozone-using-olci-s-3-over-antarctica/collection.json",
       "type": "application/json"
     }
   ],
@@ -55,7 +55,6 @@
   "osc:type": "Project",
   "start_datetime": "2020-03-25T00:00:00Z",
   "end_datetime": "2021-07-05T23:59:59Z",
-  "updated": "2023-02-27T17:00:50Z",
   "extent": {
     "spatial": {
       "bbox": [
@@ -71,14 +70,5 @@
       ]
     }
   },
-  "license": "proprietary",
-  "assets": {
-    "iso-metadata": {
-      "href": "https://constantinius.github.io/osc-demo/anreo-retrieval-of-total-ozone-using-olci-s-3-over-antarctica/iso.xml",
-      "type": "application/xml",
-      "roles": [
-        "metadata"
-      ]
-    }
-  }
+  "license": "proprietary"
 }

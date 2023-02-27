@@ -35,18 +35,17 @@
       "type": "application/json"
     },
     {
-      "rel": "self",
-      "href": "https://constantinius.github.io/osc-demo/world-ocean-circulation/doppler-derived-surface-current-world-ocean-circulation/v1.1/2019/219/collection.json",
+      "rel": "parent",
+      "href": "https://constantinius.github.io/osc-demo/world-ocean-circulation/doppler-derived-surface-current-world-ocean-circulation/v1.1/2019/collection.json",
       "type": "application/json"
     },
     {
-      "rel": "parent",
-      "href": "https://constantinius.github.io/osc-demo/world-ocean-circulation/doppler-derived-surface-current-world-ocean-circulation/v1.1/2019/collection.json",
+      "rel": "self",
+      "href": "https://constantinius.github.io/osc-demo/world-ocean-circulation/doppler-derived-surface-current-world-ocean-circulation/v1.1/2019/219/collection.json",
       "type": "application/json"
     }
   ],
   "stac_extensions": [],
-  "updated": "2023-02-27T17:24:49Z",
   "extent": {
     "spatial": {
       "bbox": [

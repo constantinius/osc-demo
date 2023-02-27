@@ -15,15 +15,15 @@
       "title": "Website"
     },
     {
-      "rel": "self",
-      "href": "https://constantinius.github.io/osc-demo/4dantarctica/ice-temperature-smos-4dantarctica/collection.json",
-      "type": "application/json"
-    },
-    {
       "rel": "parent",
       "href": "https://constantinius.github.io/osc-demo/4dantarctica/collection.json",
       "type": "application/json",
       "title": "4D-ANTARCTICA"
+    },
+    {
+      "rel": "self",
+      "href": "https://constantinius.github.io/osc-demo/4dantarctica/ice-temperature-smos-4dantarctica/collection.json",
+      "type": "application/json"
     }
   ],
   "stac_extensions": [
@@ -43,7 +43,6 @@
   "osc:type": "Product",
   "created": "2022-05-01T00:00:00Z",
   "version": "2.1",
-  "updated": "2023-02-27T17:00:50Z",
   "extent": {
     "spatial": {
       "bbox": [
@@ -64,14 +63,5 @@
       ]
     }
   },
-  "license": "proprietary",
-  "assets": {
-    "iso-metadata": {
-      "href": "./iso.xml",
-      "type": "application/xml",
-      "roles": [
-        "metadata"
-      ]
-    }
-  }
+  "license": "proprietary"
 }

@@ -762,39 +762,24 @@
   "stac_extensions": [],
   "assets": {
     "themes": {
-      "href": "https://constantinius.github.io/osc-demo/themes.json",
+      "href": "./themes.json",
       "type": "application/json",
       "title": "Themes",
       "description": "Themes"
     },
     "variables": {
-      "href": "https://constantinius.github.io/osc-demo/variables.json",
+      "href": "./variables.json",
       "type": "application/json",
       "title": "Variables",
       "description": "Variables"
     },
     "eo-missions": {
-      "href": "https://constantinius.github.io/osc-demo/eo-missions.json",
+      "href": "./eo-missions.json",
       "type": "application/json",
       "title": "EO Missions",
       "description": "EO Missions"
-    },
-    "metrics": {
-      "href": "https://constantinius.github.io/osc-demo/metrics.json",
-      "type": "application/json",
-      "roles": [
-        "metadata"
-      ]
-    },
-    "codelists": {
-      "href": "https://constantinius.github.io/osc-demo/codelists.xml",
-      "type": "application/xml",
-      "roles": [
-        "metadata"
-      ]
     }
   },
-  "updated": "2023-02-27T17:24:49Z",
   "extent": {
     "spatial": {
       "bbox": [

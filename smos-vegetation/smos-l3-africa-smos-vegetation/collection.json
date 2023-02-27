@@ -20,15 +20,15 @@
       "title": "Access"
     },
     {
-      "rel": "self",
-      "href": "https://constantinius.github.io/osc-demo/smos-vegetation/smos-l3-africa-smos-vegetation/collection.json",
-      "type": "application/json"
-    },
-    {
       "rel": "parent",
       "href": "https://constantinius.github.io/osc-demo/smos-vegetation/collection.json",
       "type": "application/json",
       "title": "SMOS+ VEGETATION"
+    },
+    {
+      "rel": "self",
+      "href": "https://constantinius.github.io/osc-demo/smos-vegetation/smos-l3-africa-smos-vegetation/collection.json",
+      "type": "application/json"
     }
   ],
   "stac_extensions": [
@@ -47,7 +47,6 @@
   "osc:region": "Africa",
   "osc:type": "Product",
   "created": "2018-07-30T00:00:00Z",
-  "updated": "2023-02-27T17:00:50Z",
   "extent": {
     "spatial": {
       "bbox": [
@@ -68,14 +67,5 @@
       ]
     }
   },
-  "license": "proprietary",
-  "assets": {
-    "iso-metadata": {
-      "href": "./iso.xml",
-      "type": "application/xml",
-      "roles": [
-        "metadata"
-      ]
-    }
-  }
+  "license": "proprietary"
 }

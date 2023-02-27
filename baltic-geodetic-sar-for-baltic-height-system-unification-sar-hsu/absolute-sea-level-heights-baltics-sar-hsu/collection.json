@@ -20,15 +20,15 @@
       "title": "Access"
     },
     {
-      "rel": "self",
-      "href": "https://constantinius.github.io/osc-demo/baltic-geodetic-sar-for-baltic-height-system-unification-sar-hsu/absolute-sea-level-heights-baltics-sar-hsu/collection.json",
-      "type": "application/json"
-    },
-    {
       "rel": "parent",
       "href": "https://constantinius.github.io/osc-demo/baltic-geodetic-sar-for-baltic-height-system-unification-sar-hsu/collection.json",
       "type": "application/json",
       "title": "SAR-HSU"
+    },
+    {
+      "rel": "self",
+      "href": "https://constantinius.github.io/osc-demo/baltic-geodetic-sar-for-baltic-height-system-unification-sar-hsu/absolute-sea-level-heights-baltics-sar-hsu/collection.json",
+      "type": "application/json"
     }
   ],
   "stac_extensions": [
@@ -52,7 +52,6 @@
   "created": "2021-07-07T00:00:00Z",
   "start_datetime": "2020-01-01T00:00:00Z",
   "end_datetime": "2020-12-31T23:59:59Z",
-  "updated": "2023-02-27T17:00:50Z",
   "extent": {
     "spatial": {
       "bbox": [
@@ -73,14 +72,5 @@
       ]
     }
   },
-  "license": "proprietary",
-  "assets": {
-    "iso-metadata": {
-      "href": "./iso.xml",
-      "type": "application/xml",
-      "roles": [
-        "metadata"
-      ]
-    }
-  }
+  "license": "proprietary"
 }

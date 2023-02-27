@@ -116,13 +116,13 @@
       "title": "Land Ice Elevation Thematic Gridded Product_Southern Andes_Cryosat"
     },
     {
-      "rel": "self",
-      "href": "https://constantinius.github.io/osc-demo/cryotop-evolution/collection.json",
+      "rel": "parent",
+      "href": "https://constantinius.github.io/osc-demo/collection.json",
       "type": "application/json"
     },
     {
-      "rel": "parent",
-      "href": "https://constantinius.github.io/osc-demo/collection.json",
+      "rel": "self",
+      "href": "https://constantinius.github.io/osc-demo/cryotop-evolution/collection.json",
       "type": "application/json"
     }
   ],
@@ -148,7 +148,6 @@
   "osc:type": "Project",
   "start_datetime": "2016-03-03T00:00:00Z",
   "end_datetime": "2019-11-30T23:59:59Z",
-  "updated": "2023-02-27T17:00:50Z",
   "extent": {
     "spatial": {
       "bbox": [
@@ -164,14 +163,5 @@
       ]
     }
   },
-  "license": "proprietary",
-  "assets": {
-    "iso-metadata": {
-      "href": "https://constantinius.github.io/osc-demo/cryotop-evolution/iso.xml",
-      "type": "application/xml",
-      "roles": [
-        "metadata"
-      ]
-    }
-  }
+  "license": "proprietary"
 }

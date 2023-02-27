@@ -29,15 +29,15 @@
       "href": "https://doi.org/10.5285/d8c66670-57ad-44fc-8fef-942a46734ecb"
     },
     {
-      "rel": "self",
-      "href": "https://constantinius.github.io/osc-demo/arcticsummit-arctic-summer-ice-thickness/sea-ice-thickness-lpf-arcticsummit/collection.json",
-      "type": "application/json"
-    },
-    {
       "rel": "parent",
       "href": "https://constantinius.github.io/osc-demo/arcticsummit-arctic-summer-ice-thickness/collection.json",
       "type": "application/json",
       "title": "(LPF) ArcticSummIT"
+    },
+    {
+      "rel": "self",
+      "href": "https://constantinius.github.io/osc-demo/arcticsummit-arctic-summer-ice-thickness/sea-ice-thickness-lpf-arcticsummit/collection.json",
+      "type": "application/json"
     }
   ],
   "stac_extensions": [
@@ -60,7 +60,6 @@
   "start_datetime": "2021-01-01T00:00:00Z",
   "end_datetime": "2020-12-31T23:59:59Z",
   "sci:doi": "10.5285/d8c66670-57ad-44fc-8fef-942a46734ecb",
-  "updated": "2023-02-27T17:00:50Z",
   "extent": {
     "spatial": {
       "bbox": [
@@ -81,14 +80,5 @@
       ]
     }
   },
-  "license": "proprietary",
-  "assets": {
-    "iso-metadata": {
-      "href": "./iso.xml",
-      "type": "application/xml",
-      "roles": [
-        "metadata"
-      ]
-    }
-  }
+  "license": "proprietary"
 }

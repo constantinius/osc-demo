@@ -29,15 +29,15 @@
       "href": "https://doi.org/10.20350/digitalCSIC/12620"
     },
     {
-      "rel": "self",
-      "href": "https://constantinius.github.io/osc-demo/arctic-salinity/sea-surface-salinity-arctic-salinity/collection.json",
-      "type": "application/json"
-    },
-    {
       "rel": "parent",
       "href": "https://constantinius.github.io/osc-demo/arctic-salinity/collection.json",
       "type": "application/json",
       "title": "Arctic + Salinity"
+    },
+    {
+      "rel": "self",
+      "href": "https://constantinius.github.io/osc-demo/arctic-salinity/sea-surface-salinity-arctic-salinity/collection.json",
+      "type": "application/json"
     }
   ],
   "stac_extensions": [
@@ -62,7 +62,6 @@
   "end_datetime": "2019-12-31T23:59:59Z",
   "version": "3.1",
   "sci:doi": "10.20350/digitalCSIC/12620",
-  "updated": "2023-02-27T17:00:50Z",
   "extent": {
     "spatial": {
       "bbox": [
@@ -83,14 +82,5 @@
       ]
     }
   },
-  "license": "proprietary",
-  "assets": {
-    "iso-metadata": {
-      "href": "./iso.xml",
-      "type": "application/xml",
-      "roles": [
-        "metadata"
-      ]
-    }
-  }
+  "license": "proprietary"
 }

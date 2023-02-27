@@ -25,15 +25,15 @@
       "title": "Documentation"
     },
     {
-      "rel": "self",
-      "href": "https://constantinius.github.io/osc-demo/cryotop-evolution/land-ice-elevation-point-svalbard-cryotop-evolution/collection.json",
-      "type": "application/json"
-    },
-    {
       "rel": "parent",
       "href": "https://constantinius.github.io/osc-demo/cryotop-evolution/collection.json",
       "type": "application/json",
       "title": "CryoTop Evolution"
+    },
+    {
+      "rel": "self",
+      "href": "https://constantinius.github.io/osc-demo/cryotop-evolution/land-ice-elevation-point-svalbard-cryotop-evolution/collection.json",
+      "type": "application/json"
     }
   ],
   "stac_extensions": [
@@ -54,7 +54,6 @@
   "created": "2021-12-01T00:00:00Z",
   "start_datetime": "2010-01-01T00:00:00Z",
   "end_datetime": "2021-12-31T23:59:59Z",
-  "updated": "2023-02-27T17:00:50Z",
   "extent": {
     "spatial": {
       "bbox": [
@@ -75,14 +74,5 @@
       ]
     }
   },
-  "license": "proprietary",
-  "assets": {
-    "iso-metadata": {
-      "href": "./iso.xml",
-      "type": "application/xml",
-      "roles": [
-        "metadata"
-      ]
-    }
-  }
+  "license": "proprietary"
 }

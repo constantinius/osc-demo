@@ -15,15 +15,15 @@
       "title": "Website"
     },
     {
-      "rel": "self",
-      "href": "https://constantinius.github.io/osc-demo/4dionosphere-swarm-vip/model-ionosphere-4dionosphere/collection.json",
-      "type": "application/json"
-    },
-    {
       "rel": "parent",
       "href": "https://constantinius.github.io/osc-demo/4dionosphere-swarm-vip/collection.json",
       "type": "application/json",
       "title": "SWARM VIP"
+    },
+    {
+      "rel": "self",
+      "href": "https://constantinius.github.io/osc-demo/4dionosphere-swarm-vip/model-ionosphere-4dionosphere/collection.json",
+      "type": "application/json"
     }
   ],
   "stac_extensions": [
@@ -41,7 +41,6 @@
   "osc:status": "COMPLETED",
   "osc:region": null,
   "osc:type": "Product",
-  "updated": "2023-02-27T17:00:50Z",
   "extent": {
     "spatial": {
       "bbox": [
@@ -62,14 +61,5 @@
       ]
     }
   },
-  "license": "proprietary",
-  "assets": {
-    "iso-metadata": {
-      "href": "./iso.xml",
-      "type": "application/xml",
-      "roles": [
-        "metadata"
-      ]
-    }
-  }
+  "license": "proprietary"
 }

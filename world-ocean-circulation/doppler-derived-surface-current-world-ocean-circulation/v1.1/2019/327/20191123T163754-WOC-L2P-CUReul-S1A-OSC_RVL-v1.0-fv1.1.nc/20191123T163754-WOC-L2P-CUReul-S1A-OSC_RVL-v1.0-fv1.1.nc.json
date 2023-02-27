@@ -5,8 +5,7 @@
   "properties": {
     "datetime": null,
     "start_datetime": "2019-11-23T16:38:26.250000Z",
-    "end_datetime": "2019-11-24T16:38:26.250000Z",
-    "updated": "2023-02-27T17:24:49Z"
+    "end_datetime": "2019-11-24T16:38:26.250000Z"
   },
   "geometry": {
     "type": "Polygon",

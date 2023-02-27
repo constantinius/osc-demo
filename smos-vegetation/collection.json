@@ -32,13 +32,13 @@
       "title": "VOD_Africa_SMOS IC products CATDS"
     },
     {
-      "rel": "self",
-      "href": "https://constantinius.github.io/osc-demo/smos-vegetation/collection.json",
+      "rel": "parent",
+      "href": "https://constantinius.github.io/osc-demo/collection.json",
       "type": "application/json"
     },
     {
-      "rel": "parent",
-      "href": "https://constantinius.github.io/osc-demo/collection.json",
+      "rel": "self",
+      "href": "https://constantinius.github.io/osc-demo/smos-vegetation/collection.json",
       "type": "application/json"
     }
   ],
@@ -63,7 +63,6 @@
   "osc:type": "Project",
   "start_datetime": "2016-05-10T00:00:00Z",
   "end_datetime": "2018-12-15T23:59:59Z",
-  "updated": "2023-02-27T17:00:50Z",
   "extent": {
     "spatial": {
       "bbox": [
@@ -79,14 +78,5 @@
       ]
     }
   },
-  "license": "proprietary",
-  "assets": {
-    "iso-metadata": {
-      "href": "https://constantinius.github.io/osc-demo/smos-vegetation/iso.xml",
-      "type": "application/xml",
-      "roles": [
-        "metadata"
-      ]
-    }
-  }
+  "license": "proprietary"
 }

@@ -20,15 +20,15 @@
       "title": "Access"
     },
     {
-      "rel": "self",
-      "href": "https://constantinius.github.io/osc-demo/aeolus-innovation-cdom-proxy-retrieval-from-aeolus-observations-color/cdom-aeolus-innovation-color/collection.json",
-      "type": "application/json"
-    },
-    {
       "rel": "parent",
       "href": "https://constantinius.github.io/osc-demo/aeolus-innovation-cdom-proxy-retrieval-from-aeolus-observations-color/collection.json",
       "type": "application/json",
       "title": "AEOLUS+inno - COLOR"
+    },
+    {
+      "rel": "self",
+      "href": "https://constantinius.github.io/osc-demo/aeolus-innovation-cdom-proxy-retrieval-from-aeolus-observations-color/cdom-aeolus-innovation-color/collection.json",
+      "type": "application/json"
     }
   ],
   "stac_extensions": [
@@ -46,7 +46,6 @@
   "osc:status": "COMPLETED",
   "osc:region": "Global",
   "osc:type": "Product",
-  "updated": "2023-02-27T17:00:50Z",
   "extent": {
     "spatial": {
       "bbox": [
@@ -67,14 +66,5 @@
       ]
     }
   },
-  "license": "proprietary",
-  "assets": {
-    "iso-metadata": {
-      "href": "./iso.xml",
-      "type": "application/xml",
-      "roles": [
-        "metadata"
-      ]
-    }
-  }
+  "license": "proprietary"
 }

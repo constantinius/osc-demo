@@ -44,13 +44,13 @@
       "title": "Clear-sky HDO/H2O total column_TROPOMI"
     },
     {
-      "rel": "self",
-      "href": "https://constantinius.github.io/osc-demo/wift-water-vapour-isotopologues-from-tropomi/collection.json",
+      "rel": "parent",
+      "href": "https://constantinius.github.io/osc-demo/collection.json",
       "type": "application/json"
     },
     {
-      "rel": "parent",
-      "href": "https://constantinius.github.io/osc-demo/collection.json",
+      "rel": "self",
+      "href": "https://constantinius.github.io/osc-demo/wift-water-vapour-isotopologues-from-tropomi/collection.json",
       "type": "application/json"
     }
   ],
@@ -73,7 +73,6 @@
   "osc:type": "Project",
   "start_datetime": "2018-10-17T00:00:00Z",
   "end_datetime": "2020-10-31T23:59:59Z",
-  "updated": "2023-02-27T17:00:50Z",
   "extent": {
     "spatial": {
       "bbox": [
@@ -89,14 +88,5 @@
       ]
     }
   },
-  "license": "proprietary",
-  "assets": {
-    "iso-metadata": {
-      "href": "https://constantinius.github.io/osc-demo/wift-water-vapour-isotopologues-from-tropomi/iso.xml",
-      "type": "application/xml",
-      "roles": [
-        "metadata"
-      ]
-    }
-  }
+  "license": "proprietary"
 }

@@ -25,15 +25,15 @@
       "title": "Documentation"
     },
     {
-      "rel": "self",
-      "href": "https://constantinius.github.io/osc-demo/the-4d-earth-swarm-project/webgeodyn-py-4d-earth-swarm/collection.json",
-      "type": "application/json"
-    },
-    {
       "rel": "parent",
       "href": "https://constantinius.github.io/osc-demo/the-4d-earth-swarm-project/collection.json",
       "type": "application/json",
       "title": "4D-Earth SWARM"
+    },
+    {
+      "rel": "self",
+      "href": "https://constantinius.github.io/osc-demo/the-4d-earth-swarm-project/webgeodyn-py-4d-earth-swarm/collection.json",
+      "type": "application/json"
     }
   ],
   "stac_extensions": [
@@ -54,7 +54,6 @@
   "osc:type": "Product",
   "created": "2021-09-10T00:00:00Z",
   "version": "0.10.2",
-  "updated": "2023-02-27T17:00:50Z",
   "extent": {
     "spatial": {
       "bbox": [
@@ -75,14 +74,5 @@
       ]
     }
   },
-  "license": "proprietary",
-  "assets": {
-    "iso-metadata": {
-      "href": "./iso.xml",
-      "type": "application/xml",
-      "roles": [
-        "metadata"
-      ]
-    }
-  }
+  "license": "proprietary"
 }
