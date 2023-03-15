@@ -51,7 +51,7 @@
   "osc:type": "Project",
   "start_datetime": "2020-11-11T00:00:00Z",
   "end_datetime": "2021-06-22T23:59:59Z",
-  "updated": "2023-03-15T18:32:24Z",
+  "updated": "2023-03-15T18:35:36Z",
   "assets": {
     "iso-metadata": {
       "href": "/home/runner/work/osc-demo/osc-demo/build/aeolus-innovation-expro-ocean-surface-wind-from-aeolus-sea-surface-returns-sea-flect/iso.xml",
