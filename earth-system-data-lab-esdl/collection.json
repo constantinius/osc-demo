@@ -63,7 +63,7 @@
   "osc:type": "Project",
   "start_datetime": "2018-05-01T00:00:00Z",
   "end_datetime": "2020-12-31T23:59:59Z",
-  "updated": "2023-03-15T18:27:44Z",
+  "updated": "2023-03-15T18:32:24Z",
   "assets": {
     "iso-metadata": {
       "href": "/home/runner/work/osc-demo/osc-demo/build/earth-system-data-lab-esdl/iso.xml",

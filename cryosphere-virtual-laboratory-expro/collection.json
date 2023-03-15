@@ -54,7 +54,7 @@
   "osc:type": "Project",
   "start_datetime": "2019-10-15T00:00:00Z",
   "end_datetime": "2022-11-15T23:59:59Z",
-  "updated": "2023-03-15T18:27:44Z",
+  "updated": "2023-03-15T18:32:24Z",
   "assets": {
     "iso-metadata": {
       "href": "/home/runner/work/osc-demo/osc-demo/build/cryosphere-virtual-laboratory-expro/iso.xml",
