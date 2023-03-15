@@ -51,7 +51,7 @@
   "osc:type": "Project",
   "start_datetime": "2018-05-07T00:00:00Z",
   "end_datetime": "2019-06-15T23:59:59Z",
-  "updated": "2023-02-27T21:37:55Z",
+  "updated": "2023-03-15T18:27:44Z",
   "assets": {
     "iso-metadata": {
       "href": "/home/runner/work/osc-demo/osc-demo/build/bathysent-an-innovative-method-to-retrieve-global-coastal-bathymetry-from-sentinel-2/iso.xml",

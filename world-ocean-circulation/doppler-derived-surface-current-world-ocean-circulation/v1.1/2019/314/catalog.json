@@ -1,0 +1,65 @@
+{
+  "type": "Catalog",
+  "id": "314",
+  "stac_version": "1.0.0",
+  "description": "",
+  "links": [
+    {
+      "rel": "root",
+      "href": "https://constantinius.github.io/osc-demo/collection.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://constantinius.github.io/osc-demo/world-ocean-circulation/doppler-derived-surface-current-world-ocean-circulation/v1.1/2019/314/20191110T173237-WOC-L2P-CUReul-S1A-OSC_RVL-v1.0-fv1.1.nc/20191110T173237-WOC-L2P-CUReul-S1A-OSC_RVL-v1.0-fv1.1.nc.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://constantinius.github.io/osc-demo/world-ocean-circulation/doppler-derived-surface-current-world-ocean-circulation/v1.1/2019/314/20191110T173301-WOC-L2P-CUReul-S1A-OSC_RVL-v1.0-fv1.1.nc/20191110T173301-WOC-L2P-CUReul-S1A-OSC_RVL-v1.0-fv1.1.nc.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://constantinius.github.io/osc-demo/world-ocean-circulation/doppler-derived-surface-current-world-ocean-circulation/v1.1/2019/314/20191110T173326-WOC-L2P-CUReul-S1A-OSC_RVL-v1.0-fv1.1.nc/20191110T173326-WOC-L2P-CUReul-S1A-OSC_RVL-v1.0-fv1.1.nc.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://constantinius.github.io/osc-demo/world-ocean-circulation/doppler-derived-surface-current-world-ocean-circulation/v1.1/2019/314/20191110T173351-WOC-L2P-CUReul-S1A-OSC_RVL-v1.0-fv1.1.nc/20191110T173351-WOC-L2P-CUReul-S1A-OSC_RVL-v1.0-fv1.1.nc.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://constantinius.github.io/osc-demo/world-ocean-circulation/doppler-derived-surface-current-world-ocean-circulation/v1.1/2019/314/20191110T173416-WOC-L2P-CUReul-S1A-OSC_RVL-v1.0-fv1.1.nc/20191110T173416-WOC-L2P-CUReul-S1A-OSC_RVL-v1.0-fv1.1.nc.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://constantinius.github.io/osc-demo/world-ocean-circulation/doppler-derived-surface-current-world-ocean-circulation/v1.1/2019/314/20191110T173443-WOC-L2P-CUReul-S1A-OSC_RVL-v1.0-fv1.1.nc/20191110T173443-WOC-L2P-CUReul-S1A-OSC_RVL-v1.0-fv1.1.nc.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://constantinius.github.io/osc-demo/world-ocean-circulation/doppler-derived-surface-current-world-ocean-circulation/v1.1/2019/314/20191110T173508-WOC-L2P-CUReul-S1A-OSC_RVL-v1.0-fv1.1.nc/20191110T173508-WOC-L2P-CUReul-S1A-OSC_RVL-v1.0-fv1.1.nc.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://constantinius.github.io/osc-demo/world-ocean-circulation/doppler-derived-surface-current-world-ocean-circulation/v1.1/2019/314/20191110T173533-WOC-L2P-CUReul-S1A-OSC_RVL-v1.0-fv1.1.nc/20191110T173533-WOC-L2P-CUReul-S1A-OSC_RVL-v1.0-fv1.1.nc.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "parent",
+      "href": "https://constantinius.github.io/osc-demo/world-ocean-circulation/doppler-derived-surface-current-world-ocean-circulation/v1.1/2019/catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "self",
+      "href": "https://constantinius.github.io/osc-demo/world-ocean-circulation/doppler-derived-surface-current-world-ocean-circulation/v1.1/2019/314/catalog.json",
+      "type": "application/json"
+    }
+  ],
+  "stac_extensions": [],
+  "updated": "2023-03-15T18:27:44Z"
+}

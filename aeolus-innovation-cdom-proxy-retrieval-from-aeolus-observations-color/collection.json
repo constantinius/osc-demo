@@ -71,7 +71,7 @@
   "osc:type": "Project",
   "start_datetime": "2021-02-01T00:00:00Z",
   "end_datetime": "2022-08-15T23:59:59Z",
-  "updated": "2023-02-27T21:37:55Z",
+  "updated": "2023-03-15T18:27:44Z",
   "assets": {
     "iso-metadata": {
       "href": "/home/runner/work/osc-demo/osc-demo/build/aeolus-innovation-cdom-proxy-retrieval-from-aeolus-observations-color/iso.xml",

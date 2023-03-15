@@ -6,7 +6,7 @@
     "datetime": null,
     "start_datetime": "2019-12-09T03:11:15Z",
     "end_datetime": "2019-12-10T03:11:15Z",
-    "updated": "2023-02-27T21:37:55Z"
+    "updated": "2023-03-15T18:27:44Z"
   },
   "geometry": {
     "type": "Polygon",
@@ -48,12 +48,12 @@
     },
     {
       "rel": "collection",
-      "href": "https://constantinius.github.io/osc-demo/world-ocean-circulation/doppler-derived-surface-current-world-ocean-circulation/v1.1/2019/343/collection.json",
+      "href": "https://constantinius.github.io/osc-demo/world-ocean-circulation/doppler-derived-surface-current-world-ocean-circulation/v1.1/2019/343/catalog.json",
       "type": "application/json"
     },
     {
       "rel": "parent",
-      "href": "https://constantinius.github.io/osc-demo/world-ocean-circulation/doppler-derived-surface-current-world-ocean-circulation/v1.1/2019/343/collection.json",
+      "href": "https://constantinius.github.io/osc-demo/world-ocean-circulation/doppler-derived-surface-current-world-ocean-circulation/v1.1/2019/343/catalog.json",
       "type": "application/json"
     },
     {
