@@ -61,6 +61,7 @@
     }
   ],
   "stac_extensions": [],
+  "updated": "2023-02-27T21:37:55Z",
   "extent": {
     "spatial": {
       "bbox": [

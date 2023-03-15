@@ -63,6 +63,16 @@
   "end_datetime": "2018-12-31T23:59:59Z",
   "version": "1.0",
   "sci:doi": "10.5281/zenodo.3854817",
+  "updated": "2023-02-27T21:37:55Z",
+  "assets": {
+    "iso-metadata": {
+      "href": "./iso.xml",
+      "type": "application/xml",
+      "roles": [
+        "metadata"
+      ]
+    }
+  },
   "extent": {
     "spatial": {
       "bbox": [

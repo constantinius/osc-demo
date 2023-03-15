@@ -778,8 +778,23 @@
       "type": "application/json",
       "title": "EO Missions",
       "description": "EO Missions"
+    },
+    "metrics": {
+      "href": "./metrics.json",
+      "type": "application/json",
+      "roles": [
+        "metadata"
+      ]
+    },
+    "codelists": {
+      "href": "./codelists.xml",
+      "type": "application/xml",
+      "roles": [
+        "metadata"
+      ]
     }
   },
+  "updated": "2023-02-27T21:37:55Z",
   "extent": {
     "spatial": {
       "bbox": [

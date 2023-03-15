@@ -70,6 +70,16 @@
   "end_datetime": "2019-12-31T23:59:59Z",
   "version": "2.1",
   "sci:doi": "10.1029/2020GL089658",
+  "updated": "2023-02-27T21:37:55Z",
+  "assets": {
+    "iso-metadata": {
+      "href": "./iso.xml",
+      "type": "application/xml",
+      "roles": [
+        "metadata"
+      ]
+    }
+  },
   "extent": {
     "spatial": {
       "bbox": [

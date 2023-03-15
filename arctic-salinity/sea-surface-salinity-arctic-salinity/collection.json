@@ -62,6 +62,16 @@
   "end_datetime": "2019-12-31T23:59:59Z",
   "version": "3.1",
   "sci:doi": "10.20350/digitalCSIC/12620",
+  "updated": "2023-02-27T21:37:55Z",
+  "assets": {
+    "iso-metadata": {
+      "href": "./iso.xml",
+      "type": "application/xml",
+      "roles": [
+        "metadata"
+      ]
+    }
+  },
   "extent": {
     "spatial": {
       "bbox": [

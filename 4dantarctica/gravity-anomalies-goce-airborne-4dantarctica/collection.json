@@ -45,6 +45,16 @@
   "osc:type": "Product",
   "created": "2020-06-01T00:00:00Z",
   "version": "0.1",
+  "updated": "2023-02-27T21:37:55Z",
+  "assets": {
+    "iso-metadata": {
+      "href": "./iso.xml",
+      "type": "application/xml",
+      "roles": [
+        "metadata"
+      ]
+    }
+  },
   "extent": {
     "spatial": {
       "bbox": [

@@ -49,6 +49,16 @@
   "osc:type": "Project",
   "start_datetime": "2020-03-25T00:00:00Z",
   "end_datetime": "2021-07-10T23:59:59Z",
+  "updated": "2023-02-27T21:37:55Z",
+  "assets": {
+    "iso-metadata": {
+      "href": "/home/runner/work/osc-demo/osc-demo/build/hr-albedomap-generation-of-high-resolution-spectral-and-broadband-surface-albedo-products-based-on-sentinel-2-msi-measurements/iso.xml",
+      "type": "application/xml",
+      "roles": [
+        "metadata"
+      ]
+    }
+  },
   "extent": {
     "spatial": {
       "bbox": [
