@@ -1,0 +1,24 @@
+{
+  "type": "Catalog",
+  "id": "2009",
+  "stac_version": "1.0.0",
+  "description": "",
+  "links": [
+    {
+      "rel": "root",
+      "href": "../../../collection.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "./365/catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "parent",
+      "href": "../collection.json",
+      "type": "application/json",
+      "title": "ERA* Hourly Global Stress Equivalent Wind and Wind Stress"
+    }
+  ]
+}
