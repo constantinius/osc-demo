@@ -1,23 +1,17 @@
 {
   "type": "Feature",
   "stac_version": "1.0.0",
-  "id": "2009123123-WOC-L4-STRESS_ERAstar_GLO_0125_1H_R20091231T18_05-v2.0-fv1.0.nc",
+  "id": "2009123121-WOC-L4-STRESS_ERAstar_GLO_0125_1H_R20091231T18_03-v2.0-fv1.0.nc",
   "properties": {
-    "created": "2022-12-20T09:17:25.626069Z",
-    "updated": "2022-12-20T09:17:25.626069Z",
-    "start_datetime": "2009-12-31T23:00:00Z",
-    "end_datetime": "2009-12-31T23:00:00Z",
-    "datetime": null
+    "datetime": null,
+    "start_datetime": "2009-12-31T21:00:00Z",
+    "end_datetime": "2009-12-31T21:00:01Z"
   },
   "geometry": {
     "type": "Polygon",
     "coordinates": [
       [
         [
-          -179.9375,
-          -89.9375
-        ],
-        [
           179.9375,
           -89.9375
         ],
@@ -31,6 +25,10 @@
         ],
         [
           -179.9375,
+          -89.9375
+        ],
+        [
+          179.9375,
           -89.9375
         ]
       ]
@@ -39,35 +37,28 @@
   "links": [
     {
       "rel": "via",
-      "href": "https://data-cersat.ifremer.fr/projects/woc/products/theme1/ocean_winds/woc-l4-se-erastar-h/v2.0/2009/365/2009123123-WOC-L4-STRESS_ERAstar_GLO_0125_1H_R20091231T18_05-v2.0-fv1.0.nc",
+      "href": "https://data-cersat.ifremer.fr/projects/woc/products/theme1/ocean_winds/woc-l4-se-erastar-h/v2.0/2009/365/2009123121-WOC-L4-STRESS_ERAstar_GLO_0125_1H_R20091231T18_03-v2.0-fv1.0.nc",
       "type": "text/html"
     },
     {
       "rel": "root",
-      "href": "../../../collection.json",
+      "href": "../../../../../collection.json",
       "type": "application/json"
     },
     {
-      "rel": "collection",
-      "href": "../collection.json",
-      "type": "application/json",
-      "title": "Wind stress vector (& anomalies)_Hourly_ERA5"
-    },
-    {
       "rel": "parent",
-      "href": "../collection.json",
-      "type": "application/json",
-      "title": "ERA* Hourly Global Stress Equivalent Wind and Wind Stress"
+      "href": "../catalog.json",
+      "type": "application/json"
     }
   ],
   "assets": {
     "data": {
-      "href": "https://data-cersat.ifremer.fr/projects/woc/products/theme1/ocean_winds/woc-l4-se-erastar-h/v2.0/2009/365/2009123123-WOC-L4-STRESS_ERAstar_GLO_0125_1H_R20091231T18_05-v2.0-fv1.0.nc",
+      "href": "https://data-cersat.ifremer.fr/projects/woc/products/theme1/ocean_winds/woc-l4-se-erastar-h/v2.0/2009/365/2009123121-WOC-L4-STRESS_ERAstar_GLO_0125_1H_R20091231T18_03-v2.0-fv1.0.nc",
       "type": "application/x-netcdf",
       "cube:dimensions": {
         "lat": {
-          "axis": "y",
           "type": "spatial",
+          "axis": "y",
           "extent": [
             -89.9375,
             89.9375
@@ -76,8 +67,8 @@
           "unit": "degrees_north"
         },
         "lon": {
-          "axis": "x",
           "type": "spatial",
+          "axis": "x",
           "extent": [
             -179.9375,
             179.9375
@@ -88,39 +79,39 @@
         "time": {
           "type": "temporal",
           "extent": [
-            "2009-12-31T23:00:00",
-            "2009-12-31T23:00:00"
+            "2009-12-31T21:00:00",
+            "2009-12-31T21:00:01"
           ],
           "step": null,
           "values": [
-            "2009-12-31T23:00:00"
+            "2009-12-31T21:00:00"
           ]
         }
       },
       "cube:variables": {
         "lat": {
-          "var_type": "data",
+          "type": "data",
           "unit": "degrees_north",
           "dimensions": [
             "lat"
           ]
         },
         "lon": {
-          "var_type": "data",
+          "type": "data",
           "unit": "degrees_east",
           "dimensions": [
             "lon"
           ]
         },
         "time": {
-          "var_type": "data",
+          "type": "data",
           "unit": "seconds since 1990-01-01 00:00:00",
           "dimensions": [
             "time"
           ]
         },
         "es_u10s": {
-          "var_type": "data",
+          "type": "data",
           "unit": "m s-1",
           "dimensions": [
             "time",
@@ -129,7 +120,7 @@
           ]
         },
         "es_v10s": {
-          "var_type": "data",
+          "type": "data",
           "unit": "m s-1",
           "dimensions": [
             "time",
@@ -138,7 +129,7 @@
           ]
         },
         "es_tauu": {
-          "var_type": "data",
+          "type": "data",
           "unit": "Pa",
           "dimensions": [
             "time",
@@ -147,7 +138,7 @@
           ]
         },
         "es_tauv": {
-          "var_type": "data",
+          "type": "data",
           "unit": "Pa",
           "dimensions": [
             "time",
@@ -156,7 +147,7 @@
           ]
         },
         "e5_u10s": {
-          "var_type": "data",
+          "type": "data",
           "unit": "m s-1",
           "dimensions": [
             "time",
@@ -165,7 +156,7 @@
           ]
         },
         "e5_v10s": {
-          "var_type": "data",
+          "type": "data",
           "unit": "m s-1",
           "dimensions": [
             "time",
@@ -174,7 +165,7 @@
           ]
         },
         "e5_tauu": {
-          "var_type": "data",
+          "type": "data",
           "unit": "Pa",
           "dimensions": [
             "time",
@@ -183,7 +174,7 @@
           ]
         },
         "e5_tauv": {
-          "var_type": "data",
+          "type": "data",
           "unit": "Pa",
           "dimensions": [
             "time",
@@ -192,7 +183,7 @@
           ]
         },
         "count": {
-          "var_type": "data",
+          "type": "data",
           "unit": "1",
           "dimensions": [
             "time",
@@ -201,7 +192,7 @@
           ]
         },
         "quality_flag": {
-          "var_type": "data",
+          "type": "data",
           "unit": null,
           "dimensions": [
             "time",
@@ -223,6 +214,5 @@
   ],
   "stac_extensions": [
     "https://stac-extensions.github.io/datacube/v2.0.0/schema.json"
-  ],
-  "collection": "wind-stress-vector-world-ocean-circulation"
+  ]
 }
