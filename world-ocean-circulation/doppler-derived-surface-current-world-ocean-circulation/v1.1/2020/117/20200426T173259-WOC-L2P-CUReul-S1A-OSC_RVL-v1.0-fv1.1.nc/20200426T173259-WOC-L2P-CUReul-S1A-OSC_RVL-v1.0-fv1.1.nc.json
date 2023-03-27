@@ -6,7 +6,7 @@
     "datetime": null,
     "start_datetime": "2020-04-26T17:33:16.875000Z",
     "end_datetime": "2020-04-27T17:33:16.875000Z",
-    "updated": "2023-03-15T18:35:36Z"
+    "updated": "2023-03-27T21:11:23Z"
   },
   "geometry": {
     "type": "Polygon",
@@ -48,8 +48,9 @@
     },
     {
       "rel": "collection",
-      "href": "https://constantinius.github.io/osc-demo/world-ocean-circulation/doppler-derived-surface-current-world-ocean-circulation/v1.1/2020/117/catalog.json",
-      "type": "application/json"
+      "href": "https://constantinius.github.io/osc-demo/world-ocean-circulation/doppler-derived-surface-current-world-ocean-circulation/collection.json",
+      "type": "application/json",
+      "title": "Doppler derived surface current_Agulhas_S1"
     },
     {
       "rel": "parent",
@@ -259,5 +260,5 @@
     -36.5525398
   ],
   "stac_extensions": [],
-  "collection": "117"
+  "collection": "doppler-derived-surface-current-world-ocean-circulation"
 }
