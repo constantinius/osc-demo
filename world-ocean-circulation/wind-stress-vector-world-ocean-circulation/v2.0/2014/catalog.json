@@ -1,0 +1,1850 @@
+{
+  "type": "Catalog",
+  "id": "2014",
+  "stac_version": "1.0.0",
+  "description": "",
+  "links": [
+    {
+      "rel": "root",
+      "href": "https://constantinius.github.io/osc-demo/collection.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://constantinius.github.io/osc-demo/world-ocean-circulation/wind-stress-vector-world-ocean-circulation/v2.0/2014/001/catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://constantinius.github.io/osc-demo/world-ocean-circulation/wind-stress-vector-world-ocean-circulation/v2.0/2014/002/catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://constantinius.github.io/osc-demo/world-ocean-circulation/wind-stress-vector-world-ocean-circulation/v2.0/2014/003/catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://constantinius.github.io/osc-demo/world-ocean-circulation/wind-stress-vector-world-ocean-circulation/v2.0/2014/004/catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://constantinius.github.io/osc-demo/world-ocean-circulation/wind-stress-vector-world-ocean-circulation/v2.0/2014/005/catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://constantinius.github.io/osc-demo/world-ocean-circulation/wind-stress-vector-world-ocean-circulation/v2.0/2014/006/catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://constantinius.github.io/osc-demo/world-ocean-circulation/wind-stress-vector-world-ocean-circulation/v2.0/2014/007/catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://constantinius.github.io/osc-demo/world-ocean-circulation/wind-stress-vector-world-ocean-circulation/v2.0/2014/008/catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://constantinius.github.io/osc-demo/world-ocean-circulation/wind-stress-vector-world-ocean-circulation/v2.0/2014/009/catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://constantinius.github.io/osc-demo/world-ocean-circulation/wind-stress-vector-world-ocean-circulation/v2.0/2014/010/catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://constantinius.github.io/osc-demo/world-ocean-circulation/wind-stress-vector-world-ocean-circulation/v2.0/2014/011/catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://constantinius.github.io/osc-demo/world-ocean-circulation/wind-stress-vector-world-ocean-circulation/v2.0/2014/012/catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://constantinius.github.io/osc-demo/world-ocean-circulation/wind-stress-vector-world-ocean-circulation/v2.0/2014/013/catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://constantinius.github.io/osc-demo/world-ocean-circulation/wind-stress-vector-world-ocean-circulation/v2.0/2014/014/catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://constantinius.github.io/osc-demo/world-ocean-circulation/wind-stress-vector-world-ocean-circulation/v2.0/2014/015/catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://constantinius.github.io/osc-demo/world-ocean-circulation/wind-stress-vector-world-ocean-circulation/v2.0/2014/016/catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://constantinius.github.io/osc-demo/world-ocean-circulation/wind-stress-vector-world-ocean-circulation/v2.0/2014/017/catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://constantinius.github.io/osc-demo/world-ocean-circulation/wind-stress-vector-world-ocean-circulation/v2.0/2014/018/catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://constantinius.github.io/osc-demo/world-ocean-circulation/wind-stress-vector-world-ocean-circulation/v2.0/2014/019/catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://constantinius.github.io/osc-demo/world-ocean-circulation/wind-stress-vector-world-ocean-circulation/v2.0/2014/020/catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://constantinius.github.io/osc-demo/world-ocean-circulation/wind-stress-vector-world-ocean-circulation/v2.0/2014/021/catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://constantinius.github.io/osc-demo/world-ocean-circulation/wind-stress-vector-world-ocean-circulation/v2.0/2014/022/catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://constantinius.github.io/osc-demo/world-ocean-circulation/wind-stress-vector-world-ocean-circulation/v2.0/2014/023/catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://constantinius.github.io/osc-demo/world-ocean-circulation/wind-stress-vector-world-ocean-circulation/v2.0/2014/024/catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://constantinius.github.io/osc-demo/world-ocean-circulation/wind-stress-vector-world-ocean-circulation/v2.0/2014/025/catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://constantinius.github.io/osc-demo/world-ocean-circulation/wind-stress-vector-world-ocean-circulation/v2.0/2014/026/catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://constantinius.github.io/osc-demo/world-ocean-circulation/wind-stress-vector-world-ocean-circulation/v2.0/2014/027/catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://constantinius.github.io/osc-demo/world-ocean-circulation/wind-stress-vector-world-ocean-circulation/v2.0/2014/028/catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://constantinius.github.io/osc-demo/world-ocean-circulation/wind-stress-vector-world-ocean-circulation/v2.0/2014/029/catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://constantinius.github.io/osc-demo/world-ocean-circulation/wind-stress-vector-world-ocean-circulation/v2.0/2014/030/catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://constantinius.github.io/osc-demo/world-ocean-circulation/wind-stress-vector-world-ocean-circulation/v2.0/2014/031/catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://constantinius.github.io/osc-demo/world-ocean-circulation/wind-stress-vector-world-ocean-circulation/v2.0/2014/032/catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://constantinius.github.io/osc-demo/world-ocean-circulation/wind-stress-vector-world-ocean-circulation/v2.0/2014/033/catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://constantinius.github.io/osc-demo/world-ocean-circulation/wind-stress-vector-world-ocean-circulation/v2.0/2014/034/catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://constantinius.github.io/osc-demo/world-ocean-circulation/wind-stress-vector-world-ocean-circulation/v2.0/2014/035/catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://constantinius.github.io/osc-demo/world-ocean-circulation/wind-stress-vector-world-ocean-circulation/v2.0/2014/036/catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://constantinius.github.io/osc-demo/world-ocean-circulation/wind-stress-vector-world-ocean-circulation/v2.0/2014/037/catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://constantinius.github.io/osc-demo/world-ocean-circulation/wind-stress-vector-world-ocean-circulation/v2.0/2014/038/catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://constantinius.github.io/osc-demo/world-ocean-circulation/wind-stress-vector-world-ocean-circulation/v2.0/2014/039/catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://constantinius.github.io/osc-demo/world-ocean-circulation/wind-stress-vector-world-ocean-circulation/v2.0/2014/040/catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://constantinius.github.io/osc-demo/world-ocean-circulation/wind-stress-vector-world-ocean-circulation/v2.0/2014/041/catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://constantinius.github.io/osc-demo/world-ocean-circulation/wind-stress-vector-world-ocean-circulation/v2.0/2014/042/catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://constantinius.github.io/osc-demo/world-ocean-circulation/wind-stress-vector-world-ocean-circulation/v2.0/2014/043/catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://constantinius.github.io/osc-demo/world-ocean-circulation/wind-stress-vector-world-ocean-circulation/v2.0/2014/044/catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://constantinius.github.io/osc-demo/world-ocean-circulation/wind-stress-vector-world-ocean-circulation/v2.0/2014/045/catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://constantinius.github.io/osc-demo/world-ocean-circulation/wind-stress-vector-world-ocean-circulation/v2.0/2014/046/catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://constantinius.github.io/osc-demo/world-ocean-circulation/wind-stress-vector-world-ocean-circulation/v2.0/2014/047/catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://constantinius.github.io/osc-demo/world-ocean-circulation/wind-stress-vector-world-ocean-circulation/v2.0/2014/048/catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://constantinius.github.io/osc-demo/world-ocean-circulation/wind-stress-vector-world-ocean-circulation/v2.0/2014/049/catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://constantinius.github.io/osc-demo/world-ocean-circulation/wind-stress-vector-world-ocean-circulation/v2.0/2014/050/catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://constantinius.github.io/osc-demo/world-ocean-circulation/wind-stress-vector-world-ocean-circulation/v2.0/2014/051/catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://constantinius.github.io/osc-demo/world-ocean-circulation/wind-stress-vector-world-ocean-circulation/v2.0/2014/052/catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://constantinius.github.io/osc-demo/world-ocean-circulation/wind-stress-vector-world-ocean-circulation/v2.0/2014/053/catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://constantinius.github.io/osc-demo/world-ocean-circulation/wind-stress-vector-world-ocean-circulation/v2.0/2014/054/catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://constantinius.github.io/osc-demo/world-ocean-circulation/wind-stress-vector-world-ocean-circulation/v2.0/2014/055/catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://constantinius.github.io/osc-demo/world-ocean-circulation/wind-stress-vector-world-ocean-circulation/v2.0/2014/056/catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://constantinius.github.io/osc-demo/world-ocean-circulation/wind-stress-vector-world-ocean-circulation/v2.0/2014/057/catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://constantinius.github.io/osc-demo/world-ocean-circulation/wind-stress-vector-world-ocean-circulation/v2.0/2014/058/catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://constantinius.github.io/osc-demo/world-ocean-circulation/wind-stress-vector-world-ocean-circulation/v2.0/2014/059/catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://constantinius.github.io/osc-demo/world-ocean-circulation/wind-stress-vector-world-ocean-circulation/v2.0/2014/060/catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://constantinius.github.io/osc-demo/world-ocean-circulation/wind-stress-vector-world-ocean-circulation/v2.0/2014/061/catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://constantinius.github.io/osc-demo/world-ocean-circulation/wind-stress-vector-world-ocean-circulation/v2.0/2014/062/catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://constantinius.github.io/osc-demo/world-ocean-circulation/wind-stress-vector-world-ocean-circulation/v2.0/2014/063/catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://constantinius.github.io/osc-demo/world-ocean-circulation/wind-stress-vector-world-ocean-circulation/v2.0/2014/064/catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://constantinius.github.io/osc-demo/world-ocean-circulation/wind-stress-vector-world-ocean-circulation/v2.0/2014/065/catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://constantinius.github.io/osc-demo/world-ocean-circulation/wind-stress-vector-world-ocean-circulation/v2.0/2014/066/catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://constantinius.github.io/osc-demo/world-ocean-circulation/wind-stress-vector-world-ocean-circulation/v2.0/2014/067/catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://constantinius.github.io/osc-demo/world-ocean-circulation/wind-stress-vector-world-ocean-circulation/v2.0/2014/068/catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://constantinius.github.io/osc-demo/world-ocean-circulation/wind-stress-vector-world-ocean-circulation/v2.0/2014/069/catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://constantinius.github.io/osc-demo/world-ocean-circulation/wind-stress-vector-world-ocean-circulation/v2.0/2014/070/catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://constantinius.github.io/osc-demo/world-ocean-circulation/wind-stress-vector-world-ocean-circulation/v2.0/2014/071/catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://constantinius.github.io/osc-demo/world-ocean-circulation/wind-stress-vector-world-ocean-circulation/v2.0/2014/072/catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://constantinius.github.io/osc-demo/world-ocean-circulation/wind-stress-vector-world-ocean-circulation/v2.0/2014/073/catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://constantinius.github.io/osc-demo/world-ocean-circulation/wind-stress-vector-world-ocean-circulation/v2.0/2014/074/catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://constantinius.github.io/osc-demo/world-ocean-circulation/wind-stress-vector-world-ocean-circulation/v2.0/2014/075/catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://constantinius.github.io/osc-demo/world-ocean-circulation/wind-stress-vector-world-ocean-circulation/v2.0/2014/076/catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://constantinius.github.io/osc-demo/world-ocean-circulation/wind-stress-vector-world-ocean-circulation/v2.0/2014/077/catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://constantinius.github.io/osc-demo/world-ocean-circulation/wind-stress-vector-world-ocean-circulation/v2.0/2014/078/catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://constantinius.github.io/osc-demo/world-ocean-circulation/wind-stress-vector-world-ocean-circulation/v2.0/2014/079/catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://constantinius.github.io/osc-demo/world-ocean-circulation/wind-stress-vector-world-ocean-circulation/v2.0/2014/080/catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://constantinius.github.io/osc-demo/world-ocean-circulation/wind-stress-vector-world-ocean-circulation/v2.0/2014/081/catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://constantinius.github.io/osc-demo/world-ocean-circulation/wind-stress-vector-world-ocean-circulation/v2.0/2014/082/catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://constantinius.github.io/osc-demo/world-ocean-circulation/wind-stress-vector-world-ocean-circulation/v2.0/2014/083/catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://constantinius.github.io/osc-demo/world-ocean-circulation/wind-stress-vector-world-ocean-circulation/v2.0/2014/084/catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://constantinius.github.io/osc-demo/world-ocean-circulation/wind-stress-vector-world-ocean-circulation/v2.0/2014/085/catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://constantinius.github.io/osc-demo/world-ocean-circulation/wind-stress-vector-world-ocean-circulation/v2.0/2014/086/catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://constantinius.github.io/osc-demo/world-ocean-circulation/wind-stress-vector-world-ocean-circulation/v2.0/2014/087/catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://constantinius.github.io/osc-demo/world-ocean-circulation/wind-stress-vector-world-ocean-circulation/v2.0/2014/088/catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://constantinius.github.io/osc-demo/world-ocean-circulation/wind-stress-vector-world-ocean-circulation/v2.0/2014/089/catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://constantinius.github.io/osc-demo/world-ocean-circulation/wind-stress-vector-world-ocean-circulation/v2.0/2014/090/catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://constantinius.github.io/osc-demo/world-ocean-circulation/wind-stress-vector-world-ocean-circulation/v2.0/2014/091/catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://constantinius.github.io/osc-demo/world-ocean-circulation/wind-stress-vector-world-ocean-circulation/v2.0/2014/092/catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://constantinius.github.io/osc-demo/world-ocean-circulation/wind-stress-vector-world-ocean-circulation/v2.0/2014/093/catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://constantinius.github.io/osc-demo/world-ocean-circulation/wind-stress-vector-world-ocean-circulation/v2.0/2014/094/catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://constantinius.github.io/osc-demo/world-ocean-circulation/wind-stress-vector-world-ocean-circulation/v2.0/2014/095/catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://constantinius.github.io/osc-demo/world-ocean-circulation/wind-stress-vector-world-ocean-circulation/v2.0/2014/096/catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://constantinius.github.io/osc-demo/world-ocean-circulation/wind-stress-vector-world-ocean-circulation/v2.0/2014/097/catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://constantinius.github.io/osc-demo/world-ocean-circulation/wind-stress-vector-world-ocean-circulation/v2.0/2014/098/catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://constantinius.github.io/osc-demo/world-ocean-circulation/wind-stress-vector-world-ocean-circulation/v2.0/2014/099/catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://constantinius.github.io/osc-demo/world-ocean-circulation/wind-stress-vector-world-ocean-circulation/v2.0/2014/100/catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://constantinius.github.io/osc-demo/world-ocean-circulation/wind-stress-vector-world-ocean-circulation/v2.0/2014/101/catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://constantinius.github.io/osc-demo/world-ocean-circulation/wind-stress-vector-world-ocean-circulation/v2.0/2014/102/catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://constantinius.github.io/osc-demo/world-ocean-circulation/wind-stress-vector-world-ocean-circulation/v2.0/2014/103/catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://constantinius.github.io/osc-demo/world-ocean-circulation/wind-stress-vector-world-ocean-circulation/v2.0/2014/104/catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://constantinius.github.io/osc-demo/world-ocean-circulation/wind-stress-vector-world-ocean-circulation/v2.0/2014/105/catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://constantinius.github.io/osc-demo/world-ocean-circulation/wind-stress-vector-world-ocean-circulation/v2.0/2014/106/catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://constantinius.github.io/osc-demo/world-ocean-circulation/wind-stress-vector-world-ocean-circulation/v2.0/2014/107/catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://constantinius.github.io/osc-demo/world-ocean-circulation/wind-stress-vector-world-ocean-circulation/v2.0/2014/108/catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://constantinius.github.io/osc-demo/world-ocean-circulation/wind-stress-vector-world-ocean-circulation/v2.0/2014/109/catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://constantinius.github.io/osc-demo/world-ocean-circulation/wind-stress-vector-world-ocean-circulation/v2.0/2014/110/catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://constantinius.github.io/osc-demo/world-ocean-circulation/wind-stress-vector-world-ocean-circulation/v2.0/2014/111/catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://constantinius.github.io/osc-demo/world-ocean-circulation/wind-stress-vector-world-ocean-circulation/v2.0/2014/112/catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://constantinius.github.io/osc-demo/world-ocean-circulation/wind-stress-vector-world-ocean-circulation/v2.0/2014/113/catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://constantinius.github.io/osc-demo/world-ocean-circulation/wind-stress-vector-world-ocean-circulation/v2.0/2014/114/catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://constantinius.github.io/osc-demo/world-ocean-circulation/wind-stress-vector-world-ocean-circulation/v2.0/2014/115/catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://constantinius.github.io/osc-demo/world-ocean-circulation/wind-stress-vector-world-ocean-circulation/v2.0/2014/116/catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://constantinius.github.io/osc-demo/world-ocean-circulation/wind-stress-vector-world-ocean-circulation/v2.0/2014/117/catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://constantinius.github.io/osc-demo/world-ocean-circulation/wind-stress-vector-world-ocean-circulation/v2.0/2014/118/catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://constantinius.github.io/osc-demo/world-ocean-circulation/wind-stress-vector-world-ocean-circulation/v2.0/2014/119/catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://constantinius.github.io/osc-demo/world-ocean-circulation/wind-stress-vector-world-ocean-circulation/v2.0/2014/120/catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://constantinius.github.io/osc-demo/world-ocean-circulation/wind-stress-vector-world-ocean-circulation/v2.0/2014/121/catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://constantinius.github.io/osc-demo/world-ocean-circulation/wind-stress-vector-world-ocean-circulation/v2.0/2014/122/catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://constantinius.github.io/osc-demo/world-ocean-circulation/wind-stress-vector-world-ocean-circulation/v2.0/2014/123/catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://constantinius.github.io/osc-demo/world-ocean-circulation/wind-stress-vector-world-ocean-circulation/v2.0/2014/124/catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://constantinius.github.io/osc-demo/world-ocean-circulation/wind-stress-vector-world-ocean-circulation/v2.0/2014/125/catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://constantinius.github.io/osc-demo/world-ocean-circulation/wind-stress-vector-world-ocean-circulation/v2.0/2014/126/catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://constantinius.github.io/osc-demo/world-ocean-circulation/wind-stress-vector-world-ocean-circulation/v2.0/2014/127/catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://constantinius.github.io/osc-demo/world-ocean-circulation/wind-stress-vector-world-ocean-circulation/v2.0/2014/128/catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://constantinius.github.io/osc-demo/world-ocean-circulation/wind-stress-vector-world-ocean-circulation/v2.0/2014/129/catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://constantinius.github.io/osc-demo/world-ocean-circulation/wind-stress-vector-world-ocean-circulation/v2.0/2014/130/catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://constantinius.github.io/osc-demo/world-ocean-circulation/wind-stress-vector-world-ocean-circulation/v2.0/2014/131/catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://constantinius.github.io/osc-demo/world-ocean-circulation/wind-stress-vector-world-ocean-circulation/v2.0/2014/132/catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://constantinius.github.io/osc-demo/world-ocean-circulation/wind-stress-vector-world-ocean-circulation/v2.0/2014/133/catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://constantinius.github.io/osc-demo/world-ocean-circulation/wind-stress-vector-world-ocean-circulation/v2.0/2014/134/catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://constantinius.github.io/osc-demo/world-ocean-circulation/wind-stress-vector-world-ocean-circulation/v2.0/2014/135/catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://constantinius.github.io/osc-demo/world-ocean-circulation/wind-stress-vector-world-ocean-circulation/v2.0/2014/136/catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://constantinius.github.io/osc-demo/world-ocean-circulation/wind-stress-vector-world-ocean-circulation/v2.0/2014/137/catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://constantinius.github.io/osc-demo/world-ocean-circulation/wind-stress-vector-world-ocean-circulation/v2.0/2014/138/catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://constantinius.github.io/osc-demo/world-ocean-circulation/wind-stress-vector-world-ocean-circulation/v2.0/2014/139/catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://constantinius.github.io/osc-demo/world-ocean-circulation/wind-stress-vector-world-ocean-circulation/v2.0/2014/140/catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://constantinius.github.io/osc-demo/world-ocean-circulation/wind-stress-vector-world-ocean-circulation/v2.0/2014/141/catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://constantinius.github.io/osc-demo/world-ocean-circulation/wind-stress-vector-world-ocean-circulation/v2.0/2014/142/catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://constantinius.github.io/osc-demo/world-ocean-circulation/wind-stress-vector-world-ocean-circulation/v2.0/2014/143/catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://constantinius.github.io/osc-demo/world-ocean-circulation/wind-stress-vector-world-ocean-circulation/v2.0/2014/144/catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://constantinius.github.io/osc-demo/world-ocean-circulation/wind-stress-vector-world-ocean-circulation/v2.0/2014/145/catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://constantinius.github.io/osc-demo/world-ocean-circulation/wind-stress-vector-world-ocean-circulation/v2.0/2014/146/catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://constantinius.github.io/osc-demo/world-ocean-circulation/wind-stress-vector-world-ocean-circulation/v2.0/2014/147/catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://constantinius.github.io/osc-demo/world-ocean-circulation/wind-stress-vector-world-ocean-circulation/v2.0/2014/148/catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://constantinius.github.io/osc-demo/world-ocean-circulation/wind-stress-vector-world-ocean-circulation/v2.0/2014/149/catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://constantinius.github.io/osc-demo/world-ocean-circulation/wind-stress-vector-world-ocean-circulation/v2.0/2014/150/catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://constantinius.github.io/osc-demo/world-ocean-circulation/wind-stress-vector-world-ocean-circulation/v2.0/2014/151/catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://constantinius.github.io/osc-demo/world-ocean-circulation/wind-stress-vector-world-ocean-circulation/v2.0/2014/152/catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://constantinius.github.io/osc-demo/world-ocean-circulation/wind-stress-vector-world-ocean-circulation/v2.0/2014/153/catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://constantinius.github.io/osc-demo/world-ocean-circulation/wind-stress-vector-world-ocean-circulation/v2.0/2014/154/catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://constantinius.github.io/osc-demo/world-ocean-circulation/wind-stress-vector-world-ocean-circulation/v2.0/2014/155/catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://constantinius.github.io/osc-demo/world-ocean-circulation/wind-stress-vector-world-ocean-circulation/v2.0/2014/156/catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://constantinius.github.io/osc-demo/world-ocean-circulation/wind-stress-vector-world-ocean-circulation/v2.0/2014/157/catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://constantinius.github.io/osc-demo/world-ocean-circulation/wind-stress-vector-world-ocean-circulation/v2.0/2014/158/catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://constantinius.github.io/osc-demo/world-ocean-circulation/wind-stress-vector-world-ocean-circulation/v2.0/2014/159/catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://constantinius.github.io/osc-demo/world-ocean-circulation/wind-stress-vector-world-ocean-circulation/v2.0/2014/160/catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://constantinius.github.io/osc-demo/world-ocean-circulation/wind-stress-vector-world-ocean-circulation/v2.0/2014/161/catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://constantinius.github.io/osc-demo/world-ocean-circulation/wind-stress-vector-world-ocean-circulation/v2.0/2014/162/catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://constantinius.github.io/osc-demo/world-ocean-circulation/wind-stress-vector-world-ocean-circulation/v2.0/2014/163/catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://constantinius.github.io/osc-demo/world-ocean-circulation/wind-stress-vector-world-ocean-circulation/v2.0/2014/164/catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://constantinius.github.io/osc-demo/world-ocean-circulation/wind-stress-vector-world-ocean-circulation/v2.0/2014/165/catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://constantinius.github.io/osc-demo/world-ocean-circulation/wind-stress-vector-world-ocean-circulation/v2.0/2014/166/catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://constantinius.github.io/osc-demo/world-ocean-circulation/wind-stress-vector-world-ocean-circulation/v2.0/2014/167/catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://constantinius.github.io/osc-demo/world-ocean-circulation/wind-stress-vector-world-ocean-circulation/v2.0/2014/168/catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://constantinius.github.io/osc-demo/world-ocean-circulation/wind-stress-vector-world-ocean-circulation/v2.0/2014/169/catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://constantinius.github.io/osc-demo/world-ocean-circulation/wind-stress-vector-world-ocean-circulation/v2.0/2014/170/catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://constantinius.github.io/osc-demo/world-ocean-circulation/wind-stress-vector-world-ocean-circulation/v2.0/2014/171/catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://constantinius.github.io/osc-demo/world-ocean-circulation/wind-stress-vector-world-ocean-circulation/v2.0/2014/172/catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://constantinius.github.io/osc-demo/world-ocean-circulation/wind-stress-vector-world-ocean-circulation/v2.0/2014/173/catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://constantinius.github.io/osc-demo/world-ocean-circulation/wind-stress-vector-world-ocean-circulation/v2.0/2014/174/catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://constantinius.github.io/osc-demo/world-ocean-circulation/wind-stress-vector-world-ocean-circulation/v2.0/2014/175/catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://constantinius.github.io/osc-demo/world-ocean-circulation/wind-stress-vector-world-ocean-circulation/v2.0/2014/176/catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://constantinius.github.io/osc-demo/world-ocean-circulation/wind-stress-vector-world-ocean-circulation/v2.0/2014/177/catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://constantinius.github.io/osc-demo/world-ocean-circulation/wind-stress-vector-world-ocean-circulation/v2.0/2014/178/catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://constantinius.github.io/osc-demo/world-ocean-circulation/wind-stress-vector-world-ocean-circulation/v2.0/2014/179/catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://constantinius.github.io/osc-demo/world-ocean-circulation/wind-stress-vector-world-ocean-circulation/v2.0/2014/180/catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://constantinius.github.io/osc-demo/world-ocean-circulation/wind-stress-vector-world-ocean-circulation/v2.0/2014/181/catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://constantinius.github.io/osc-demo/world-ocean-circulation/wind-stress-vector-world-ocean-circulation/v2.0/2014/182/catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://constantinius.github.io/osc-demo/world-ocean-circulation/wind-stress-vector-world-ocean-circulation/v2.0/2014/183/catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://constantinius.github.io/osc-demo/world-ocean-circulation/wind-stress-vector-world-ocean-circulation/v2.0/2014/184/catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://constantinius.github.io/osc-demo/world-ocean-circulation/wind-stress-vector-world-ocean-circulation/v2.0/2014/185/catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://constantinius.github.io/osc-demo/world-ocean-circulation/wind-stress-vector-world-ocean-circulation/v2.0/2014/186/catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://constantinius.github.io/osc-demo/world-ocean-circulation/wind-stress-vector-world-ocean-circulation/v2.0/2014/187/catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://constantinius.github.io/osc-demo/world-ocean-circulation/wind-stress-vector-world-ocean-circulation/v2.0/2014/188/catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://constantinius.github.io/osc-demo/world-ocean-circulation/wind-stress-vector-world-ocean-circulation/v2.0/2014/189/catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://constantinius.github.io/osc-demo/world-ocean-circulation/wind-stress-vector-world-ocean-circulation/v2.0/2014/190/catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://constantinius.github.io/osc-demo/world-ocean-circulation/wind-stress-vector-world-ocean-circulation/v2.0/2014/191/catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://constantinius.github.io/osc-demo/world-ocean-circulation/wind-stress-vector-world-ocean-circulation/v2.0/2014/192/catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://constantinius.github.io/osc-demo/world-ocean-circulation/wind-stress-vector-world-ocean-circulation/v2.0/2014/193/catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://constantinius.github.io/osc-demo/world-ocean-circulation/wind-stress-vector-world-ocean-circulation/v2.0/2014/194/catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://constantinius.github.io/osc-demo/world-ocean-circulation/wind-stress-vector-world-ocean-circulation/v2.0/2014/195/catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://constantinius.github.io/osc-demo/world-ocean-circulation/wind-stress-vector-world-ocean-circulation/v2.0/2014/196/catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://constantinius.github.io/osc-demo/world-ocean-circulation/wind-stress-vector-world-ocean-circulation/v2.0/2014/197/catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://constantinius.github.io/osc-demo/world-ocean-circulation/wind-stress-vector-world-ocean-circulation/v2.0/2014/198/catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://constantinius.github.io/osc-demo/world-ocean-circulation/wind-stress-vector-world-ocean-circulation/v2.0/2014/199/catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://constantinius.github.io/osc-demo/world-ocean-circulation/wind-stress-vector-world-ocean-circulation/v2.0/2014/200/catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://constantinius.github.io/osc-demo/world-ocean-circulation/wind-stress-vector-world-ocean-circulation/v2.0/2014/201/catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://constantinius.github.io/osc-demo/world-ocean-circulation/wind-stress-vector-world-ocean-circulation/v2.0/2014/202/catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://constantinius.github.io/osc-demo/world-ocean-circulation/wind-stress-vector-world-ocean-circulation/v2.0/2014/203/catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://constantinius.github.io/osc-demo/world-ocean-circulation/wind-stress-vector-world-ocean-circulation/v2.0/2014/204/catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://constantinius.github.io/osc-demo/world-ocean-circulation/wind-stress-vector-world-ocean-circulation/v2.0/2014/205/catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://constantinius.github.io/osc-demo/world-ocean-circulation/wind-stress-vector-world-ocean-circulation/v2.0/2014/206/catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://constantinius.github.io/osc-demo/world-ocean-circulation/wind-stress-vector-world-ocean-circulation/v2.0/2014/207/catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://constantinius.github.io/osc-demo/world-ocean-circulation/wind-stress-vector-world-ocean-circulation/v2.0/2014/208/catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://constantinius.github.io/osc-demo/world-ocean-circulation/wind-stress-vector-world-ocean-circulation/v2.0/2014/209/catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://constantinius.github.io/osc-demo/world-ocean-circulation/wind-stress-vector-world-ocean-circulation/v2.0/2014/210/catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://constantinius.github.io/osc-demo/world-ocean-circulation/wind-stress-vector-world-ocean-circulation/v2.0/2014/211/catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://constantinius.github.io/osc-demo/world-ocean-circulation/wind-stress-vector-world-ocean-circulation/v2.0/2014/212/catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://constantinius.github.io/osc-demo/world-ocean-circulation/wind-stress-vector-world-ocean-circulation/v2.0/2014/213/catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://constantinius.github.io/osc-demo/world-ocean-circulation/wind-stress-vector-world-ocean-circulation/v2.0/2014/214/catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://constantinius.github.io/osc-demo/world-ocean-circulation/wind-stress-vector-world-ocean-circulation/v2.0/2014/215/catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://constantinius.github.io/osc-demo/world-ocean-circulation/wind-stress-vector-world-ocean-circulation/v2.0/2014/216/catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://constantinius.github.io/osc-demo/world-ocean-circulation/wind-stress-vector-world-ocean-circulation/v2.0/2014/217/catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://constantinius.github.io/osc-demo/world-ocean-circulation/wind-stress-vector-world-ocean-circulation/v2.0/2014/218/catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://constantinius.github.io/osc-demo/world-ocean-circulation/wind-stress-vector-world-ocean-circulation/v2.0/2014/219/catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://constantinius.github.io/osc-demo/world-ocean-circulation/wind-stress-vector-world-ocean-circulation/v2.0/2014/220/catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://constantinius.github.io/osc-demo/world-ocean-circulation/wind-stress-vector-world-ocean-circulation/v2.0/2014/221/catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://constantinius.github.io/osc-demo/world-ocean-circulation/wind-stress-vector-world-ocean-circulation/v2.0/2014/222/catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://constantinius.github.io/osc-demo/world-ocean-circulation/wind-stress-vector-world-ocean-circulation/v2.0/2014/223/catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://constantinius.github.io/osc-demo/world-ocean-circulation/wind-stress-vector-world-ocean-circulation/v2.0/2014/224/catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://constantinius.github.io/osc-demo/world-ocean-circulation/wind-stress-vector-world-ocean-circulation/v2.0/2014/225/catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://constantinius.github.io/osc-demo/world-ocean-circulation/wind-stress-vector-world-ocean-circulation/v2.0/2014/226/catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://constantinius.github.io/osc-demo/world-ocean-circulation/wind-stress-vector-world-ocean-circulation/v2.0/2014/227/catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://constantinius.github.io/osc-demo/world-ocean-circulation/wind-stress-vector-world-ocean-circulation/v2.0/2014/228/catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://constantinius.github.io/osc-demo/world-ocean-circulation/wind-stress-vector-world-ocean-circulation/v2.0/2014/229/catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://constantinius.github.io/osc-demo/world-ocean-circulation/wind-stress-vector-world-ocean-circulation/v2.0/2014/230/catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://constantinius.github.io/osc-demo/world-ocean-circulation/wind-stress-vector-world-ocean-circulation/v2.0/2014/231/catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://constantinius.github.io/osc-demo/world-ocean-circulation/wind-stress-vector-world-ocean-circulation/v2.0/2014/232/catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://constantinius.github.io/osc-demo/world-ocean-circulation/wind-stress-vector-world-ocean-circulation/v2.0/2014/233/catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://constantinius.github.io/osc-demo/world-ocean-circulation/wind-stress-vector-world-ocean-circulation/v2.0/2014/234/catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://constantinius.github.io/osc-demo/world-ocean-circulation/wind-stress-vector-world-ocean-circulation/v2.0/2014/235/catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://constantinius.github.io/osc-demo/world-ocean-circulation/wind-stress-vector-world-ocean-circulation/v2.0/2014/236/catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://constantinius.github.io/osc-demo/world-ocean-circulation/wind-stress-vector-world-ocean-circulation/v2.0/2014/237/catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://constantinius.github.io/osc-demo/world-ocean-circulation/wind-stress-vector-world-ocean-circulation/v2.0/2014/238/catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://constantinius.github.io/osc-demo/world-ocean-circulation/wind-stress-vector-world-ocean-circulation/v2.0/2014/239/catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://constantinius.github.io/osc-demo/world-ocean-circulation/wind-stress-vector-world-ocean-circulation/v2.0/2014/240/catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://constantinius.github.io/osc-demo/world-ocean-circulation/wind-stress-vector-world-ocean-circulation/v2.0/2014/241/catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://constantinius.github.io/osc-demo/world-ocean-circulation/wind-stress-vector-world-ocean-circulation/v2.0/2014/242/catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://constantinius.github.io/osc-demo/world-ocean-circulation/wind-stress-vector-world-ocean-circulation/v2.0/2014/243/catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://constantinius.github.io/osc-demo/world-ocean-circulation/wind-stress-vector-world-ocean-circulation/v2.0/2014/244/catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://constantinius.github.io/osc-demo/world-ocean-circulation/wind-stress-vector-world-ocean-circulation/v2.0/2014/245/catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://constantinius.github.io/osc-demo/world-ocean-circulation/wind-stress-vector-world-ocean-circulation/v2.0/2014/246/catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://constantinius.github.io/osc-demo/world-ocean-circulation/wind-stress-vector-world-ocean-circulation/v2.0/2014/247/catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://constantinius.github.io/osc-demo/world-ocean-circulation/wind-stress-vector-world-ocean-circulation/v2.0/2014/248/catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://constantinius.github.io/osc-demo/world-ocean-circulation/wind-stress-vector-world-ocean-circulation/v2.0/2014/249/catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://constantinius.github.io/osc-demo/world-ocean-circulation/wind-stress-vector-world-ocean-circulation/v2.0/2014/250/catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://constantinius.github.io/osc-demo/world-ocean-circulation/wind-stress-vector-world-ocean-circulation/v2.0/2014/251/catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://constantinius.github.io/osc-demo/world-ocean-circulation/wind-stress-vector-world-ocean-circulation/v2.0/2014/252/catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://constantinius.github.io/osc-demo/world-ocean-circulation/wind-stress-vector-world-ocean-circulation/v2.0/2014/253/catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://constantinius.github.io/osc-demo/world-ocean-circulation/wind-stress-vector-world-ocean-circulation/v2.0/2014/254/catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://constantinius.github.io/osc-demo/world-ocean-circulation/wind-stress-vector-world-ocean-circulation/v2.0/2014/255/catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://constantinius.github.io/osc-demo/world-ocean-circulation/wind-stress-vector-world-ocean-circulation/v2.0/2014/256/catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://constantinius.github.io/osc-demo/world-ocean-circulation/wind-stress-vector-world-ocean-circulation/v2.0/2014/257/catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://constantinius.github.io/osc-demo/world-ocean-circulation/wind-stress-vector-world-ocean-circulation/v2.0/2014/258/catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://constantinius.github.io/osc-demo/world-ocean-circulation/wind-stress-vector-world-ocean-circulation/v2.0/2014/259/catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://constantinius.github.io/osc-demo/world-ocean-circulation/wind-stress-vector-world-ocean-circulation/v2.0/2014/260/catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://constantinius.github.io/osc-demo/world-ocean-circulation/wind-stress-vector-world-ocean-circulation/v2.0/2014/261/catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://constantinius.github.io/osc-demo/world-ocean-circulation/wind-stress-vector-world-ocean-circulation/v2.0/2014/262/catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://constantinius.github.io/osc-demo/world-ocean-circulation/wind-stress-vector-world-ocean-circulation/v2.0/2014/263/catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://constantinius.github.io/osc-demo/world-ocean-circulation/wind-stress-vector-world-ocean-circulation/v2.0/2014/264/catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://constantinius.github.io/osc-demo/world-ocean-circulation/wind-stress-vector-world-ocean-circulation/v2.0/2014/265/catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://constantinius.github.io/osc-demo/world-ocean-circulation/wind-stress-vector-world-ocean-circulation/v2.0/2014/266/catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://constantinius.github.io/osc-demo/world-ocean-circulation/wind-stress-vector-world-ocean-circulation/v2.0/2014/267/catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://constantinius.github.io/osc-demo/world-ocean-circulation/wind-stress-vector-world-ocean-circulation/v2.0/2014/268/catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://constantinius.github.io/osc-demo/world-ocean-circulation/wind-stress-vector-world-ocean-circulation/v2.0/2014/269/catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://constantinius.github.io/osc-demo/world-ocean-circulation/wind-stress-vector-world-ocean-circulation/v2.0/2014/270/catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://constantinius.github.io/osc-demo/world-ocean-circulation/wind-stress-vector-world-ocean-circulation/v2.0/2014/271/catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://constantinius.github.io/osc-demo/world-ocean-circulation/wind-stress-vector-world-ocean-circulation/v2.0/2014/272/catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://constantinius.github.io/osc-demo/world-ocean-circulation/wind-stress-vector-world-ocean-circulation/v2.0/2014/273/catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://constantinius.github.io/osc-demo/world-ocean-circulation/wind-stress-vector-world-ocean-circulation/v2.0/2014/274/catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://constantinius.github.io/osc-demo/world-ocean-circulation/wind-stress-vector-world-ocean-circulation/v2.0/2014/275/catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://constantinius.github.io/osc-demo/world-ocean-circulation/wind-stress-vector-world-ocean-circulation/v2.0/2014/276/catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://constantinius.github.io/osc-demo/world-ocean-circulation/wind-stress-vector-world-ocean-circulation/v2.0/2014/277/catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://constantinius.github.io/osc-demo/world-ocean-circulation/wind-stress-vector-world-ocean-circulation/v2.0/2014/278/catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://constantinius.github.io/osc-demo/world-ocean-circulation/wind-stress-vector-world-ocean-circulation/v2.0/2014/279/catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://constantinius.github.io/osc-demo/world-ocean-circulation/wind-stress-vector-world-ocean-circulation/v2.0/2014/280/catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://constantinius.github.io/osc-demo/world-ocean-circulation/wind-stress-vector-world-ocean-circulation/v2.0/2014/281/catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://constantinius.github.io/osc-demo/world-ocean-circulation/wind-stress-vector-world-ocean-circulation/v2.0/2014/282/catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://constantinius.github.io/osc-demo/world-ocean-circulation/wind-stress-vector-world-ocean-circulation/v2.0/2014/283/catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://constantinius.github.io/osc-demo/world-ocean-circulation/wind-stress-vector-world-ocean-circulation/v2.0/2014/284/catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://constantinius.github.io/osc-demo/world-ocean-circulation/wind-stress-vector-world-ocean-circulation/v2.0/2014/285/catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://constantinius.github.io/osc-demo/world-ocean-circulation/wind-stress-vector-world-ocean-circulation/v2.0/2014/286/catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://constantinius.github.io/osc-demo/world-ocean-circulation/wind-stress-vector-world-ocean-circulation/v2.0/2014/287/catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://constantinius.github.io/osc-demo/world-ocean-circulation/wind-stress-vector-world-ocean-circulation/v2.0/2014/288/catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://constantinius.github.io/osc-demo/world-ocean-circulation/wind-stress-vector-world-ocean-circulation/v2.0/2014/289/catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://constantinius.github.io/osc-demo/world-ocean-circulation/wind-stress-vector-world-ocean-circulation/v2.0/2014/290/catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://constantinius.github.io/osc-demo/world-ocean-circulation/wind-stress-vector-world-ocean-circulation/v2.0/2014/291/catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://constantinius.github.io/osc-demo/world-ocean-circulation/wind-stress-vector-world-ocean-circulation/v2.0/2014/292/catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://constantinius.github.io/osc-demo/world-ocean-circulation/wind-stress-vector-world-ocean-circulation/v2.0/2014/293/catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://constantinius.github.io/osc-demo/world-ocean-circulation/wind-stress-vector-world-ocean-circulation/v2.0/2014/294/catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://constantinius.github.io/osc-demo/world-ocean-circulation/wind-stress-vector-world-ocean-circulation/v2.0/2014/295/catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://constantinius.github.io/osc-demo/world-ocean-circulation/wind-stress-vector-world-ocean-circulation/v2.0/2014/296/catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://constantinius.github.io/osc-demo/world-ocean-circulation/wind-stress-vector-world-ocean-circulation/v2.0/2014/297/catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://constantinius.github.io/osc-demo/world-ocean-circulation/wind-stress-vector-world-ocean-circulation/v2.0/2014/298/catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://constantinius.github.io/osc-demo/world-ocean-circulation/wind-stress-vector-world-ocean-circulation/v2.0/2014/299/catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://constantinius.github.io/osc-demo/world-ocean-circulation/wind-stress-vector-world-ocean-circulation/v2.0/2014/300/catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://constantinius.github.io/osc-demo/world-ocean-circulation/wind-stress-vector-world-ocean-circulation/v2.0/2014/301/catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://constantinius.github.io/osc-demo/world-ocean-circulation/wind-stress-vector-world-ocean-circulation/v2.0/2014/302/catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://constantinius.github.io/osc-demo/world-ocean-circulation/wind-stress-vector-world-ocean-circulation/v2.0/2014/303/catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://constantinius.github.io/osc-demo/world-ocean-circulation/wind-stress-vector-world-ocean-circulation/v2.0/2014/304/catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://constantinius.github.io/osc-demo/world-ocean-circulation/wind-stress-vector-world-ocean-circulation/v2.0/2014/305/catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://constantinius.github.io/osc-demo/world-ocean-circulation/wind-stress-vector-world-ocean-circulation/v2.0/2014/306/catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://constantinius.github.io/osc-demo/world-ocean-circulation/wind-stress-vector-world-ocean-circulation/v2.0/2014/307/catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://constantinius.github.io/osc-demo/world-ocean-circulation/wind-stress-vector-world-ocean-circulation/v2.0/2014/308/catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://constantinius.github.io/osc-demo/world-ocean-circulation/wind-stress-vector-world-ocean-circulation/v2.0/2014/309/catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://constantinius.github.io/osc-demo/world-ocean-circulation/wind-stress-vector-world-ocean-circulation/v2.0/2014/310/catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://constantinius.github.io/osc-demo/world-ocean-circulation/wind-stress-vector-world-ocean-circulation/v2.0/2014/311/catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://constantinius.github.io/osc-demo/world-ocean-circulation/wind-stress-vector-world-ocean-circulation/v2.0/2014/312/catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://constantinius.github.io/osc-demo/world-ocean-circulation/wind-stress-vector-world-ocean-circulation/v2.0/2014/313/catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://constantinius.github.io/osc-demo/world-ocean-circulation/wind-stress-vector-world-ocean-circulation/v2.0/2014/314/catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://constantinius.github.io/osc-demo/world-ocean-circulation/wind-stress-vector-world-ocean-circulation/v2.0/2014/315/catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://constantinius.github.io/osc-demo/world-ocean-circulation/wind-stress-vector-world-ocean-circulation/v2.0/2014/316/catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://constantinius.github.io/osc-demo/world-ocean-circulation/wind-stress-vector-world-ocean-circulation/v2.0/2014/317/catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://constantinius.github.io/osc-demo/world-ocean-circulation/wind-stress-vector-world-ocean-circulation/v2.0/2014/318/catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://constantinius.github.io/osc-demo/world-ocean-circulation/wind-stress-vector-world-ocean-circulation/v2.0/2014/319/catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://constantinius.github.io/osc-demo/world-ocean-circulation/wind-stress-vector-world-ocean-circulation/v2.0/2014/320/catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://constantinius.github.io/osc-demo/world-ocean-circulation/wind-stress-vector-world-ocean-circulation/v2.0/2014/321/catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://constantinius.github.io/osc-demo/world-ocean-circulation/wind-stress-vector-world-ocean-circulation/v2.0/2014/322/catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://constantinius.github.io/osc-demo/world-ocean-circulation/wind-stress-vector-world-ocean-circulation/v2.0/2014/323/catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://constantinius.github.io/osc-demo/world-ocean-circulation/wind-stress-vector-world-ocean-circulation/v2.0/2014/324/catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://constantinius.github.io/osc-demo/world-ocean-circulation/wind-stress-vector-world-ocean-circulation/v2.0/2014/325/catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://constantinius.github.io/osc-demo/world-ocean-circulation/wind-stress-vector-world-ocean-circulation/v2.0/2014/326/catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://constantinius.github.io/osc-demo/world-ocean-circulation/wind-stress-vector-world-ocean-circulation/v2.0/2014/327/catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://constantinius.github.io/osc-demo/world-ocean-circulation/wind-stress-vector-world-ocean-circulation/v2.0/2014/328/catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://constantinius.github.io/osc-demo/world-ocean-circulation/wind-stress-vector-world-ocean-circulation/v2.0/2014/329/catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://constantinius.github.io/osc-demo/world-ocean-circulation/wind-stress-vector-world-ocean-circulation/v2.0/2014/330/catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://constantinius.github.io/osc-demo/world-ocean-circulation/wind-stress-vector-world-ocean-circulation/v2.0/2014/331/catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://constantinius.github.io/osc-demo/world-ocean-circulation/wind-stress-vector-world-ocean-circulation/v2.0/2014/332/catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://constantinius.github.io/osc-demo/world-ocean-circulation/wind-stress-vector-world-ocean-circulation/v2.0/2014/333/catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://constantinius.github.io/osc-demo/world-ocean-circulation/wind-stress-vector-world-ocean-circulation/v2.0/2014/334/catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://constantinius.github.io/osc-demo/world-ocean-circulation/wind-stress-vector-world-ocean-circulation/v2.0/2014/335/catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://constantinius.github.io/osc-demo/world-ocean-circulation/wind-stress-vector-world-ocean-circulation/v2.0/2014/336/catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://constantinius.github.io/osc-demo/world-ocean-circulation/wind-stress-vector-world-ocean-circulation/v2.0/2014/337/catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://constantinius.github.io/osc-demo/world-ocean-circulation/wind-stress-vector-world-ocean-circulation/v2.0/2014/338/catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://constantinius.github.io/osc-demo/world-ocean-circulation/wind-stress-vector-world-ocean-circulation/v2.0/2014/339/catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://constantinius.github.io/osc-demo/world-ocean-circulation/wind-stress-vector-world-ocean-circulation/v2.0/2014/340/catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://constantinius.github.io/osc-demo/world-ocean-circulation/wind-stress-vector-world-ocean-circulation/v2.0/2014/341/catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://constantinius.github.io/osc-demo/world-ocean-circulation/wind-stress-vector-world-ocean-circulation/v2.0/2014/342/catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://constantinius.github.io/osc-demo/world-ocean-circulation/wind-stress-vector-world-ocean-circulation/v2.0/2014/343/catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://constantinius.github.io/osc-demo/world-ocean-circulation/wind-stress-vector-world-ocean-circulation/v2.0/2014/344/catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://constantinius.github.io/osc-demo/world-ocean-circulation/wind-stress-vector-world-ocean-circulation/v2.0/2014/345/catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://constantinius.github.io/osc-demo/world-ocean-circulation/wind-stress-vector-world-ocean-circulation/v2.0/2014/346/catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://constantinius.github.io/osc-demo/world-ocean-circulation/wind-stress-vector-world-ocean-circulation/v2.0/2014/347/catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://constantinius.github.io/osc-demo/world-ocean-circulation/wind-stress-vector-world-ocean-circulation/v2.0/2014/348/catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://constantinius.github.io/osc-demo/world-ocean-circulation/wind-stress-vector-world-ocean-circulation/v2.0/2014/349/catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://constantinius.github.io/osc-demo/world-ocean-circulation/wind-stress-vector-world-ocean-circulation/v2.0/2014/350/catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://constantinius.github.io/osc-demo/world-ocean-circulation/wind-stress-vector-world-ocean-circulation/v2.0/2014/351/catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://constantinius.github.io/osc-demo/world-ocean-circulation/wind-stress-vector-world-ocean-circulation/v2.0/2014/352/catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://constantinius.github.io/osc-demo/world-ocean-circulation/wind-stress-vector-world-ocean-circulation/v2.0/2014/353/catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://constantinius.github.io/osc-demo/world-ocean-circulation/wind-stress-vector-world-ocean-circulation/v2.0/2014/354/catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://constantinius.github.io/osc-demo/world-ocean-circulation/wind-stress-vector-world-ocean-circulation/v2.0/2014/355/catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://constantinius.github.io/osc-demo/world-ocean-circulation/wind-stress-vector-world-ocean-circulation/v2.0/2014/356/catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://constantinius.github.io/osc-demo/world-ocean-circulation/wind-stress-vector-world-ocean-circulation/v2.0/2014/357/catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://constantinius.github.io/osc-demo/world-ocean-circulation/wind-stress-vector-world-ocean-circulation/v2.0/2014/358/catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://constantinius.github.io/osc-demo/world-ocean-circulation/wind-stress-vector-world-ocean-circulation/v2.0/2014/359/catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://constantinius.github.io/osc-demo/world-ocean-circulation/wind-stress-vector-world-ocean-circulation/v2.0/2014/360/catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://constantinius.github.io/osc-demo/world-ocean-circulation/wind-stress-vector-world-ocean-circulation/v2.0/2014/361/catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://constantinius.github.io/osc-demo/world-ocean-circulation/wind-stress-vector-world-ocean-circulation/v2.0/2014/362/catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://constantinius.github.io/osc-demo/world-ocean-circulation/wind-stress-vector-world-ocean-circulation/v2.0/2014/363/catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://constantinius.github.io/osc-demo/world-ocean-circulation/wind-stress-vector-world-ocean-circulation/v2.0/2014/364/catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://constantinius.github.io/osc-demo/world-ocean-circulation/wind-stress-vector-world-ocean-circulation/v2.0/2014/365/catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "parent",
+      "href": "https://constantinius.github.io/osc-demo/world-ocean-circulation/wind-stress-vector-world-ocean-circulation/v2.0/catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "self",
+      "href": "https://constantinius.github.io/osc-demo/world-ocean-circulation/wind-stress-vector-world-ocean-circulation/v2.0/2014/catalog.json",
+      "type": "application/json"
+    }
+  ],
+  "stac_extensions": [],
+  "updated": "2023-03-27T21:29:09Z"
+}

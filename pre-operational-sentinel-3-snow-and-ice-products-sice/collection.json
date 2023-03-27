@@ -74,7 +74,7 @@
   "osc:type": "Project",
   "start_datetime": "2018-08-07T00:00:00Z",
   "end_datetime": "2019-12-03T23:59:59Z",
-  "updated": "2023-03-27T21:11:23Z",
+  "updated": "2023-03-27T21:29:09Z",
   "assets": {
     "iso-metadata": {
       "href": "/home/runner/work/osc-demo/osc-demo/build/pre-operational-sentinel-3-snow-and-ice-products-sice/iso.xml",
