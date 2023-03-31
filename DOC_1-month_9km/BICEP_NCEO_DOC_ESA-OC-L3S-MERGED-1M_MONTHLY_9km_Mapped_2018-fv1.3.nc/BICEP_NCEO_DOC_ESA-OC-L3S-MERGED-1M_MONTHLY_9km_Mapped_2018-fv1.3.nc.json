@@ -1,0 +1,36 @@
+{
+  "type": "Feature",
+  "stac_version": "1.0.0",
+  "id": "BICEP_NCEO_DOC_ESA-OC-L3S-MERGED-1M_MONTHLY_9km_Mapped_2018-fv1.3.nc",
+  "properties": {
+    "datetime": "0001-01-01T00:00:00Z"
+  },
+  "geometry": null,
+  "links": [
+    {
+      "rel": "via",
+      "href": "https://rsg.pml.ac.uk/shared_files/gku/ESA_animation/DOC_1-month_9km/BICEP_NCEO_DOC_ESA-OC-L3S-MERGED-1M_MONTHLY_9km_Mapped_2018-fv1.3.nc",
+      "type": "text/html"
+    },
+    {
+      "rel": "root",
+      "href": "../../collection.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "parent",
+      "href": "../catalog.json",
+      "type": "application/json"
+    }
+  ],
+  "assets": {
+    "data": {
+      "href": "https://rsg.pml.ac.uk/shared_files/gku/ESA_animation/DOC_1-month_9km/BICEP_NCEO_DOC_ESA-OC-L3S-MERGED-1M_MONTHLY_9km_Mapped_2018-fv1.3.nc",
+      "type": "application/x-netcdf",
+      "roles": [
+        "data"
+      ]
+    }
+  },
+  "stac_extensions": []
+}
