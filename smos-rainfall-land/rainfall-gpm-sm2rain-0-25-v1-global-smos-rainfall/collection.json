@@ -63,7 +63,12 @@
   "end_datetime": "2018-12-31T23:59:59Z",
   "version": "1.0",
   "sci:doi": "10.5281/zenodo.3854817",
-  "updated": "2023-03-27T21:29:09Z",
+  "keywords": [
+    "theme:Land",
+    "variable:Precipitation type at the surface",
+    "region:Global"
+  ],
+  "updated": "2023-04-03T08:08:13Z",
   "assets": {
     "iso-metadata": {
       "href": "./iso.xml",

@@ -57,7 +57,12 @@
   "end_datetime": "2019-12-31T23:59:59Z",
   "version": "2.0",
   "sci:doi": "10.20350/digitalCSIC/13859",
-  "updated": "2023-03-27T21:29:09Z",
+  "keywords": [
+    "theme:Oceans",
+    "variable:Sea surface salinity",
+    "region:Baltics"
+  ],
+  "updated": "2023-04-03T08:08:13Z",
   "assets": {
     "iso-metadata": {
       "href": "./iso.xml",

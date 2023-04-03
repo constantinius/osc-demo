@@ -47,7 +47,12 @@
   "osc:region": "Global",
   "osc:type": "Product",
   "created": "2021-03-10T00:00:00Z",
-  "updated": "2023-03-27T21:29:09Z",
+  "keywords": [
+    "theme:Solid Earth",
+    "variable:Gravity field",
+    "region:Global"
+  ],
+  "updated": "2023-04-03T08:08:13Z",
   "assets": {
     "iso-metadata": {
       "href": "./iso.xml",

@@ -54,7 +54,10 @@
   "osc:type": "Project",
   "start_datetime": "2020-09-03T00:00:00Z",
   "end_datetime": "2022-08-31T23:59:59Z",
-  "updated": "2023-03-27T21:29:09Z",
+  "keywords": [
+    "theme:Cryosphere"
+  ],
+  "updated": "2023-04-03T08:08:13Z",
   "assets": {
     "iso-metadata": {
       "href": "/home/runner/work/osc-demo/osc-demo/build/polar-ice-shelf/iso.xml",

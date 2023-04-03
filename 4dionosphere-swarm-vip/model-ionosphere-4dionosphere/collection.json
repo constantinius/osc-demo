@@ -41,7 +41,12 @@
   "osc:status": "COMPLETED",
   "osc:region": null,
   "osc:type": "Product",
-  "updated": "2023-03-27T21:29:09Z",
+  "keywords": [
+    "theme:Magnetosphere_Ionosphere",
+    "variable:Ionospheric plasma density",
+    "region:None"
+  ],
+  "updated": "2023-04-03T08:08:13Z",
   "assets": {
     "iso-metadata": {
       "href": "./iso.xml",

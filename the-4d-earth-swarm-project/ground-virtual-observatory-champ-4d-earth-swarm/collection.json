@@ -48,7 +48,13 @@
   "osc:region": null,
   "osc:type": "Product",
   "created": "2021-09-10T00:00:00Z",
-  "updated": "2023-03-27T21:29:09Z",
+  "keywords": [
+    "theme:Solid Earth",
+    "theme:Magnetosphere_Ionosphere",
+    "variable:Geomagnetic field",
+    "region:None"
+  ],
+  "updated": "2023-04-03T08:08:13Z",
   "assets": {
     "iso-metadata": {
       "href": "./iso.xml",

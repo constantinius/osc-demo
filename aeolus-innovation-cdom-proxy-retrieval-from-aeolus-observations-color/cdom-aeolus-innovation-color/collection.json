@@ -46,7 +46,12 @@
   "osc:status": "COMPLETED",
   "osc:region": "Global",
   "osc:type": "Product",
-  "updated": "2023-03-27T21:29:09Z",
+  "keywords": [
+    "theme:Oceans",
+    "variable:Colour Dissolved Organic Matter (CDOM)",
+    "region:Global"
+  ],
+  "updated": "2023-04-03T08:08:13Z",
   "assets": {
     "iso-metadata": {
       "href": "./iso.xml",

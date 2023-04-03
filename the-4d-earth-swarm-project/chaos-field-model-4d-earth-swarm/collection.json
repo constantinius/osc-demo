@@ -59,7 +59,13 @@
   "created": "2020-10-20T00:00:00Z",
   "version": "7.8",
   "sci:doi": "10.1186/s40623-020-01252-9",
-  "updated": "2023-03-27T21:29:09Z",
+  "keywords": [
+    "theme:Solid Earth",
+    "theme:Magnetosphere_Ionosphere",
+    "variable:Geomagnetic field",
+    "region:Global"
+  ],
+  "updated": "2023-04-03T08:08:13Z",
   "assets": {
     "iso-metadata": {
       "href": "./iso.xml",

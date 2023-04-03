@@ -43,7 +43,12 @@
   "osc:type": "Product",
   "created": "2022-05-01T00:00:00Z",
   "version": "2.1",
-  "updated": "2023-03-27T21:29:09Z",
+  "keywords": [
+    "theme:Cryosphere",
+    "variable:Glacier cover",
+    "region:Antarctica"
+  ],
+  "updated": "2023-04-03T08:08:13Z",
   "assets": {
     "iso-metadata": {
       "href": "./iso.xml",

@@ -43,7 +43,12 @@
   "osc:type": "Product",
   "start_datetime": "2010-01-01T00:00:00Z",
   "end_datetime": "2015-12-31T23:59:59Z",
-  "updated": "2023-03-27T21:29:09Z",
+  "keywords": [
+    "theme:Cryosphere",
+    "variable:Glacier topography",
+    "region:Global"
+  ],
+  "updated": "2023-04-03T08:08:13Z",
   "assets": {
     "iso-metadata": {
       "href": "./iso.xml",
