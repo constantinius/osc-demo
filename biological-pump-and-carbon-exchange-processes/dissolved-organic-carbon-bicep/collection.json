@@ -29,6 +29,11 @@
       "href": "https://doi.org/10.25921/s4f4-ye35"
     },
     {
+      "rel": "child",
+      "href": "https://constantinius.github.io/osc-demo/biological-pump-and-carbon-exchange-processes/dissolved-organic-carbon-bicep/DOC_1-month_9km/catalog.json",
+      "type": "application/json"
+    },
+    {
       "rel": "parent",
       "href": "https://constantinius.github.io/osc-demo/biological-pump-and-carbon-exchange-processes/collection.json",
       "type": "application/json",
@@ -44,7 +49,6 @@
     "https://stac-extensions.github.io/osc/v1.0.0/schema.json",
     "https://stac-extensions.github.io/scientific/v1.0.0/schema.json"
   ],
-  "title": "Dissolved Organic Carbon",
   "osc:missions": [
     "Sentinel-3"
   ],
@@ -60,12 +64,13 @@
   "start_datetime": "2010-01-01T00:00:00Z",
   "end_datetime": "2018-12-31T23:59:59Z",
   "sci:doi": "10.25921/s4f4-ye35",
+  "title": "Dissolved Organic Carbon",
   "keywords": [
     "theme:Oceans",
     "variable:Colour Dissolved Organic Matter (CDOM)",
     "region:Global"
   ],
-  "updated": "2023-04-03T08:08:55Z",
+  "updated": "2023-04-03T10:43:08Z",
   "assets": {
     "iso-metadata": {
       "href": "./iso.xml",
@@ -79,18 +84,18 @@
     "spatial": {
       "bbox": [
         [
-          -180.0,
-          -90.0,
-          180.0,
-          90.0
+          -179.958344,
+          -89.958328,
+          179.958344,
+          89.958328
         ]
       ]
     },
     "temporal": {
       "interval": [
         [
-          "2010-01-01T00:00:00Z",
-          "2018-12-31T23:59:59Z"
+          "2010-01-15T00:00:00Z",
+          "2018-12-16T00:00:00Z"
         ]
       ]
     }
