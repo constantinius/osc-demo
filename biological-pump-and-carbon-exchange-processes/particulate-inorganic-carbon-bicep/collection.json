@@ -20,6 +20,12 @@
       "title": "Documentation"
     },
     {
+      "rel": "child",
+      "href": "https://constantinius.github.io/osc-demo/biological-pump-and-carbon-exchange-processes/particulate-inorganic-carbon-bicep/PIC_1-month_9km/catalog.json",
+      "type": "application/json",
+      "title": "PIC_1-month_9km"
+    },
+    {
       "rel": "parent",
       "href": "https://constantinius.github.io/osc-demo/biological-pump-and-carbon-exchange-processes/collection.json",
       "type": "application/json",
@@ -51,7 +57,7 @@
     "variable:Dissolved inorganic carbon  (DIC)",
     "region:Global"
   ],
-  "updated": "2023-04-03T10:43:08Z",
+  "updated": "2023-04-24T06:58:09Z",
   "assets": {
     "iso-metadata": {
       "href": "./iso.xml",

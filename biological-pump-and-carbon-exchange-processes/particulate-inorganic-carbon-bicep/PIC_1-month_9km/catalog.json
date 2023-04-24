@@ -1,0 +1,1420 @@
+{
+  "type": "Catalog",
+  "id": "PIC_1-month_9km",
+  "stac_version": "1.0.0",
+  "description": "",
+  "links": [
+    {
+      "rel": "root",
+      "href": "https://constantinius.github.io/osc-demo/collection.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://constantinius.github.io/osc-demo/biological-pump-and-carbon-exchange-processes/particulate-inorganic-carbon-bicep/PIC_1-month_9km/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-199709-fv4.2.nc/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-199709-fv4.2.nc.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://constantinius.github.io/osc-demo/biological-pump-and-carbon-exchange-processes/particulate-inorganic-carbon-bicep/PIC_1-month_9km/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-199710-fv4.2.nc/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-199710-fv4.2.nc.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://constantinius.github.io/osc-demo/biological-pump-and-carbon-exchange-processes/particulate-inorganic-carbon-bicep/PIC_1-month_9km/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-199711-fv4.2.nc/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-199711-fv4.2.nc.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://constantinius.github.io/osc-demo/biological-pump-and-carbon-exchange-processes/particulate-inorganic-carbon-bicep/PIC_1-month_9km/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-199712-fv4.2.nc/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-199712-fv4.2.nc.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://constantinius.github.io/osc-demo/biological-pump-and-carbon-exchange-processes/particulate-inorganic-carbon-bicep/PIC_1-month_9km/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-199801-fv4.2.nc/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-199801-fv4.2.nc.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://constantinius.github.io/osc-demo/biological-pump-and-carbon-exchange-processes/particulate-inorganic-carbon-bicep/PIC_1-month_9km/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-199802-fv4.2.nc/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-199802-fv4.2.nc.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://constantinius.github.io/osc-demo/biological-pump-and-carbon-exchange-processes/particulate-inorganic-carbon-bicep/PIC_1-month_9km/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-199803-fv4.2.nc/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-199803-fv4.2.nc.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://constantinius.github.io/osc-demo/biological-pump-and-carbon-exchange-processes/particulate-inorganic-carbon-bicep/PIC_1-month_9km/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-199804-fv4.2.nc/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-199804-fv4.2.nc.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://constantinius.github.io/osc-demo/biological-pump-and-carbon-exchange-processes/particulate-inorganic-carbon-bicep/PIC_1-month_9km/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-199805-fv4.2.nc/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-199805-fv4.2.nc.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://constantinius.github.io/osc-demo/biological-pump-and-carbon-exchange-processes/particulate-inorganic-carbon-bicep/PIC_1-month_9km/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-199806-fv4.2.nc/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-199806-fv4.2.nc.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://constantinius.github.io/osc-demo/biological-pump-and-carbon-exchange-processes/particulate-inorganic-carbon-bicep/PIC_1-month_9km/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-199807-fv4.2.nc/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-199807-fv4.2.nc.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://constantinius.github.io/osc-demo/biological-pump-and-carbon-exchange-processes/particulate-inorganic-carbon-bicep/PIC_1-month_9km/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-199808-fv4.2.nc/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-199808-fv4.2.nc.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://constantinius.github.io/osc-demo/biological-pump-and-carbon-exchange-processes/particulate-inorganic-carbon-bicep/PIC_1-month_9km/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-199809-fv4.2.nc/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-199809-fv4.2.nc.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://constantinius.github.io/osc-demo/biological-pump-and-carbon-exchange-processes/particulate-inorganic-carbon-bicep/PIC_1-month_9km/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-199810-fv4.2.nc/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-199810-fv4.2.nc.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://constantinius.github.io/osc-demo/biological-pump-and-carbon-exchange-processes/particulate-inorganic-carbon-bicep/PIC_1-month_9km/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-199811-fv4.2.nc/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-199811-fv4.2.nc.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://constantinius.github.io/osc-demo/biological-pump-and-carbon-exchange-processes/particulate-inorganic-carbon-bicep/PIC_1-month_9km/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-199812-fv4.2.nc/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-199812-fv4.2.nc.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://constantinius.github.io/osc-demo/biological-pump-and-carbon-exchange-processes/particulate-inorganic-carbon-bicep/PIC_1-month_9km/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-199901-fv4.2.nc/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-199901-fv4.2.nc.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://constantinius.github.io/osc-demo/biological-pump-and-carbon-exchange-processes/particulate-inorganic-carbon-bicep/PIC_1-month_9km/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-199902-fv4.2.nc/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-199902-fv4.2.nc.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://constantinius.github.io/osc-demo/biological-pump-and-carbon-exchange-processes/particulate-inorganic-carbon-bicep/PIC_1-month_9km/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-199903-fv4.2.nc/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-199903-fv4.2.nc.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://constantinius.github.io/osc-demo/biological-pump-and-carbon-exchange-processes/particulate-inorganic-carbon-bicep/PIC_1-month_9km/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-199904-fv4.2.nc/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-199904-fv4.2.nc.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://constantinius.github.io/osc-demo/biological-pump-and-carbon-exchange-processes/particulate-inorganic-carbon-bicep/PIC_1-month_9km/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-199905-fv4.2.nc/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-199905-fv4.2.nc.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://constantinius.github.io/osc-demo/biological-pump-and-carbon-exchange-processes/particulate-inorganic-carbon-bicep/PIC_1-month_9km/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-199906-fv4.2.nc/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-199906-fv4.2.nc.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://constantinius.github.io/osc-demo/biological-pump-and-carbon-exchange-processes/particulate-inorganic-carbon-bicep/PIC_1-month_9km/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-199907-fv4.2.nc/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-199907-fv4.2.nc.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://constantinius.github.io/osc-demo/biological-pump-and-carbon-exchange-processes/particulate-inorganic-carbon-bicep/PIC_1-month_9km/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-199908-fv4.2.nc/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-199908-fv4.2.nc.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://constantinius.github.io/osc-demo/biological-pump-and-carbon-exchange-processes/particulate-inorganic-carbon-bicep/PIC_1-month_9km/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-199909-fv4.2.nc/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-199909-fv4.2.nc.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://constantinius.github.io/osc-demo/biological-pump-and-carbon-exchange-processes/particulate-inorganic-carbon-bicep/PIC_1-month_9km/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-199910-fv4.2.nc/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-199910-fv4.2.nc.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://constantinius.github.io/osc-demo/biological-pump-and-carbon-exchange-processes/particulate-inorganic-carbon-bicep/PIC_1-month_9km/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-199911-fv4.2.nc/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-199911-fv4.2.nc.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://constantinius.github.io/osc-demo/biological-pump-and-carbon-exchange-processes/particulate-inorganic-carbon-bicep/PIC_1-month_9km/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-199912-fv4.2.nc/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-199912-fv4.2.nc.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://constantinius.github.io/osc-demo/biological-pump-and-carbon-exchange-processes/particulate-inorganic-carbon-bicep/PIC_1-month_9km/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-200001-fv4.2.nc/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-200001-fv4.2.nc.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://constantinius.github.io/osc-demo/biological-pump-and-carbon-exchange-processes/particulate-inorganic-carbon-bicep/PIC_1-month_9km/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-200002-fv4.2.nc/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-200002-fv4.2.nc.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://constantinius.github.io/osc-demo/biological-pump-and-carbon-exchange-processes/particulate-inorganic-carbon-bicep/PIC_1-month_9km/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-200003-fv4.2.nc/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-200003-fv4.2.nc.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://constantinius.github.io/osc-demo/biological-pump-and-carbon-exchange-processes/particulate-inorganic-carbon-bicep/PIC_1-month_9km/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-200004-fv4.2.nc/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-200004-fv4.2.nc.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://constantinius.github.io/osc-demo/biological-pump-and-carbon-exchange-processes/particulate-inorganic-carbon-bicep/PIC_1-month_9km/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-200005-fv4.2.nc/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-200005-fv4.2.nc.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://constantinius.github.io/osc-demo/biological-pump-and-carbon-exchange-processes/particulate-inorganic-carbon-bicep/PIC_1-month_9km/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-200006-fv4.2.nc/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-200006-fv4.2.nc.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://constantinius.github.io/osc-demo/biological-pump-and-carbon-exchange-processes/particulate-inorganic-carbon-bicep/PIC_1-month_9km/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-200007-fv4.2.nc/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-200007-fv4.2.nc.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://constantinius.github.io/osc-demo/biological-pump-and-carbon-exchange-processes/particulate-inorganic-carbon-bicep/PIC_1-month_9km/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-200008-fv4.2.nc/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-200008-fv4.2.nc.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://constantinius.github.io/osc-demo/biological-pump-and-carbon-exchange-processes/particulate-inorganic-carbon-bicep/PIC_1-month_9km/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-200009-fv4.2.nc/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-200009-fv4.2.nc.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://constantinius.github.io/osc-demo/biological-pump-and-carbon-exchange-processes/particulate-inorganic-carbon-bicep/PIC_1-month_9km/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-200010-fv4.2.nc/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-200010-fv4.2.nc.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://constantinius.github.io/osc-demo/biological-pump-and-carbon-exchange-processes/particulate-inorganic-carbon-bicep/PIC_1-month_9km/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-200011-fv4.2.nc/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-200011-fv4.2.nc.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://constantinius.github.io/osc-demo/biological-pump-and-carbon-exchange-processes/particulate-inorganic-carbon-bicep/PIC_1-month_9km/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-200012-fv4.2.nc/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-200012-fv4.2.nc.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://constantinius.github.io/osc-demo/biological-pump-and-carbon-exchange-processes/particulate-inorganic-carbon-bicep/PIC_1-month_9km/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-200101-fv4.2.nc/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-200101-fv4.2.nc.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://constantinius.github.io/osc-demo/biological-pump-and-carbon-exchange-processes/particulate-inorganic-carbon-bicep/PIC_1-month_9km/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-200102-fv4.2.nc/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-200102-fv4.2.nc.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://constantinius.github.io/osc-demo/biological-pump-and-carbon-exchange-processes/particulate-inorganic-carbon-bicep/PIC_1-month_9km/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-200103-fv4.2.nc/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-200103-fv4.2.nc.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://constantinius.github.io/osc-demo/biological-pump-and-carbon-exchange-processes/particulate-inorganic-carbon-bicep/PIC_1-month_9km/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-200104-fv4.2.nc/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-200104-fv4.2.nc.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://constantinius.github.io/osc-demo/biological-pump-and-carbon-exchange-processes/particulate-inorganic-carbon-bicep/PIC_1-month_9km/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-200105-fv4.2.nc/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-200105-fv4.2.nc.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://constantinius.github.io/osc-demo/biological-pump-and-carbon-exchange-processes/particulate-inorganic-carbon-bicep/PIC_1-month_9km/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-200106-fv4.2.nc/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-200106-fv4.2.nc.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://constantinius.github.io/osc-demo/biological-pump-and-carbon-exchange-processes/particulate-inorganic-carbon-bicep/PIC_1-month_9km/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-200107-fv4.2.nc/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-200107-fv4.2.nc.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://constantinius.github.io/osc-demo/biological-pump-and-carbon-exchange-processes/particulate-inorganic-carbon-bicep/PIC_1-month_9km/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-200108-fv4.2.nc/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-200108-fv4.2.nc.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://constantinius.github.io/osc-demo/biological-pump-and-carbon-exchange-processes/particulate-inorganic-carbon-bicep/PIC_1-month_9km/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-200109-fv4.2.nc/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-200109-fv4.2.nc.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://constantinius.github.io/osc-demo/biological-pump-and-carbon-exchange-processes/particulate-inorganic-carbon-bicep/PIC_1-month_9km/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-200110-fv4.2.nc/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-200110-fv4.2.nc.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://constantinius.github.io/osc-demo/biological-pump-and-carbon-exchange-processes/particulate-inorganic-carbon-bicep/PIC_1-month_9km/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-200111-fv4.2.nc/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-200111-fv4.2.nc.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://constantinius.github.io/osc-demo/biological-pump-and-carbon-exchange-processes/particulate-inorganic-carbon-bicep/PIC_1-month_9km/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-200112-fv4.2.nc/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-200112-fv4.2.nc.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://constantinius.github.io/osc-demo/biological-pump-and-carbon-exchange-processes/particulate-inorganic-carbon-bicep/PIC_1-month_9km/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-200201-fv4.2.nc/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-200201-fv4.2.nc.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://constantinius.github.io/osc-demo/biological-pump-and-carbon-exchange-processes/particulate-inorganic-carbon-bicep/PIC_1-month_9km/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-200202-fv4.2.nc/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-200202-fv4.2.nc.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://constantinius.github.io/osc-demo/biological-pump-and-carbon-exchange-processes/particulate-inorganic-carbon-bicep/PIC_1-month_9km/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-200203-fv4.2.nc/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-200203-fv4.2.nc.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://constantinius.github.io/osc-demo/biological-pump-and-carbon-exchange-processes/particulate-inorganic-carbon-bicep/PIC_1-month_9km/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-200204-fv4.2.nc/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-200204-fv4.2.nc.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://constantinius.github.io/osc-demo/biological-pump-and-carbon-exchange-processes/particulate-inorganic-carbon-bicep/PIC_1-month_9km/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-200205-fv4.2.nc/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-200205-fv4.2.nc.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://constantinius.github.io/osc-demo/biological-pump-and-carbon-exchange-processes/particulate-inorganic-carbon-bicep/PIC_1-month_9km/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-200206-fv4.2.nc/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-200206-fv4.2.nc.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://constantinius.github.io/osc-demo/biological-pump-and-carbon-exchange-processes/particulate-inorganic-carbon-bicep/PIC_1-month_9km/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-200207-fv4.2.nc/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-200207-fv4.2.nc.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://constantinius.github.io/osc-demo/biological-pump-and-carbon-exchange-processes/particulate-inorganic-carbon-bicep/PIC_1-month_9km/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-200208-fv4.2.nc/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-200208-fv4.2.nc.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://constantinius.github.io/osc-demo/biological-pump-and-carbon-exchange-processes/particulate-inorganic-carbon-bicep/PIC_1-month_9km/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-200209-fv4.2.nc/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-200209-fv4.2.nc.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://constantinius.github.io/osc-demo/biological-pump-and-carbon-exchange-processes/particulate-inorganic-carbon-bicep/PIC_1-month_9km/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-200210-fv4.2.nc/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-200210-fv4.2.nc.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://constantinius.github.io/osc-demo/biological-pump-and-carbon-exchange-processes/particulate-inorganic-carbon-bicep/PIC_1-month_9km/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-200211-fv4.2.nc/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-200211-fv4.2.nc.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://constantinius.github.io/osc-demo/biological-pump-and-carbon-exchange-processes/particulate-inorganic-carbon-bicep/PIC_1-month_9km/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-200212-fv4.2.nc/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-200212-fv4.2.nc.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://constantinius.github.io/osc-demo/biological-pump-and-carbon-exchange-processes/particulate-inorganic-carbon-bicep/PIC_1-month_9km/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-200301-fv4.2.nc/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-200301-fv4.2.nc.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://constantinius.github.io/osc-demo/biological-pump-and-carbon-exchange-processes/particulate-inorganic-carbon-bicep/PIC_1-month_9km/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-200302-fv4.2.nc/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-200302-fv4.2.nc.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://constantinius.github.io/osc-demo/biological-pump-and-carbon-exchange-processes/particulate-inorganic-carbon-bicep/PIC_1-month_9km/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-200303-fv4.2.nc/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-200303-fv4.2.nc.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://constantinius.github.io/osc-demo/biological-pump-and-carbon-exchange-processes/particulate-inorganic-carbon-bicep/PIC_1-month_9km/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-200304-fv4.2.nc/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-200304-fv4.2.nc.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://constantinius.github.io/osc-demo/biological-pump-and-carbon-exchange-processes/particulate-inorganic-carbon-bicep/PIC_1-month_9km/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-200305-fv4.2.nc/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-200305-fv4.2.nc.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://constantinius.github.io/osc-demo/biological-pump-and-carbon-exchange-processes/particulate-inorganic-carbon-bicep/PIC_1-month_9km/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-200306-fv4.2.nc/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-200306-fv4.2.nc.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://constantinius.github.io/osc-demo/biological-pump-and-carbon-exchange-processes/particulate-inorganic-carbon-bicep/PIC_1-month_9km/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-200307-fv4.2.nc/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-200307-fv4.2.nc.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://constantinius.github.io/osc-demo/biological-pump-and-carbon-exchange-processes/particulate-inorganic-carbon-bicep/PIC_1-month_9km/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-200308-fv4.2.nc/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-200308-fv4.2.nc.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://constantinius.github.io/osc-demo/biological-pump-and-carbon-exchange-processes/particulate-inorganic-carbon-bicep/PIC_1-month_9km/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-200309-fv4.2.nc/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-200309-fv4.2.nc.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://constantinius.github.io/osc-demo/biological-pump-and-carbon-exchange-processes/particulate-inorganic-carbon-bicep/PIC_1-month_9km/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-200310-fv4.2.nc/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-200310-fv4.2.nc.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://constantinius.github.io/osc-demo/biological-pump-and-carbon-exchange-processes/particulate-inorganic-carbon-bicep/PIC_1-month_9km/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-200311-fv4.2.nc/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-200311-fv4.2.nc.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://constantinius.github.io/osc-demo/biological-pump-and-carbon-exchange-processes/particulate-inorganic-carbon-bicep/PIC_1-month_9km/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-200312-fv4.2.nc/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-200312-fv4.2.nc.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://constantinius.github.io/osc-demo/biological-pump-and-carbon-exchange-processes/particulate-inorganic-carbon-bicep/PIC_1-month_9km/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-200401-fv4.2.nc/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-200401-fv4.2.nc.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://constantinius.github.io/osc-demo/biological-pump-and-carbon-exchange-processes/particulate-inorganic-carbon-bicep/PIC_1-month_9km/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-200402-fv4.2.nc/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-200402-fv4.2.nc.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://constantinius.github.io/osc-demo/biological-pump-and-carbon-exchange-processes/particulate-inorganic-carbon-bicep/PIC_1-month_9km/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-200403-fv4.2.nc/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-200403-fv4.2.nc.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://constantinius.github.io/osc-demo/biological-pump-and-carbon-exchange-processes/particulate-inorganic-carbon-bicep/PIC_1-month_9km/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-200404-fv4.2.nc/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-200404-fv4.2.nc.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://constantinius.github.io/osc-demo/biological-pump-and-carbon-exchange-processes/particulate-inorganic-carbon-bicep/PIC_1-month_9km/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-200405-fv4.2.nc/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-200405-fv4.2.nc.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://constantinius.github.io/osc-demo/biological-pump-and-carbon-exchange-processes/particulate-inorganic-carbon-bicep/PIC_1-month_9km/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-200406-fv4.2.nc/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-200406-fv4.2.nc.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://constantinius.github.io/osc-demo/biological-pump-and-carbon-exchange-processes/particulate-inorganic-carbon-bicep/PIC_1-month_9km/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-200407-fv4.2.nc/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-200407-fv4.2.nc.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://constantinius.github.io/osc-demo/biological-pump-and-carbon-exchange-processes/particulate-inorganic-carbon-bicep/PIC_1-month_9km/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-200408-fv4.2.nc/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-200408-fv4.2.nc.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://constantinius.github.io/osc-demo/biological-pump-and-carbon-exchange-processes/particulate-inorganic-carbon-bicep/PIC_1-month_9km/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-200409-fv4.2.nc/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-200409-fv4.2.nc.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://constantinius.github.io/osc-demo/biological-pump-and-carbon-exchange-processes/particulate-inorganic-carbon-bicep/PIC_1-month_9km/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-200410-fv4.2.nc/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-200410-fv4.2.nc.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://constantinius.github.io/osc-demo/biological-pump-and-carbon-exchange-processes/particulate-inorganic-carbon-bicep/PIC_1-month_9km/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-200411-fv4.2.nc/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-200411-fv4.2.nc.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://constantinius.github.io/osc-demo/biological-pump-and-carbon-exchange-processes/particulate-inorganic-carbon-bicep/PIC_1-month_9km/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-200412-fv4.2.nc/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-200412-fv4.2.nc.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://constantinius.github.io/osc-demo/biological-pump-and-carbon-exchange-processes/particulate-inorganic-carbon-bicep/PIC_1-month_9km/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-200501-fv4.2.nc/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-200501-fv4.2.nc.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://constantinius.github.io/osc-demo/biological-pump-and-carbon-exchange-processes/particulate-inorganic-carbon-bicep/PIC_1-month_9km/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-200502-fv4.2.nc/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-200502-fv4.2.nc.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://constantinius.github.io/osc-demo/biological-pump-and-carbon-exchange-processes/particulate-inorganic-carbon-bicep/PIC_1-month_9km/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-200503-fv4.2.nc/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-200503-fv4.2.nc.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://constantinius.github.io/osc-demo/biological-pump-and-carbon-exchange-processes/particulate-inorganic-carbon-bicep/PIC_1-month_9km/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-200504-fv4.2.nc/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-200504-fv4.2.nc.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://constantinius.github.io/osc-demo/biological-pump-and-carbon-exchange-processes/particulate-inorganic-carbon-bicep/PIC_1-month_9km/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-200505-fv4.2.nc/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-200505-fv4.2.nc.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://constantinius.github.io/osc-demo/biological-pump-and-carbon-exchange-processes/particulate-inorganic-carbon-bicep/PIC_1-month_9km/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-200506-fv4.2.nc/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-200506-fv4.2.nc.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://constantinius.github.io/osc-demo/biological-pump-and-carbon-exchange-processes/particulate-inorganic-carbon-bicep/PIC_1-month_9km/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-200507-fv4.2.nc/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-200507-fv4.2.nc.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://constantinius.github.io/osc-demo/biological-pump-and-carbon-exchange-processes/particulate-inorganic-carbon-bicep/PIC_1-month_9km/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-200508-fv4.2.nc/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-200508-fv4.2.nc.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://constantinius.github.io/osc-demo/biological-pump-and-carbon-exchange-processes/particulate-inorganic-carbon-bicep/PIC_1-month_9km/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-200509-fv4.2.nc/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-200509-fv4.2.nc.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://constantinius.github.io/osc-demo/biological-pump-and-carbon-exchange-processes/particulate-inorganic-carbon-bicep/PIC_1-month_9km/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-200510-fv4.2.nc/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-200510-fv4.2.nc.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://constantinius.github.io/osc-demo/biological-pump-and-carbon-exchange-processes/particulate-inorganic-carbon-bicep/PIC_1-month_9km/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-200511-fv4.2.nc/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-200511-fv4.2.nc.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://constantinius.github.io/osc-demo/biological-pump-and-carbon-exchange-processes/particulate-inorganic-carbon-bicep/PIC_1-month_9km/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-200512-fv4.2.nc/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-200512-fv4.2.nc.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://constantinius.github.io/osc-demo/biological-pump-and-carbon-exchange-processes/particulate-inorganic-carbon-bicep/PIC_1-month_9km/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-200601-fv4.2.nc/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-200601-fv4.2.nc.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://constantinius.github.io/osc-demo/biological-pump-and-carbon-exchange-processes/particulate-inorganic-carbon-bicep/PIC_1-month_9km/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-200602-fv4.2.nc/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-200602-fv4.2.nc.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://constantinius.github.io/osc-demo/biological-pump-and-carbon-exchange-processes/particulate-inorganic-carbon-bicep/PIC_1-month_9km/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-200603-fv4.2.nc/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-200603-fv4.2.nc.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://constantinius.github.io/osc-demo/biological-pump-and-carbon-exchange-processes/particulate-inorganic-carbon-bicep/PIC_1-month_9km/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-200604-fv4.2.nc/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-200604-fv4.2.nc.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://constantinius.github.io/osc-demo/biological-pump-and-carbon-exchange-processes/particulate-inorganic-carbon-bicep/PIC_1-month_9km/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-200605-fv4.2.nc/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-200605-fv4.2.nc.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://constantinius.github.io/osc-demo/biological-pump-and-carbon-exchange-processes/particulate-inorganic-carbon-bicep/PIC_1-month_9km/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-200606-fv4.2.nc/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-200606-fv4.2.nc.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://constantinius.github.io/osc-demo/biological-pump-and-carbon-exchange-processes/particulate-inorganic-carbon-bicep/PIC_1-month_9km/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-200607-fv4.2.nc/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-200607-fv4.2.nc.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://constantinius.github.io/osc-demo/biological-pump-and-carbon-exchange-processes/particulate-inorganic-carbon-bicep/PIC_1-month_9km/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-200608-fv4.2.nc/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-200608-fv4.2.nc.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://constantinius.github.io/osc-demo/biological-pump-and-carbon-exchange-processes/particulate-inorganic-carbon-bicep/PIC_1-month_9km/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-200609-fv4.2.nc/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-200609-fv4.2.nc.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://constantinius.github.io/osc-demo/biological-pump-and-carbon-exchange-processes/particulate-inorganic-carbon-bicep/PIC_1-month_9km/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-200610-fv4.2.nc/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-200610-fv4.2.nc.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://constantinius.github.io/osc-demo/biological-pump-and-carbon-exchange-processes/particulate-inorganic-carbon-bicep/PIC_1-month_9km/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-200611-fv4.2.nc/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-200611-fv4.2.nc.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://constantinius.github.io/osc-demo/biological-pump-and-carbon-exchange-processes/particulate-inorganic-carbon-bicep/PIC_1-month_9km/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-200612-fv4.2.nc/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-200612-fv4.2.nc.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://constantinius.github.io/osc-demo/biological-pump-and-carbon-exchange-processes/particulate-inorganic-carbon-bicep/PIC_1-month_9km/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-200701-fv4.2.nc/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-200701-fv4.2.nc.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://constantinius.github.io/osc-demo/biological-pump-and-carbon-exchange-processes/particulate-inorganic-carbon-bicep/PIC_1-month_9km/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-200702-fv4.2.nc/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-200702-fv4.2.nc.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://constantinius.github.io/osc-demo/biological-pump-and-carbon-exchange-processes/particulate-inorganic-carbon-bicep/PIC_1-month_9km/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-200703-fv4.2.nc/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-200703-fv4.2.nc.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://constantinius.github.io/osc-demo/biological-pump-and-carbon-exchange-processes/particulate-inorganic-carbon-bicep/PIC_1-month_9km/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-200704-fv4.2.nc/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-200704-fv4.2.nc.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://constantinius.github.io/osc-demo/biological-pump-and-carbon-exchange-processes/particulate-inorganic-carbon-bicep/PIC_1-month_9km/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-200705-fv4.2.nc/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-200705-fv4.2.nc.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://constantinius.github.io/osc-demo/biological-pump-and-carbon-exchange-processes/particulate-inorganic-carbon-bicep/PIC_1-month_9km/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-200706-fv4.2.nc/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-200706-fv4.2.nc.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://constantinius.github.io/osc-demo/biological-pump-and-carbon-exchange-processes/particulate-inorganic-carbon-bicep/PIC_1-month_9km/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-200707-fv4.2.nc/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-200707-fv4.2.nc.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://constantinius.github.io/osc-demo/biological-pump-and-carbon-exchange-processes/particulate-inorganic-carbon-bicep/PIC_1-month_9km/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-200708-fv4.2.nc/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-200708-fv4.2.nc.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://constantinius.github.io/osc-demo/biological-pump-and-carbon-exchange-processes/particulate-inorganic-carbon-bicep/PIC_1-month_9km/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-200709-fv4.2.nc/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-200709-fv4.2.nc.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://constantinius.github.io/osc-demo/biological-pump-and-carbon-exchange-processes/particulate-inorganic-carbon-bicep/PIC_1-month_9km/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-200710-fv4.2.nc/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-200710-fv4.2.nc.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://constantinius.github.io/osc-demo/biological-pump-and-carbon-exchange-processes/particulate-inorganic-carbon-bicep/PIC_1-month_9km/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-200711-fv4.2.nc/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-200711-fv4.2.nc.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://constantinius.github.io/osc-demo/biological-pump-and-carbon-exchange-processes/particulate-inorganic-carbon-bicep/PIC_1-month_9km/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-200712-fv4.2.nc/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-200712-fv4.2.nc.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://constantinius.github.io/osc-demo/biological-pump-and-carbon-exchange-processes/particulate-inorganic-carbon-bicep/PIC_1-month_9km/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-200801-fv4.2.nc/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-200801-fv4.2.nc.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://constantinius.github.io/osc-demo/biological-pump-and-carbon-exchange-processes/particulate-inorganic-carbon-bicep/PIC_1-month_9km/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-200802-fv4.2.nc/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-200802-fv4.2.nc.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://constantinius.github.io/osc-demo/biological-pump-and-carbon-exchange-processes/particulate-inorganic-carbon-bicep/PIC_1-month_9km/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-200803-fv4.2.nc/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-200803-fv4.2.nc.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://constantinius.github.io/osc-demo/biological-pump-and-carbon-exchange-processes/particulate-inorganic-carbon-bicep/PIC_1-month_9km/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-200804-fv4.2.nc/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-200804-fv4.2.nc.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://constantinius.github.io/osc-demo/biological-pump-and-carbon-exchange-processes/particulate-inorganic-carbon-bicep/PIC_1-month_9km/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-200805-fv4.2.nc/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-200805-fv4.2.nc.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://constantinius.github.io/osc-demo/biological-pump-and-carbon-exchange-processes/particulate-inorganic-carbon-bicep/PIC_1-month_9km/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-200806-fv4.2.nc/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-200806-fv4.2.nc.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://constantinius.github.io/osc-demo/biological-pump-and-carbon-exchange-processes/particulate-inorganic-carbon-bicep/PIC_1-month_9km/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-200807-fv4.2.nc/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-200807-fv4.2.nc.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://constantinius.github.io/osc-demo/biological-pump-and-carbon-exchange-processes/particulate-inorganic-carbon-bicep/PIC_1-month_9km/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-200808-fv4.2.nc/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-200808-fv4.2.nc.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://constantinius.github.io/osc-demo/biological-pump-and-carbon-exchange-processes/particulate-inorganic-carbon-bicep/PIC_1-month_9km/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-200809-fv4.2.nc/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-200809-fv4.2.nc.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://constantinius.github.io/osc-demo/biological-pump-and-carbon-exchange-processes/particulate-inorganic-carbon-bicep/PIC_1-month_9km/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-200810-fv4.2.nc/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-200810-fv4.2.nc.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://constantinius.github.io/osc-demo/biological-pump-and-carbon-exchange-processes/particulate-inorganic-carbon-bicep/PIC_1-month_9km/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-200811-fv4.2.nc/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-200811-fv4.2.nc.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://constantinius.github.io/osc-demo/biological-pump-and-carbon-exchange-processes/particulate-inorganic-carbon-bicep/PIC_1-month_9km/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-200812-fv4.2.nc/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-200812-fv4.2.nc.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://constantinius.github.io/osc-demo/biological-pump-and-carbon-exchange-processes/particulate-inorganic-carbon-bicep/PIC_1-month_9km/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-200901-fv4.2.nc/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-200901-fv4.2.nc.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://constantinius.github.io/osc-demo/biological-pump-and-carbon-exchange-processes/particulate-inorganic-carbon-bicep/PIC_1-month_9km/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-200902-fv4.2.nc/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-200902-fv4.2.nc.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://constantinius.github.io/osc-demo/biological-pump-and-carbon-exchange-processes/particulate-inorganic-carbon-bicep/PIC_1-month_9km/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-200903-fv4.2.nc/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-200903-fv4.2.nc.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://constantinius.github.io/osc-demo/biological-pump-and-carbon-exchange-processes/particulate-inorganic-carbon-bicep/PIC_1-month_9km/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-200904-fv4.2.nc/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-200904-fv4.2.nc.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://constantinius.github.io/osc-demo/biological-pump-and-carbon-exchange-processes/particulate-inorganic-carbon-bicep/PIC_1-month_9km/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-200905-fv4.2.nc/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-200905-fv4.2.nc.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://constantinius.github.io/osc-demo/biological-pump-and-carbon-exchange-processes/particulate-inorganic-carbon-bicep/PIC_1-month_9km/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-200906-fv4.2.nc/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-200906-fv4.2.nc.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://constantinius.github.io/osc-demo/biological-pump-and-carbon-exchange-processes/particulate-inorganic-carbon-bicep/PIC_1-month_9km/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-200907-fv4.2.nc/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-200907-fv4.2.nc.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://constantinius.github.io/osc-demo/biological-pump-and-carbon-exchange-processes/particulate-inorganic-carbon-bicep/PIC_1-month_9km/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-200908-fv4.2.nc/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-200908-fv4.2.nc.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://constantinius.github.io/osc-demo/biological-pump-and-carbon-exchange-processes/particulate-inorganic-carbon-bicep/PIC_1-month_9km/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-200909-fv4.2.nc/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-200909-fv4.2.nc.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://constantinius.github.io/osc-demo/biological-pump-and-carbon-exchange-processes/particulate-inorganic-carbon-bicep/PIC_1-month_9km/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-200910-fv4.2.nc/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-200910-fv4.2.nc.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://constantinius.github.io/osc-demo/biological-pump-and-carbon-exchange-processes/particulate-inorganic-carbon-bicep/PIC_1-month_9km/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-200911-fv4.2.nc/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-200911-fv4.2.nc.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://constantinius.github.io/osc-demo/biological-pump-and-carbon-exchange-processes/particulate-inorganic-carbon-bicep/PIC_1-month_9km/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-200912-fv4.2.nc/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-200912-fv4.2.nc.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://constantinius.github.io/osc-demo/biological-pump-and-carbon-exchange-processes/particulate-inorganic-carbon-bicep/PIC_1-month_9km/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-201001-fv4.2.nc/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-201001-fv4.2.nc.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://constantinius.github.io/osc-demo/biological-pump-and-carbon-exchange-processes/particulate-inorganic-carbon-bicep/PIC_1-month_9km/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-201002-fv4.2.nc/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-201002-fv4.2.nc.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://constantinius.github.io/osc-demo/biological-pump-and-carbon-exchange-processes/particulate-inorganic-carbon-bicep/PIC_1-month_9km/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-201003-fv4.2.nc/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-201003-fv4.2.nc.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://constantinius.github.io/osc-demo/biological-pump-and-carbon-exchange-processes/particulate-inorganic-carbon-bicep/PIC_1-month_9km/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-201004-fv4.2.nc/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-201004-fv4.2.nc.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://constantinius.github.io/osc-demo/biological-pump-and-carbon-exchange-processes/particulate-inorganic-carbon-bicep/PIC_1-month_9km/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-201005-fv4.2.nc/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-201005-fv4.2.nc.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://constantinius.github.io/osc-demo/biological-pump-and-carbon-exchange-processes/particulate-inorganic-carbon-bicep/PIC_1-month_9km/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-201006-fv4.2.nc/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-201006-fv4.2.nc.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://constantinius.github.io/osc-demo/biological-pump-and-carbon-exchange-processes/particulate-inorganic-carbon-bicep/PIC_1-month_9km/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-201007-fv4.2.nc/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-201007-fv4.2.nc.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://constantinius.github.io/osc-demo/biological-pump-and-carbon-exchange-processes/particulate-inorganic-carbon-bicep/PIC_1-month_9km/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-201008-fv4.2.nc/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-201008-fv4.2.nc.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://constantinius.github.io/osc-demo/biological-pump-and-carbon-exchange-processes/particulate-inorganic-carbon-bicep/PIC_1-month_9km/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-201009-fv4.2.nc/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-201009-fv4.2.nc.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://constantinius.github.io/osc-demo/biological-pump-and-carbon-exchange-processes/particulate-inorganic-carbon-bicep/PIC_1-month_9km/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-201010-fv4.2.nc/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-201010-fv4.2.nc.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://constantinius.github.io/osc-demo/biological-pump-and-carbon-exchange-processes/particulate-inorganic-carbon-bicep/PIC_1-month_9km/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-201011-fv4.2.nc/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-201011-fv4.2.nc.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://constantinius.github.io/osc-demo/biological-pump-and-carbon-exchange-processes/particulate-inorganic-carbon-bicep/PIC_1-month_9km/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-201012-fv4.2.nc/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-201012-fv4.2.nc.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://constantinius.github.io/osc-demo/biological-pump-and-carbon-exchange-processes/particulate-inorganic-carbon-bicep/PIC_1-month_9km/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-201101-fv4.2.nc/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-201101-fv4.2.nc.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://constantinius.github.io/osc-demo/biological-pump-and-carbon-exchange-processes/particulate-inorganic-carbon-bicep/PIC_1-month_9km/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-201102-fv4.2.nc/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-201102-fv4.2.nc.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://constantinius.github.io/osc-demo/biological-pump-and-carbon-exchange-processes/particulate-inorganic-carbon-bicep/PIC_1-month_9km/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-201103-fv4.2.nc/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-201103-fv4.2.nc.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://constantinius.github.io/osc-demo/biological-pump-and-carbon-exchange-processes/particulate-inorganic-carbon-bicep/PIC_1-month_9km/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-201104-fv4.2.nc/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-201104-fv4.2.nc.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://constantinius.github.io/osc-demo/biological-pump-and-carbon-exchange-processes/particulate-inorganic-carbon-bicep/PIC_1-month_9km/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-201105-fv4.2.nc/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-201105-fv4.2.nc.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://constantinius.github.io/osc-demo/biological-pump-and-carbon-exchange-processes/particulate-inorganic-carbon-bicep/PIC_1-month_9km/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-201106-fv4.2.nc/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-201106-fv4.2.nc.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://constantinius.github.io/osc-demo/biological-pump-and-carbon-exchange-processes/particulate-inorganic-carbon-bicep/PIC_1-month_9km/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-201107-fv4.2.nc/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-201107-fv4.2.nc.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://constantinius.github.io/osc-demo/biological-pump-and-carbon-exchange-processes/particulate-inorganic-carbon-bicep/PIC_1-month_9km/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-201108-fv4.2.nc/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-201108-fv4.2.nc.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://constantinius.github.io/osc-demo/biological-pump-and-carbon-exchange-processes/particulate-inorganic-carbon-bicep/PIC_1-month_9km/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-201109-fv4.2.nc/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-201109-fv4.2.nc.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://constantinius.github.io/osc-demo/biological-pump-and-carbon-exchange-processes/particulate-inorganic-carbon-bicep/PIC_1-month_9km/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-201110-fv4.2.nc/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-201110-fv4.2.nc.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://constantinius.github.io/osc-demo/biological-pump-and-carbon-exchange-processes/particulate-inorganic-carbon-bicep/PIC_1-month_9km/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-201111-fv4.2.nc/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-201111-fv4.2.nc.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://constantinius.github.io/osc-demo/biological-pump-and-carbon-exchange-processes/particulate-inorganic-carbon-bicep/PIC_1-month_9km/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-201112-fv4.2.nc/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-201112-fv4.2.nc.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://constantinius.github.io/osc-demo/biological-pump-and-carbon-exchange-processes/particulate-inorganic-carbon-bicep/PIC_1-month_9km/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-201201-fv4.2.nc/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-201201-fv4.2.nc.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://constantinius.github.io/osc-demo/biological-pump-and-carbon-exchange-processes/particulate-inorganic-carbon-bicep/PIC_1-month_9km/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-201202-fv4.2.nc/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-201202-fv4.2.nc.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://constantinius.github.io/osc-demo/biological-pump-and-carbon-exchange-processes/particulate-inorganic-carbon-bicep/PIC_1-month_9km/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-201203-fv4.2.nc/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-201203-fv4.2.nc.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://constantinius.github.io/osc-demo/biological-pump-and-carbon-exchange-processes/particulate-inorganic-carbon-bicep/PIC_1-month_9km/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-201204-fv4.2.nc/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-201204-fv4.2.nc.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://constantinius.github.io/osc-demo/biological-pump-and-carbon-exchange-processes/particulate-inorganic-carbon-bicep/PIC_1-month_9km/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-201205-fv4.2.nc/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-201205-fv4.2.nc.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://constantinius.github.io/osc-demo/biological-pump-and-carbon-exchange-processes/particulate-inorganic-carbon-bicep/PIC_1-month_9km/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-201206-fv4.2.nc/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-201206-fv4.2.nc.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://constantinius.github.io/osc-demo/biological-pump-and-carbon-exchange-processes/particulate-inorganic-carbon-bicep/PIC_1-month_9km/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-201207-fv4.2.nc/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-201207-fv4.2.nc.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://constantinius.github.io/osc-demo/biological-pump-and-carbon-exchange-processes/particulate-inorganic-carbon-bicep/PIC_1-month_9km/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-201208-fv4.2.nc/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-201208-fv4.2.nc.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://constantinius.github.io/osc-demo/biological-pump-and-carbon-exchange-processes/particulate-inorganic-carbon-bicep/PIC_1-month_9km/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-201209-fv4.2.nc/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-201209-fv4.2.nc.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://constantinius.github.io/osc-demo/biological-pump-and-carbon-exchange-processes/particulate-inorganic-carbon-bicep/PIC_1-month_9km/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-201210-fv4.2.nc/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-201210-fv4.2.nc.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://constantinius.github.io/osc-demo/biological-pump-and-carbon-exchange-processes/particulate-inorganic-carbon-bicep/PIC_1-month_9km/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-201211-fv4.2.nc/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-201211-fv4.2.nc.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://constantinius.github.io/osc-demo/biological-pump-and-carbon-exchange-processes/particulate-inorganic-carbon-bicep/PIC_1-month_9km/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-201212-fv4.2.nc/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-201212-fv4.2.nc.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://constantinius.github.io/osc-demo/biological-pump-and-carbon-exchange-processes/particulate-inorganic-carbon-bicep/PIC_1-month_9km/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-201301-fv4.2.nc/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-201301-fv4.2.nc.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://constantinius.github.io/osc-demo/biological-pump-and-carbon-exchange-processes/particulate-inorganic-carbon-bicep/PIC_1-month_9km/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-201302-fv4.2.nc/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-201302-fv4.2.nc.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://constantinius.github.io/osc-demo/biological-pump-and-carbon-exchange-processes/particulate-inorganic-carbon-bicep/PIC_1-month_9km/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-201303-fv4.2.nc/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-201303-fv4.2.nc.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://constantinius.github.io/osc-demo/biological-pump-and-carbon-exchange-processes/particulate-inorganic-carbon-bicep/PIC_1-month_9km/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-201304-fv4.2.nc/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-201304-fv4.2.nc.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://constantinius.github.io/osc-demo/biological-pump-and-carbon-exchange-processes/particulate-inorganic-carbon-bicep/PIC_1-month_9km/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-201305-fv4.2.nc/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-201305-fv4.2.nc.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://constantinius.github.io/osc-demo/biological-pump-and-carbon-exchange-processes/particulate-inorganic-carbon-bicep/PIC_1-month_9km/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-201306-fv4.2.nc/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-201306-fv4.2.nc.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://constantinius.github.io/osc-demo/biological-pump-and-carbon-exchange-processes/particulate-inorganic-carbon-bicep/PIC_1-month_9km/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-201307-fv4.2.nc/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-201307-fv4.2.nc.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://constantinius.github.io/osc-demo/biological-pump-and-carbon-exchange-processes/particulate-inorganic-carbon-bicep/PIC_1-month_9km/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-201308-fv4.2.nc/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-201308-fv4.2.nc.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://constantinius.github.io/osc-demo/biological-pump-and-carbon-exchange-processes/particulate-inorganic-carbon-bicep/PIC_1-month_9km/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-201309-fv4.2.nc/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-201309-fv4.2.nc.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://constantinius.github.io/osc-demo/biological-pump-and-carbon-exchange-processes/particulate-inorganic-carbon-bicep/PIC_1-month_9km/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-201310-fv4.2.nc/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-201310-fv4.2.nc.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://constantinius.github.io/osc-demo/biological-pump-and-carbon-exchange-processes/particulate-inorganic-carbon-bicep/PIC_1-month_9km/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-201311-fv4.2.nc/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-201311-fv4.2.nc.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://constantinius.github.io/osc-demo/biological-pump-and-carbon-exchange-processes/particulate-inorganic-carbon-bicep/PIC_1-month_9km/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-201312-fv4.2.nc/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-201312-fv4.2.nc.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://constantinius.github.io/osc-demo/biological-pump-and-carbon-exchange-processes/particulate-inorganic-carbon-bicep/PIC_1-month_9km/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-201401-fv4.2.nc/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-201401-fv4.2.nc.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://constantinius.github.io/osc-demo/biological-pump-and-carbon-exchange-processes/particulate-inorganic-carbon-bicep/PIC_1-month_9km/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-201402-fv4.2.nc/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-201402-fv4.2.nc.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://constantinius.github.io/osc-demo/biological-pump-and-carbon-exchange-processes/particulate-inorganic-carbon-bicep/PIC_1-month_9km/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-201403-fv4.2.nc/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-201403-fv4.2.nc.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://constantinius.github.io/osc-demo/biological-pump-and-carbon-exchange-processes/particulate-inorganic-carbon-bicep/PIC_1-month_9km/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-201404-fv4.2.nc/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-201404-fv4.2.nc.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://constantinius.github.io/osc-demo/biological-pump-and-carbon-exchange-processes/particulate-inorganic-carbon-bicep/PIC_1-month_9km/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-201405-fv4.2.nc/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-201405-fv4.2.nc.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://constantinius.github.io/osc-demo/biological-pump-and-carbon-exchange-processes/particulate-inorganic-carbon-bicep/PIC_1-month_9km/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-201406-fv4.2.nc/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-201406-fv4.2.nc.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://constantinius.github.io/osc-demo/biological-pump-and-carbon-exchange-processes/particulate-inorganic-carbon-bicep/PIC_1-month_9km/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-201407-fv4.2.nc/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-201407-fv4.2.nc.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://constantinius.github.io/osc-demo/biological-pump-and-carbon-exchange-processes/particulate-inorganic-carbon-bicep/PIC_1-month_9km/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-201408-fv4.2.nc/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-201408-fv4.2.nc.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://constantinius.github.io/osc-demo/biological-pump-and-carbon-exchange-processes/particulate-inorganic-carbon-bicep/PIC_1-month_9km/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-201409-fv4.2.nc/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-201409-fv4.2.nc.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://constantinius.github.io/osc-demo/biological-pump-and-carbon-exchange-processes/particulate-inorganic-carbon-bicep/PIC_1-month_9km/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-201410-fv4.2.nc/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-201410-fv4.2.nc.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://constantinius.github.io/osc-demo/biological-pump-and-carbon-exchange-processes/particulate-inorganic-carbon-bicep/PIC_1-month_9km/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-201411-fv4.2.nc/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-201411-fv4.2.nc.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://constantinius.github.io/osc-demo/biological-pump-and-carbon-exchange-processes/particulate-inorganic-carbon-bicep/PIC_1-month_9km/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-201412-fv4.2.nc/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-201412-fv4.2.nc.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://constantinius.github.io/osc-demo/biological-pump-and-carbon-exchange-processes/particulate-inorganic-carbon-bicep/PIC_1-month_9km/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-201501-fv4.2.nc/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-201501-fv4.2.nc.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://constantinius.github.io/osc-demo/biological-pump-and-carbon-exchange-processes/particulate-inorganic-carbon-bicep/PIC_1-month_9km/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-201502-fv4.2.nc/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-201502-fv4.2.nc.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://constantinius.github.io/osc-demo/biological-pump-and-carbon-exchange-processes/particulate-inorganic-carbon-bicep/PIC_1-month_9km/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-201503-fv4.2.nc/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-201503-fv4.2.nc.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://constantinius.github.io/osc-demo/biological-pump-and-carbon-exchange-processes/particulate-inorganic-carbon-bicep/PIC_1-month_9km/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-201504-fv4.2.nc/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-201504-fv4.2.nc.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://constantinius.github.io/osc-demo/biological-pump-and-carbon-exchange-processes/particulate-inorganic-carbon-bicep/PIC_1-month_9km/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-201505-fv4.2.nc/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-201505-fv4.2.nc.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://constantinius.github.io/osc-demo/biological-pump-and-carbon-exchange-processes/particulate-inorganic-carbon-bicep/PIC_1-month_9km/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-201506-fv4.2.nc/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-201506-fv4.2.nc.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://constantinius.github.io/osc-demo/biological-pump-and-carbon-exchange-processes/particulate-inorganic-carbon-bicep/PIC_1-month_9km/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-201507-fv4.2.nc/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-201507-fv4.2.nc.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://constantinius.github.io/osc-demo/biological-pump-and-carbon-exchange-processes/particulate-inorganic-carbon-bicep/PIC_1-month_9km/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-201508-fv4.2.nc/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-201508-fv4.2.nc.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://constantinius.github.io/osc-demo/biological-pump-and-carbon-exchange-processes/particulate-inorganic-carbon-bicep/PIC_1-month_9km/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-201509-fv4.2.nc/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-201509-fv4.2.nc.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://constantinius.github.io/osc-demo/biological-pump-and-carbon-exchange-processes/particulate-inorganic-carbon-bicep/PIC_1-month_9km/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-201510-fv4.2.nc/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-201510-fv4.2.nc.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://constantinius.github.io/osc-demo/biological-pump-and-carbon-exchange-processes/particulate-inorganic-carbon-bicep/PIC_1-month_9km/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-201511-fv4.2.nc/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-201511-fv4.2.nc.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://constantinius.github.io/osc-demo/biological-pump-and-carbon-exchange-processes/particulate-inorganic-carbon-bicep/PIC_1-month_9km/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-201512-fv4.2.nc/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-201512-fv4.2.nc.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://constantinius.github.io/osc-demo/biological-pump-and-carbon-exchange-processes/particulate-inorganic-carbon-bicep/PIC_1-month_9km/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-201601-fv4.2.nc/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-201601-fv4.2.nc.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://constantinius.github.io/osc-demo/biological-pump-and-carbon-exchange-processes/particulate-inorganic-carbon-bicep/PIC_1-month_9km/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-201602-fv4.2.nc/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-201602-fv4.2.nc.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://constantinius.github.io/osc-demo/biological-pump-and-carbon-exchange-processes/particulate-inorganic-carbon-bicep/PIC_1-month_9km/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-201603-fv4.2.nc/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-201603-fv4.2.nc.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://constantinius.github.io/osc-demo/biological-pump-and-carbon-exchange-processes/particulate-inorganic-carbon-bicep/PIC_1-month_9km/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-201604-fv4.2.nc/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-201604-fv4.2.nc.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://constantinius.github.io/osc-demo/biological-pump-and-carbon-exchange-processes/particulate-inorganic-carbon-bicep/PIC_1-month_9km/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-201605-fv4.2.nc/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-201605-fv4.2.nc.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://constantinius.github.io/osc-demo/biological-pump-and-carbon-exchange-processes/particulate-inorganic-carbon-bicep/PIC_1-month_9km/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-201606-fv4.2.nc/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-201606-fv4.2.nc.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://constantinius.github.io/osc-demo/biological-pump-and-carbon-exchange-processes/particulate-inorganic-carbon-bicep/PIC_1-month_9km/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-201607-fv4.2.nc/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-201607-fv4.2.nc.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://constantinius.github.io/osc-demo/biological-pump-and-carbon-exchange-processes/particulate-inorganic-carbon-bicep/PIC_1-month_9km/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-201608-fv4.2.nc/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-201608-fv4.2.nc.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://constantinius.github.io/osc-demo/biological-pump-and-carbon-exchange-processes/particulate-inorganic-carbon-bicep/PIC_1-month_9km/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-201609-fv4.2.nc/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-201609-fv4.2.nc.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://constantinius.github.io/osc-demo/biological-pump-and-carbon-exchange-processes/particulate-inorganic-carbon-bicep/PIC_1-month_9km/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-201610-fv4.2.nc/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-201610-fv4.2.nc.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://constantinius.github.io/osc-demo/biological-pump-and-carbon-exchange-processes/particulate-inorganic-carbon-bicep/PIC_1-month_9km/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-201611-fv4.2.nc/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-201611-fv4.2.nc.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://constantinius.github.io/osc-demo/biological-pump-and-carbon-exchange-processes/particulate-inorganic-carbon-bicep/PIC_1-month_9km/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-201612-fv4.2.nc/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-201612-fv4.2.nc.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://constantinius.github.io/osc-demo/biological-pump-and-carbon-exchange-processes/particulate-inorganic-carbon-bicep/PIC_1-month_9km/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-201701-fv4.2.nc/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-201701-fv4.2.nc.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://constantinius.github.io/osc-demo/biological-pump-and-carbon-exchange-processes/particulate-inorganic-carbon-bicep/PIC_1-month_9km/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-201702-fv4.2.nc/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-201702-fv4.2.nc.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://constantinius.github.io/osc-demo/biological-pump-and-carbon-exchange-processes/particulate-inorganic-carbon-bicep/PIC_1-month_9km/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-201703-fv4.2.nc/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-201703-fv4.2.nc.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://constantinius.github.io/osc-demo/biological-pump-and-carbon-exchange-processes/particulate-inorganic-carbon-bicep/PIC_1-month_9km/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-201704-fv4.2.nc/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-201704-fv4.2.nc.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://constantinius.github.io/osc-demo/biological-pump-and-carbon-exchange-processes/particulate-inorganic-carbon-bicep/PIC_1-month_9km/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-201705-fv4.2.nc/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-201705-fv4.2.nc.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://constantinius.github.io/osc-demo/biological-pump-and-carbon-exchange-processes/particulate-inorganic-carbon-bicep/PIC_1-month_9km/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-201706-fv4.2.nc/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-201706-fv4.2.nc.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://constantinius.github.io/osc-demo/biological-pump-and-carbon-exchange-processes/particulate-inorganic-carbon-bicep/PIC_1-month_9km/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-201707-fv4.2.nc/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-201707-fv4.2.nc.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://constantinius.github.io/osc-demo/biological-pump-and-carbon-exchange-processes/particulate-inorganic-carbon-bicep/PIC_1-month_9km/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-201708-fv4.2.nc/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-201708-fv4.2.nc.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://constantinius.github.io/osc-demo/biological-pump-and-carbon-exchange-processes/particulate-inorganic-carbon-bicep/PIC_1-month_9km/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-201709-fv4.2.nc/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-201709-fv4.2.nc.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://constantinius.github.io/osc-demo/biological-pump-and-carbon-exchange-processes/particulate-inorganic-carbon-bicep/PIC_1-month_9km/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-201710-fv4.2.nc/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-201710-fv4.2.nc.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://constantinius.github.io/osc-demo/biological-pump-and-carbon-exchange-processes/particulate-inorganic-carbon-bicep/PIC_1-month_9km/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-201711-fv4.2.nc/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-201711-fv4.2.nc.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://constantinius.github.io/osc-demo/biological-pump-and-carbon-exchange-processes/particulate-inorganic-carbon-bicep/PIC_1-month_9km/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-201712-fv4.2.nc/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-201712-fv4.2.nc.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://constantinius.github.io/osc-demo/biological-pump-and-carbon-exchange-processes/particulate-inorganic-carbon-bicep/PIC_1-month_9km/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-201801-fv4.2.nc/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-201801-fv4.2.nc.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://constantinius.github.io/osc-demo/biological-pump-and-carbon-exchange-processes/particulate-inorganic-carbon-bicep/PIC_1-month_9km/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-201802-fv4.2.nc/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-201802-fv4.2.nc.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://constantinius.github.io/osc-demo/biological-pump-and-carbon-exchange-processes/particulate-inorganic-carbon-bicep/PIC_1-month_9km/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-201803-fv4.2.nc/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-201803-fv4.2.nc.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://constantinius.github.io/osc-demo/biological-pump-and-carbon-exchange-processes/particulate-inorganic-carbon-bicep/PIC_1-month_9km/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-201804-fv4.2.nc/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-201804-fv4.2.nc.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://constantinius.github.io/osc-demo/biological-pump-and-carbon-exchange-processes/particulate-inorganic-carbon-bicep/PIC_1-month_9km/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-201805-fv4.2.nc/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-201805-fv4.2.nc.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://constantinius.github.io/osc-demo/biological-pump-and-carbon-exchange-processes/particulate-inorganic-carbon-bicep/PIC_1-month_9km/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-201806-fv4.2.nc/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-201806-fv4.2.nc.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://constantinius.github.io/osc-demo/biological-pump-and-carbon-exchange-processes/particulate-inorganic-carbon-bicep/PIC_1-month_9km/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-201807-fv4.2.nc/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-201807-fv4.2.nc.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://constantinius.github.io/osc-demo/biological-pump-and-carbon-exchange-processes/particulate-inorganic-carbon-bicep/PIC_1-month_9km/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-201808-fv4.2.nc/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-201808-fv4.2.nc.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://constantinius.github.io/osc-demo/biological-pump-and-carbon-exchange-processes/particulate-inorganic-carbon-bicep/PIC_1-month_9km/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-201809-fv4.2.nc/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-201809-fv4.2.nc.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://constantinius.github.io/osc-demo/biological-pump-and-carbon-exchange-processes/particulate-inorganic-carbon-bicep/PIC_1-month_9km/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-201810-fv4.2.nc/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-201810-fv4.2.nc.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://constantinius.github.io/osc-demo/biological-pump-and-carbon-exchange-processes/particulate-inorganic-carbon-bicep/PIC_1-month_9km/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-201811-fv4.2.nc/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-201811-fv4.2.nc.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://constantinius.github.io/osc-demo/biological-pump-and-carbon-exchange-processes/particulate-inorganic-carbon-bicep/PIC_1-month_9km/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-201812-fv4.2.nc/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-201812-fv4.2.nc.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://constantinius.github.io/osc-demo/biological-pump-and-carbon-exchange-processes/particulate-inorganic-carbon-bicep/PIC_1-month_9km/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-201901-fv4.2.nc/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-201901-fv4.2.nc.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://constantinius.github.io/osc-demo/biological-pump-and-carbon-exchange-processes/particulate-inorganic-carbon-bicep/PIC_1-month_9km/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-201902-fv4.2.nc/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-201902-fv4.2.nc.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://constantinius.github.io/osc-demo/biological-pump-and-carbon-exchange-processes/particulate-inorganic-carbon-bicep/PIC_1-month_9km/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-201903-fv4.2.nc/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-201903-fv4.2.nc.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://constantinius.github.io/osc-demo/biological-pump-and-carbon-exchange-processes/particulate-inorganic-carbon-bicep/PIC_1-month_9km/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-201904-fv4.2.nc/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-201904-fv4.2.nc.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://constantinius.github.io/osc-demo/biological-pump-and-carbon-exchange-processes/particulate-inorganic-carbon-bicep/PIC_1-month_9km/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-201905-fv4.2.nc/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-201905-fv4.2.nc.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://constantinius.github.io/osc-demo/biological-pump-and-carbon-exchange-processes/particulate-inorganic-carbon-bicep/PIC_1-month_9km/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-201906-fv4.2.nc/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-201906-fv4.2.nc.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://constantinius.github.io/osc-demo/biological-pump-and-carbon-exchange-processes/particulate-inorganic-carbon-bicep/PIC_1-month_9km/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-201907-fv4.2.nc/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-201907-fv4.2.nc.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://constantinius.github.io/osc-demo/biological-pump-and-carbon-exchange-processes/particulate-inorganic-carbon-bicep/PIC_1-month_9km/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-201908-fv4.2.nc/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-201908-fv4.2.nc.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://constantinius.github.io/osc-demo/biological-pump-and-carbon-exchange-processes/particulate-inorganic-carbon-bicep/PIC_1-month_9km/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-201909-fv4.2.nc/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-201909-fv4.2.nc.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://constantinius.github.io/osc-demo/biological-pump-and-carbon-exchange-processes/particulate-inorganic-carbon-bicep/PIC_1-month_9km/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-201910-fv4.2.nc/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-201910-fv4.2.nc.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://constantinius.github.io/osc-demo/biological-pump-and-carbon-exchange-processes/particulate-inorganic-carbon-bicep/PIC_1-month_9km/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-201911-fv4.2.nc/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-201911-fv4.2.nc.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://constantinius.github.io/osc-demo/biological-pump-and-carbon-exchange-processes/particulate-inorganic-carbon-bicep/PIC_1-month_9km/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-201912-fv4.2.nc/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-201912-fv4.2.nc.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://constantinius.github.io/osc-demo/biological-pump-and-carbon-exchange-processes/particulate-inorganic-carbon-bicep/PIC_1-month_9km/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-202001-fv4.2.nc/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-202001-fv4.2.nc.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://constantinius.github.io/osc-demo/biological-pump-and-carbon-exchange-processes/particulate-inorganic-carbon-bicep/PIC_1-month_9km/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-202002-fv4.2.nc/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-202002-fv4.2.nc.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://constantinius.github.io/osc-demo/biological-pump-and-carbon-exchange-processes/particulate-inorganic-carbon-bicep/PIC_1-month_9km/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-202003-fv4.2.nc/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-202003-fv4.2.nc.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://constantinius.github.io/osc-demo/biological-pump-and-carbon-exchange-processes/particulate-inorganic-carbon-bicep/PIC_1-month_9km/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-202004-fv4.2.nc/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-202004-fv4.2.nc.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://constantinius.github.io/osc-demo/biological-pump-and-carbon-exchange-processes/particulate-inorganic-carbon-bicep/PIC_1-month_9km/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-202005-fv4.2.nc/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-202005-fv4.2.nc.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://constantinius.github.io/osc-demo/biological-pump-and-carbon-exchange-processes/particulate-inorganic-carbon-bicep/PIC_1-month_9km/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-202006-fv4.2.nc/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-202006-fv4.2.nc.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://constantinius.github.io/osc-demo/biological-pump-and-carbon-exchange-processes/particulate-inorganic-carbon-bicep/PIC_1-month_9km/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-202007-fv4.2.nc/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-202007-fv4.2.nc.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://constantinius.github.io/osc-demo/biological-pump-and-carbon-exchange-processes/particulate-inorganic-carbon-bicep/PIC_1-month_9km/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-202008-fv4.2.nc/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-202008-fv4.2.nc.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://constantinius.github.io/osc-demo/biological-pump-and-carbon-exchange-processes/particulate-inorganic-carbon-bicep/PIC_1-month_9km/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-202009-fv4.2.nc/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-202009-fv4.2.nc.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://constantinius.github.io/osc-demo/biological-pump-and-carbon-exchange-processes/particulate-inorganic-carbon-bicep/PIC_1-month_9km/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-202010-fv4.2.nc/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-202010-fv4.2.nc.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://constantinius.github.io/osc-demo/biological-pump-and-carbon-exchange-processes/particulate-inorganic-carbon-bicep/PIC_1-month_9km/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-202011-fv4.2.nc/BICEP_NCEO_PIC_ESA-OC-L3S-OC_PRODUCTS-MERGED-1M_MONTHLY_9km_GEO_PML_OCx_QAA-202011-fv4.2.nc.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "parent",
+      "href": "https://constantinius.github.io/osc-demo/biological-pump-and-carbon-exchange-processes/particulate-inorganic-carbon-bicep/collection.json",
+      "type": "application/json",
+      "title": "Particulate Inorganic Carbon"
+    },
+    {
+      "rel": "self",
+      "href": "https://constantinius.github.io/osc-demo/biological-pump-and-carbon-exchange-processes/particulate-inorganic-carbon-bicep/PIC_1-month_9km/catalog.json",
+      "type": "application/json"
+    }
+  ],
+  "stac_extensions": []
+}

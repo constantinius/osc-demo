@@ -57,7 +57,7 @@
     "variable:Wind stress",
     "region:Global"
   ],
-  "updated": "2023-04-03T10:43:08Z",
+  "updated": "2023-04-24T06:58:09Z",
   "assets": {
     "iso-metadata": {
       "href": "./iso.xml",
@@ -81,7 +81,7 @@
     "temporal": {
       "interval": [
         [
-          "0001-01-01T00:00:00Z",
+          "2019-01-01T00:00:00Z",
           "2009-12-31T23:00:00Z"
         ]
       ]
